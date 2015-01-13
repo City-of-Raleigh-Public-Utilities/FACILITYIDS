@@ -37,7 +37,7 @@ def enableEditorTarcking(feature_class):
     arcpy.EnableEditorTracking_management(feature_class, 'CREATEDBY', 'CREATEDON', 'EDITEDBY', 'EDITEDON', 'NO_ADD_FIELDS')
 
 
-def UpdateFACILITYID(fc, layerName, whereClause="FACILITYID IS NOT NULL"):
+def UpdateFACILITYID(fc, layerName, whereClause="FACILITYID IS NOT NULL AND FACILITYID NOT LIKE '___9%' AND FACILITYID NOT LIKE '____9%'"):
 
     LogMessage("Updating IDs for " + fc)
     arcpy.DisableEditorTracking_management(fc)
@@ -305,6 +305,8 @@ UpdateFACILITYID("RPUD.wSystemValve", "wSystemValves")
 UpdateFACILITYID("RPUD.wPressureMain", "wPressureMains")
 UpdateFACILITYID("RPUD.wHydrant", "wHydrants")
 UpdateFACILITYID("RPUD.wSamplingStation", "wSamplingStations")
+
+#Reuse
 
 
 
