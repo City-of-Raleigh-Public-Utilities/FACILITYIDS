@@ -36,7 +36,7 @@ def turnOffEditorTracking(feature_class):
 def enableEditorTarcking(feature_class):
     arcpy.EnableEditorTracking_management(feature_class, 'CREATEDBY', 'CREATEDON', 'EDITEDBY', 'EDITEDON', 'NO_ADD_FIELDS')
 
-
+#Selects features that are not null and not in the 900000 block of facility id
 def UpdateFACILITYID(fc, layerName, whereClause="FACILITYID IS NOT NULL AND FACILITYID NOT LIKE '___9%' AND FACILITYID NOT LIKE '____9%'"):
 
     LogMessage("Updating IDs for " + fc)
