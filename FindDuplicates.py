@@ -7,8 +7,8 @@ from colorama import init
 from colorama import Fore, Back, Style
 
 arcpy.env.overwriteOutput = True
-# arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'RPUD.sde')
-arcpy.env.workspace = 'Database Connections\\WHITEC.sde'
+arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'RPUD.sde')
+# arcpy.env.workspace = 'Database Connections\\WHITEC.sde'
 init(autoreset=True)
 datasetList = ["RPUD.SewerCollectionNetwork","RPUD.WaterDistributionNetwork"]
 logging.basicConfig(filename=os.path.join(os.path.dirname(sys.argv[0]),'duplicates.log'),level=logging.INFO, format='%(asctime)s %(message)s')
@@ -52,8 +52,8 @@ def getJoinTables ():
         if count > 0:
             joinTables.append(dupFeature)
     #Return to orginial workspace
-    # arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'RPUD.sde')
-    arcpy.env.workspace = 'Database Connections\\WHITEC.sde'
+    arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'RPUD.sde')
+    # arcpy.env.workspace = 'Database Connections\\WHITEC.sde'
     print(Fore.YELLOW + '\nWorkspace returned to %s \n' % arcpy.env.workspace)
     print(Fore.WHITE + '+' * 100)
     return joinTables
@@ -116,58 +116,62 @@ def removeDuplicates(duptable):
     fields = [infeature + '.FACILITYID']
     #Full path to duplicate tables
     duptable = os.path.join(os.path.dirname(sys.argv[0]), os.path.join('data', duptable))
-    try:
-        edit = arcpy.da.Editor(arcpy.env.workspace)
-        turnOffEditorTracking(infeature)
+    # try:
+    # edit = arcpy.da.Editor(arcpy.env.workspace)
+    turnOffEditorTracking(infeature)
 
         #Sets up environment by creating a feature layer and table view and inner joining the record sets
-        arcpy.MakeFeatureLayer_management(infeature, "feature")
-        arcpy.MakeTableView_management(duptable, "table")
-        join = arcpy.AddJoin_management( "feature", "OBJECTID", "table", "IN_FID", "KEEP_COMMON")
+    arcpy.MakeFeatureLayer_management(infeature, "feature")
+    arcpy.MakeTableView_management(duptable, "table")
+    join = arcpy.AddJoin_management( "feature", "OBJECTID", "table", "IN_FID", "KEEP_COMMON")
+
+
+    joinName = "%s.FACILITYID" % infeature
+
+    # Starts edit session
+    # edit.startEditing(False, True)
+    # edit.startOperation()
+    with arcpy.da.SearchCursor(join, fields, joinName + " IS NOT NULL", sql_clause=("DISTINCT", None)) as search:
+      unique = set(search)
+      for srow in unique:
+        facilityid = str(srow[0])
+        print "%s %s" % (facilityid, type(facilityid))
+
+        #Options from update cursor
+        updateOptions = {
+            'in_table': infeature,
+            'fields': ['FACILITYID', 'CREATEDON'],
+            'where_clause': joinName + " =  '" + facilityid + "'",
+            'sql_clause': (None, "ORDER BY CREATEDON ASC")
+        }
 
         #Starts edit session
-        edit.startEditing(False, True)
-        edit.startOperation()
-        joinName = "%s.FACILITYID" % infeature
-        with arcpy.da.SearchCursor(join, fields, joinName + " IS NOT NULL", sql_clause=("DISTINCT", None)) as search:
-          unique = set(search)
-          for srow in unique:
-              facilityid = str(srow[0])
-              print "%s %s" % (facilityid, type(facilityid))
-
-                # result = arcpy.SelectLayerByAttribute_management ('feature', "NEW_SELECTION",  joinName + " =  '" + facilityid + "'")
-                # seletionCount = int(arcpy.GetCount_management(result).getOutput(0))
-                # print seletionCount
-              updateOptions = {
-                  'in_table': infeature,
-                  'fields': ['%s.FACILITYID', "%s.EDITEDON"] % (infeature, infeature),
-                  'where_clause': joinName + " =  '" + facilityid + "'",
-                  'sql_clause': (None, "ORDER BY EDITEDON ASC")
-              }
-
-              with arcpy.da.UpdateCursor(updateOptions['in_table'], updateOptions['fields'], updateOptions['where_clause'], sql_clause=updateOptions['sql_clause']) as updateCursor:
-                  for row in updateCursor:
-                        if changes != 0:
-                            print "Original: %s %s" % (row[0], row[1])
-                            # updateCursor.updateRow(row)
-                            changes+=1
-                        else:
-                            print "Duplicate: %s %s" % (row[0], row[1])
-                            row[0] = None
-                            changes+=1
-        print(Fore.BLUE + "%d changes made to %s" % (changes, infeature))
-        logging.warning("%d changes made to %s" % (changes, infeature))
-        edit.stopOperation()
-        edit.stopEditing(True)
-        enableEditorTarcking(infeature)
-    except RuntimeError:
-        print(Fore.RED + arcpy.GetMessages())
-        pass
-    except:
-        edit.stopEditing(True)
-        enableEditorTarcking(infeature)
-        print arcpy.GetMessages()
-        print(Fore.RED + "Error, removeDuplicates failed")
+        with arcpy.da.Editor(arcpy.env.workspace) as edit:
+            with arcpy.da.UpdateCursor(updateOptions['in_table'], updateOptions['fields'], updateOptions['where_clause'], sql_clause=updateOptions['sql_clause']) as updateCursor:
+                for row in updateCursor:
+                    #Check for first record
+                    if changes == 0:
+                        print "Original: %s, %s" % (row[0], row[1])
+                        changes+=1
+                    #Sets existing FACILITYID to None
+                    else:
+                        print "Duplicate: %s, %s" % (row[0], row[1])
+                        row[0] = None
+                        # updateCursor.updateRow(row)
+                        changes+=1
+    print(Fore.WHITE + "%d changes made to %s" % (changes - 1, infeature))
+    logging.warning("%d changes made to %s" % (changes -1 , infeature))
+    # edit.stopOperation()
+    # edit.stopEditing(True)
+    enableEditorTarcking(infeature)
+    # except RuntimeError:
+    #     print(Fore.RED + arcpy.GetMessages())
+    #     pass
+    # except:
+        # edit.stopEditing(True)
+        # enableEditorTarcking(infeature)
+        # print arcpy.GetMessages()
+        # print(Fore.RED + "Error, removeDuplicates failed")
 
 
 def main():
