@@ -21,13 +21,13 @@ def getArguments (datasetList):
         for f in featureClass:
             arguments.append(f)
     print '%d Argument Created...\n' % len(arguments)
-    return arguments 
+    return arguments
 
 
 def findDuplicateFacilityIDs(infeature):
     try:
         print 'Finding Duplicates in %s' % infeature
-        out_folder_path = os.path.dirname(sys.argv[0])
+        out_folder_path = os.path.join(os.path.dirname(sys.argv[0]), 'data')
         name = infeature[5:] + '.dbf'
         output = os.path.join(out_folder_path, name)
         arcpy.FindIdentical_management(infeature, output, "FACILITYID", "", "0", "ONLY_DUPLICATES")
@@ -42,7 +42,7 @@ def getJoinTables ():
     print '\n'
     print(Fore.WHITE + '+' * 100 + '\n')
     #Switch Workspace to duplicates file geodatabase
-    arcpy.env.workspace = os.path.dirname(sys.argv[0])
+    arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'data')
     print(Fore.YELLOW + 'Workspace changed to %s \n' % arcpy.env.workspace)
     duplicate_features = arcpy.ListTables()
     for dupFeature in duplicate_features:
@@ -58,7 +58,7 @@ def getJoinTables ():
     print(Fore.WHITE + '+' * 100)
     return joinTables
 
-    
+
 def turnOffEditorTracking(feature_class):
     arcpy.DisableEditorTracking_management(feature_class)
     print(Fore.YELLOW + 'Editor Tracking Disabled on %s' % feature_class)
@@ -79,7 +79,7 @@ def removeDuplicates(duptable):
         turnOffEditorTracking(infeature)
         arcpy.MakeFeatureLayer_management(infeature, "feature")
         arcpy.MakeTableView_management(duptable, "table")
-        edit.startEditing(False, True)                      
+        edit.startEditing(False, True)
         edit.startOperation()
         with arcpy.da.SearchCursor("table", "IN_FID") as search:
             for srow in search:
@@ -104,7 +104,7 @@ def removeDuplicates(duptable):
         print arcpy.GetMessages()
         print(Fore.RED + "Error, removeDuplicates failed")
 
-             
+
 def main():
     logging.warning('-- Last Started.')
     data = getArguments(datasetList)
@@ -113,13 +113,11 @@ def main():
     pool.close()
     pool.join()
     joinList = getJoinTables()
-    for each in joinList:
-        removeDuplicates(each)
+    # for each in joinList:
+    #     removeDuplicates(each)
 
 
     logging.warning('End of Update')
 
 if __name__ == '__main__':
-    main()             
-
-
+    main()
