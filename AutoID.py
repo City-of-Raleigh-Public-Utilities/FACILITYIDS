@@ -278,37 +278,39 @@ LogMessage("********  START OF AUTOID.py  **********")
 #
 # Sewer
 #
-UpdateFACILITYID("RPUD.ssCleanOut", "ssCleanOuts")
-UpdateFACILITYID("RPUD.ssControlValve", "ssControlValves")
-UpdateFACILITYID("RPUD.ssFitting", "ssFittings")
-UpdateFACILITYID("RPUD.ssForceMain", "ssForceMains")
-UpdateFACILITYID("RPUD.ssGravityMain", "ssGravityMains")
-UpdateFACILITYID("RPUD.ssLateralLine", "ssLateralLines")
-UpdateFACILITYID("RPUD.ssAerial", "ssAerials")
+UpdateFACILITYID("RPUD.ssCleanOut", "ssCleanOuts1")
+UpdateFACILITYID("RPUD.ssControlValve", "ssControlValves1")
+UpdateFACILITYID("RPUD.ssFitting", "ssFittings1")
+UpdateFACILITYID("RPUD.ssForceMain", "ssForceMains1")
+UpdateFACILITYID("RPUD.ssGravityMain", "ssGravityMains1")
+UpdateFACILITYID("RPUD.ssLateralLine", "ssLateralLines1")
+UpdateFACILITYID("RPUD.ssAerial", "ssAerials1")
 
 # # # #
 
-UpdateFACILITYID("RPUD.ssManhole", "ssManholes")
-UpdateMHNumbers("RPUD.ssGravityMain","RPUD.ssManhole")
+UpdateFACILITYID("RPUD.ssManhole", "ssManholes1")
+UpdateMHNumbers("RPUD.ssGravityMain","RPUD.ssManhole1")
 
 
 
 #
 # Water
 #
-UpdateFACILITYID("RPUD.wControlValve", "wControlValves")
-UpdateFACILITYID("RPUD.wFitting", "wFittings")
-UpdateFACILITYID("RPUD.wGravityMain", "wGravityMains")
-UpdateFACILITYID("RPUD.wLateralLine", "wLateralLines")
-UpdateFACILITYID("RPUD.wServiceConnection", "wServiceConnections")
-UpdateFACILITYID("RPUD.wSystemValve", "wSystemValves")
-UpdateFACILITYID("RPUD.wPressureMain", "wPressureMains")
-UpdateFACILITYID("RPUD.wHydrant", "wHydrants")
-UpdateFACILITYID("RPUD.wSamplingStation", "wSamplingStations")
+UpdateFACILITYID("RPUD.wControlValve", "wControlValves1")
+UpdateFACILITYID("RPUD.wFitting", "wFittings1")
+UpdateFACILITYID("RPUD.wGravityMain", "wGravityMains1")
+UpdateFACILITYID("RPUD.wLateralLine", "wLateralLines1")
+UpdateFACILITYID("RPUD.wServiceConnection", "wServiceConnections1")
+UpdateFACILITYID("RPUD.wSystemValve", "wSystemValves1")
+UpdateFACILITYID("RPUD.wPressureMain", "wPressureMains1")
+UpdateFACILITYID("RPUD.wHydrant", "wHydrants1")
+UpdateFACILITYID("RPUD.wSamplingStation", "wSamplingStations1")
 
 #Reuse
 
+#PU_Boundaries
 
+UpdateFACILITYID("RPUD.EasementMaintenanceAreas", "emas")
 
 LogMessage("********  STOP OF AUTOID.py  **********")
 LogMessage("")
