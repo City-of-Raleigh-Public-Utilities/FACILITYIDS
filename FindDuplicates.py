@@ -7,8 +7,8 @@ from colorama import init
 from colorama import Fore, Back, Style
 
 arcpy.env.overwriteOutput = True
-arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'RPUD.sde')
-# arcpy.env.workspace = 'C:/Users/whitect/AppData/Roaming/ESRI/Desktop10.2/ArcCatalog/WHITEC connection to sde.sde'
+# arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'RPUD.sde')
+arcpy.env.workspace = 'Database Connections\\WHITEC.sde'
 init(autoreset=True)
 datasetList = ["RPUD.SewerCollectionNetwork","RPUD.WaterDistributionNetwork"]
 logging.basicConfig(filename=os.path.join(os.path.dirname(sys.argv[0]),'duplicates.log'),level=logging.INFO, format='%(asctime)s %(message)s')
@@ -53,7 +53,7 @@ def getJoinTables ():
             joinTables.append(dupFeature)
     #Return to orginial workspace
     # arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'RPUD.sde')
-    arcpy.env.workspace = 'Database Connections/WHITEC.sde'
+    arcpy.env.workspace = 'Database Connections\\WHITEC.sde'
     print(Fore.YELLOW + '\nWorkspace returned to %s \n' % arcpy.env.workspace)
     print(Fore.WHITE + '+' * 100)
     return joinTables
@@ -106,18 +106,26 @@ def enableEditorTarcking(feature_class):
 #         print(Fore.RED + "Error, removeDuplicates failed")
 
 def removeDuplicates(duptable):
+    #Gets the feature name from the table name by removing file extesion and adding RPUD to the beginning (ex. RPUD.ssGravityMains)
     infeature = 'RPUD.' + duptable.split('.')[0]
+    #Gets the table name without the file extension (ex. ssGravityMains)
     intableName = duptable.split('.')[0]
     print 'Removeing Duplicates in %s' % infeature
+    #Placeholder that will count the number of changes to a feature class, is also used in logic structure to determine the first record in a selection
     changes = 0
     fields = [infeature + '.FACILITYID']
+    #Full path to duplicate tables
     duptable = os.path.join(os.path.dirname(sys.argv[0]), os.path.join('data', duptable))
     try:
         edit = arcpy.da.Editor(arcpy.env.workspace)
         turnOffEditorTracking(infeature)
+
+        #Sets up environment by creating a feature layer and table view and inner joining the record sets
         arcpy.MakeFeatureLayer_management(infeature, "feature")
         arcpy.MakeTableView_management(duptable, "table")
         join = arcpy.AddJoin_management( "feature", "OBJECTID", "table", "IN_FID", "KEEP_COMMON")
+
+        #Starts edit session
         edit.startEditing(False, True)
         edit.startOperation()
         joinName = "%s.FACILITYID" % infeature
