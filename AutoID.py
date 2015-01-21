@@ -289,7 +289,7 @@ UpdateFACILITYID("RPUD.ssAerial", "ssAerials1")
 # # # #
 
 UpdateFACILITYID("RPUD.ssManhole", "ssManholes1")
-UpdateMHNumbers("RPUD.ssGravityMain","RPUD.ssManhole1")
+UpdateMHNumbers("RPUD.ssGravityMain","RPUD.ssManhole")
 
 
 
@@ -310,7 +310,7 @@ UpdateFACILITYID("RPUD.wSamplingStation", "wSamplingStations1")
 
 #PU_Boundaries
 
-UpdateFACILITYID("RPUD.EasementMaintenanceAreas", "emas")
+# UpdateFACILITYID("RPUD.EasementMaintenanceAreas", "emas")
 
 LogMessage("********  STOP OF AUTOID.py  **********")
 LogMessage("")

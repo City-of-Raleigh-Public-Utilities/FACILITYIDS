@@ -111,13 +111,15 @@ def removeDuplicates(duptable):
     #Gets the table name without the file extension (ex. ssGravityMains)
     intableName = duptable.split('.')[0]
     print 'Removeing Duplicates in %s' % infeature
-    #Placeholder that will count the number of changes to a feature class, is also used in logic structure to determine the first record in a selection
-    changes = 0
+
+    #Tracks total changes on feature class
+    totalchanges = 0
+
     fields = [infeature + '.FACILITYID']
     #Full path to duplicate tables
     duptable = os.path.join(os.path.dirname(sys.argv[0]), os.path.join('data', duptable))
     # try:
-  
+
     turnOffEditorTracking(infeature)
 
         #Sets up environment by creating a feature layer and table view and inner joining the record sets
@@ -141,7 +143,8 @@ def removeDuplicates(duptable):
             'where_clause': joinName + " =  '" + facilityid + "'",
             'sql_clause': (None, "ORDER BY OBJECTID ASC")
         }
-
+        #Placeholder that will count the number of changes to a feature class, is also used in logic structure to determine the first record in a selection
+        changes = 0
         #Starts edit session
         with arcpy.da.Editor(arcpy.env.workspace) as edit:
             with arcpy.da.UpdateCursor(updateOptions['in_table'], updateOptions['fields'], updateOptions['where_clause'], sql_clause=updateOptions['sql_clause']) as updateCursor:
@@ -154,10 +157,11 @@ def removeDuplicates(duptable):
                     else:
                         print "Duplicate: %s, %s" % (row[0], row[1])
                         row[0] = None
-                        # updateCursor.updateRow(row)
+                        updateCursor.updateRow(row)
                         changes+=1
-    print(Fore.WHITE + "%d changes made to %s" % (changes - 1, infeature))
-    logging.warning("%d changes made to %s" % (changes -1 , infeature))
+                        totalchanges+=1
+    print(Fore.WHITE + "%d changes made to %s" % (totalchanges, infeature))
+    logging.warning("%d changes made to %s" % (totalchanges, infeature))
 
     enableEditorTarcking(infeature)
     # except RuntimeError:
@@ -171,12 +175,12 @@ def removeDuplicates(duptable):
 
 
 def main():
-    # logging.warning('-- Last Started.')
-    # data = getArguments(datasetList)
-    # pool = multiprocessing.Pool(10)
-    # pool.map_async(findDuplicateFacilityIDs, data)
-    # pool.close()
-    # pool.join()
+    logging.warning('-- Last Started.')
+    data = getArguments(datasetList)
+    pool = multiprocessing.Pool(10)
+    pool.map_async(findDuplicateFacilityIDs, data)
+    pool.close()
+    pool.join()
     joinList = getJoinTables()
     for each in joinList:
         removeDuplicates(each)
