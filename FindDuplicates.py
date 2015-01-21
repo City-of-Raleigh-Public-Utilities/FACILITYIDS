@@ -117,7 +117,7 @@ def removeDuplicates(duptable):
     #Full path to duplicate tables
     duptable = os.path.join(os.path.dirname(sys.argv[0]), os.path.join('data', duptable))
     # try:
-    # edit = arcpy.da.Editor(arcpy.env.workspace)
+  
     turnOffEditorTracking(infeature)
 
         #Sets up environment by creating a feature layer and table view and inner joining the record sets
@@ -128,9 +128,6 @@ def removeDuplicates(duptable):
 
     joinName = "%s.FACILITYID" % infeature
 
-    # Starts edit session
-    # edit.startEditing(False, True)
-    # edit.startOperation()
     with arcpy.da.SearchCursor(join, fields, joinName + " IS NOT NULL", sql_clause=("DISTINCT", None)) as search:
       unique = set(search)
       for srow in unique:
@@ -161,8 +158,7 @@ def removeDuplicates(duptable):
                         changes+=1
     print(Fore.WHITE + "%d changes made to %s" % (changes - 1, infeature))
     logging.warning("%d changes made to %s" % (changes -1 , infeature))
-    # edit.stopOperation()
-    # edit.stopEditing(True)
+
     enableEditorTarcking(infeature)
     # except RuntimeError:
     #     print(Fore.RED + arcpy.GetMessages())
