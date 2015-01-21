@@ -142,7 +142,7 @@ def removeDuplicates(duptable):
             'in_table': infeature,
             'fields': ['FACILITYID', 'CREATEDON'],
             'where_clause': joinName + " =  '" + facilityid + "'",
-            'sql_clause': (None, "ORDER BY CREATEDON ASC")
+            'sql_clause': (None, "ORDER BY OBJECTID ASC")
         }
 
         #Starts edit session
