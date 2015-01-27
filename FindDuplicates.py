@@ -177,12 +177,12 @@ def removeDuplicates(duptable):
 
 
 def main():
-    # logging.warning('-- Last Started.')
-    # data = getArguments(datasetList)
-    # pool = multiprocessing.Pool(10)
-    # pool.map_async(findDuplicateFacilityIDs, data)
-    # pool.close()
-    # pool.join()
+    logging.warning('-- Last Started.')
+    data = getArguments(datasetList)
+    pool = multiprocessing.Pool(10)
+    pool.map_async(findDuplicateFacilityIDs, data)
+    pool.close()
+    pool.join()
     joinList = getJoinTables()
     for each in joinList:
         removeDuplicates(each)
