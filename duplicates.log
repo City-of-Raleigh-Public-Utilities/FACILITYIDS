@@ -3490,3 +3490,1200 @@
 2015-01-21 17:55:25,075 0 changes made to RPUD.wPressureZone
 2015-01-21 17:55:35,525 22 changes made to RPUD.wSystemValve
 2015-01-21 17:55:36,905 End of Update
+2015-01-21 18:49:27,312 -- Last Started.
+2015-01-21 18:53:42,190 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 18:53:42,211 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 18:53:42,230 ssAerial.dbf has 2 duplicates
+2015-01-21 18:53:42,250 ssCasing.dbf has 53 duplicates
+2015-01-21 18:53:42,269 ssCleanOut.dbf has 0 duplicates
+2015-01-21 18:53:42,288 ssControlValve.dbf has 2 duplicates
+2015-01-21 18:53:42,308 ssFitting.dbf has 9 duplicates
+2015-01-21 18:53:42,328 ssForceMain.dbf has 140 duplicates
+2015-01-21 18:53:42,348 ssGravityMain.dbf has 1502 duplicates
+2015-01-21 18:53:42,367 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 18:53:42,387 ssLateralLine.dbf has 27 duplicates
+2015-01-21 18:53:42,407 ssManhole.dbf has 939 duplicates
+2015-01-21 18:53:42,427 ssMeterStation.dbf has 0 duplicates
+2015-01-21 18:53:42,447 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 18:53:42,467 ssSystemValve.dbf has 66 duplicates
+2015-01-21 18:53:42,487 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 18:53:42,507 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 18:53:42,526 wCasing.dbf has 52 duplicates
+2015-01-21 18:53:42,548 wControlValve.dbf has 0 duplicates
+2015-01-21 18:53:42,568 wFitting.dbf has 61 duplicates
+2015-01-21 18:53:42,588 wGravityMain.dbf has 0 duplicates
+2015-01-21 18:53:42,608 wHydrant.dbf has 0 duplicates
+2015-01-21 18:53:42,628 wLateralLine.dbf has 116 duplicates
+2015-01-21 18:53:42,648 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 18:53:42,667 wNewHydrants.dbf has 0 duplicates
+2015-01-21 18:53:42,688 wPressureMain.dbf has 3005 duplicates
+2015-01-21 18:53:42,709 wPressureZone.dbf has 10 duplicates
+2015-01-21 18:53:42,730 wSamplingStation.dbf has 0 duplicates
+2015-01-21 18:53:42,749 wServiceConnection.dbf has 0 duplicates
+2015-01-21 18:53:42,769 wSystemValve.dbf has 25 duplicates
+2015-01-21 18:53:48,085 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 18:53:50,954 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 18:55:32,851 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 18:55:32,871 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 18:55:32,891 ssAerial.dbf has 2 duplicates
+2015-01-21 18:55:32,911 ssCasing.dbf has 53 duplicates
+2015-01-21 18:55:32,928 ssCleanOut.dbf has 0 duplicates
+2015-01-21 18:55:32,947 ssControlValve.dbf has 2 duplicates
+2015-01-21 18:55:32,966 ssFitting.dbf has 9 duplicates
+2015-01-21 18:55:32,983 ssForceMain.dbf has 140 duplicates
+2015-01-21 18:55:33,003 ssGravityMain.dbf has 1502 duplicates
+2015-01-21 18:55:33,020 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 18:55:33,039 ssLateralLine.dbf has 27 duplicates
+2015-01-21 18:55:33,058 ssManhole.dbf has 939 duplicates
+2015-01-21 18:55:33,075 ssMeterStation.dbf has 0 duplicates
+2015-01-21 18:55:33,094 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 18:55:33,111 ssSystemValve.dbf has 66 duplicates
+2015-01-21 18:55:33,130 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 18:55:33,148 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 18:55:33,167 wCasing.dbf has 52 duplicates
+2015-01-21 18:55:33,184 wControlValve.dbf has 0 duplicates
+2015-01-21 18:55:33,203 wFitting.dbf has 61 duplicates
+2015-01-21 18:55:33,221 wGravityMain.dbf has 0 duplicates
+2015-01-21 18:55:33,240 wHydrant.dbf has 0 duplicates
+2015-01-21 18:55:33,259 wLateralLine.dbf has 116 duplicates
+2015-01-21 18:55:33,276 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 18:55:33,295 wNewHydrants.dbf has 0 duplicates
+2015-01-21 18:55:33,313 wPressureMain.dbf has 3005 duplicates
+2015-01-21 18:55:33,332 wPressureZone.dbf has 10 duplicates
+2015-01-21 18:55:33,351 wSamplingStation.dbf has 0 duplicates
+2015-01-21 18:55:33,368 wServiceConnection.dbf has 0 duplicates
+2015-01-21 18:55:33,388 wSystemValve.dbf has 25 duplicates
+2015-01-21 18:55:36,516 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 18:55:39,457 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 18:57:10,178 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 18:57:10,198 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 18:57:10,217 ssAerial.dbf has 2 duplicates
+2015-01-21 18:57:10,234 ssCasing.dbf has 53 duplicates
+2015-01-21 18:57:10,253 ssCleanOut.dbf has 0 duplicates
+2015-01-21 18:57:10,270 ssControlValve.dbf has 2 duplicates
+2015-01-21 18:57:10,289 ssFitting.dbf has 9 duplicates
+2015-01-21 18:57:10,309 ssForceMain.dbf has 140 duplicates
+2015-01-21 18:57:10,326 ssGravityMain.dbf has 1502 duplicates
+2015-01-21 18:57:10,345 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 18:57:10,364 ssLateralLine.dbf has 27 duplicates
+2015-01-21 18:57:10,381 ssManhole.dbf has 939 duplicates
+2015-01-21 18:57:10,400 ssMeterStation.dbf has 0 duplicates
+2015-01-21 18:57:10,418 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 18:57:10,437 ssSystemValve.dbf has 66 duplicates
+2015-01-21 18:57:10,454 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 18:57:10,473 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 18:57:10,492 wCasing.dbf has 52 duplicates
+2015-01-21 18:57:10,509 wControlValve.dbf has 0 duplicates
+2015-01-21 18:57:10,528 wFitting.dbf has 61 duplicates
+2015-01-21 18:57:10,546 wGravityMain.dbf has 0 duplicates
+2015-01-21 18:57:10,565 wHydrant.dbf has 0 duplicates
+2015-01-21 18:57:10,584 wLateralLine.dbf has 116 duplicates
+2015-01-21 18:57:10,602 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 18:57:10,621 wNewHydrants.dbf has 0 duplicates
+2015-01-21 18:57:10,640 wPressureMain.dbf has 3005 duplicates
+2015-01-21 18:57:10,658 wPressureZone.dbf has 10 duplicates
+2015-01-21 18:57:10,677 wSamplingStation.dbf has 0 duplicates
+2015-01-21 18:57:10,694 wServiceConnection.dbf has 0 duplicates
+2015-01-21 18:57:10,713 wSystemValve.dbf has 25 duplicates
+2015-01-21 18:57:13,756 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 18:57:16,746 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 18:58:50,964 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 18:58:50,983 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 18:58:51,002 ssAerial.dbf has 2 duplicates
+2015-01-21 18:58:51,019 ssCasing.dbf has 53 duplicates
+2015-01-21 18:58:51,038 ssCleanOut.dbf has 0 duplicates
+2015-01-21 18:58:51,056 ssControlValve.dbf has 2 duplicates
+2015-01-21 18:58:51,078 ssFitting.dbf has 9 duplicates
+2015-01-21 18:58:51,098 ssForceMain.dbf has 140 duplicates
+2015-01-21 18:58:51,117 ssGravityMain.dbf has 1502 duplicates
+2015-01-21 18:58:51,137 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 18:58:51,155 ssLateralLine.dbf has 27 duplicates
+2015-01-21 18:58:51,174 ssManhole.dbf has 939 duplicates
+2015-01-21 18:58:51,194 ssMeterStation.dbf has 0 duplicates
+2015-01-21 18:58:51,213 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 18:58:51,233 ssSystemValve.dbf has 66 duplicates
+2015-01-21 18:58:51,253 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 18:58:51,272 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 18:58:51,290 wCasing.dbf has 52 duplicates
+2015-01-21 18:58:51,309 wControlValve.dbf has 0 duplicates
+2015-01-21 18:58:51,329 wFitting.dbf has 61 duplicates
+2015-01-21 18:58:51,348 wGravityMain.dbf has 0 duplicates
+2015-01-21 18:58:51,368 wHydrant.dbf has 0 duplicates
+2015-01-21 18:58:51,388 wLateralLine.dbf has 116 duplicates
+2015-01-21 18:58:51,408 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 18:58:51,428 wNewHydrants.dbf has 0 duplicates
+2015-01-21 18:58:51,448 wPressureMain.dbf has 3005 duplicates
+2015-01-21 18:58:51,467 wPressureZone.dbf has 10 duplicates
+2015-01-21 18:58:51,486 wSamplingStation.dbf has 0 duplicates
+2015-01-21 18:58:51,506 wServiceConnection.dbf has 0 duplicates
+2015-01-21 18:58:51,528 wSystemValve.dbf has 25 duplicates
+2015-01-21 18:58:54,617 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 18:58:57,585 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:01:25,204 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:01:25,223 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:01:25,242 ssAerial.dbf has 2 duplicates
+2015-01-21 19:01:25,259 ssCasing.dbf has 53 duplicates
+2015-01-21 19:01:25,278 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:01:25,296 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:01:25,313 ssFitting.dbf has 9 duplicates
+2015-01-21 19:01:25,332 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:01:25,351 ssGravityMain.dbf has 1502 duplicates
+2015-01-21 19:01:25,369 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:01:25,387 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:01:25,405 ssManhole.dbf has 939 duplicates
+2015-01-21 19:01:25,424 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:01:25,444 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:01:25,463 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:01:25,483 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:01:25,502 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:01:25,520 wCasing.dbf has 52 duplicates
+2015-01-21 19:01:25,539 wControlValve.dbf has 0 duplicates
+2015-01-21 19:01:25,558 wFitting.dbf has 61 duplicates
+2015-01-21 19:01:25,576 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:01:25,595 wHydrant.dbf has 0 duplicates
+2015-01-21 19:01:25,615 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:01:25,634 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:01:25,653 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:01:25,671 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:01:25,690 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:01:25,710 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:01:25,729 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:01:25,746 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:01:28,927 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:01:31,924 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:03:55,138 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:03:55,157 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:03:55,177 ssAerial.dbf has 2 duplicates
+2015-01-21 19:03:55,196 ssCasing.dbf has 53 duplicates
+2015-01-21 19:03:55,213 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:03:55,232 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:03:55,250 ssFitting.dbf has 9 duplicates
+2015-01-21 19:03:55,266 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:03:55,286 ssGravityMain.dbf has 1502 duplicates
+2015-01-21 19:03:55,303 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:03:55,322 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:03:55,342 ssManhole.dbf has 939 duplicates
+2015-01-21 19:03:55,361 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:03:55,380 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:03:55,398 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:03:55,417 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:03:55,436 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:03:55,453 wCasing.dbf has 52 duplicates
+2015-01-21 19:03:55,473 wControlValve.dbf has 0 duplicates
+2015-01-21 19:03:55,492 wFitting.dbf has 61 duplicates
+2015-01-21 19:03:55,510 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:03:55,529 wHydrant.dbf has 0 duplicates
+2015-01-21 19:03:55,548 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:03:55,566 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:03:55,585 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:03:55,602 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:03:55,621 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:03:55,638 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:03:55,657 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:03:55,674 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:04:00,160 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:04:04,427 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:04:08,227 0 changes made to RPUD.ssAerial
+2015-01-21 19:04:12,467 0 changes made to RPUD.ssCasing
+2015-01-21 19:04:17,368 0 changes made to RPUD.ssControlValve
+2015-01-21 19:04:23,025 0 changes made to RPUD.ssFitting
+2015-01-21 19:04:27,437 0 changes made to RPUD.ssForceMain
+2015-01-21 19:04:32,117 0 changes made to RPUD.ssGravityMain
+2015-01-21 19:04:36,960 0 changes made to RPUD.ssGreaseTrap
+2015-01-21 19:04:40,903 0 changes made to RPUD.ssLateralLine
+2015-01-21 19:05:05,405 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:05:05,426 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:05:05,444 ssAerial.dbf has 2 duplicates
+2015-01-21 19:05:05,461 ssCasing.dbf has 53 duplicates
+2015-01-21 19:05:05,480 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:05:05,499 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:05:05,516 ssFitting.dbf has 9 duplicates
+2015-01-21 19:05:05,533 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:05:05,552 ssGravityMain.dbf has 1502 duplicates
+2015-01-21 19:05:05,572 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:05:05,589 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:05:05,608 ssManhole.dbf has 939 duplicates
+2015-01-21 19:05:05,627 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:05:05,644 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:05:05,663 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:05:05,681 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:05:05,700 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:05:05,719 wCasing.dbf has 52 duplicates
+2015-01-21 19:05:05,736 wControlValve.dbf has 0 duplicates
+2015-01-21 19:05:05,756 wFitting.dbf has 61 duplicates
+2015-01-21 19:05:05,775 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:05:05,792 wHydrant.dbf has 0 duplicates
+2015-01-21 19:05:05,811 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:05:05,828 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:05:05,848 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:05:05,867 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:05:05,884 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:05:05,904 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:05:05,923 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:05:05,940 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:05:09,239 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:05:12,203 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:12:14,977 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:12:14,996 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:12:15,015 ssAerial.dbf has 2 duplicates
+2015-01-21 19:12:15,032 ssCasing.dbf has 53 duplicates
+2015-01-21 19:12:15,049 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:12:15,066 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:12:15,085 ssFitting.dbf has 9 duplicates
+2015-01-21 19:12:15,101 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:12:15,121 ssGravityMain.dbf has 1502 duplicates
+2015-01-21 19:12:15,138 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:12:15,157 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:12:15,176 ssManhole.dbf has 939 duplicates
+2015-01-21 19:12:15,194 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:12:15,213 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:12:15,230 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:12:15,249 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:12:15,266 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:12:15,282 wCasing.dbf has 52 duplicates
+2015-01-21 19:12:15,299 wControlValve.dbf has 0 duplicates
+2015-01-21 19:12:15,316 wFitting.dbf has 61 duplicates
+2015-01-21 19:12:15,334 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:12:15,354 wHydrant.dbf has 0 duplicates
+2015-01-21 19:12:15,372 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:12:15,391 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:12:15,410 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:12:15,430 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:12:15,447 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:12:15,467 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:12:15,486 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:12:15,503 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:12:18,759 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:12:21,803 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:13:56,801 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:13:56,821 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:13:56,841 ssAerial.dbf has 2 duplicates
+2015-01-21 19:13:56,859 ssCasing.dbf has 53 duplicates
+2015-01-21 19:13:56,878 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:13:56,898 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:13:56,915 ssFitting.dbf has 9 duplicates
+2015-01-21 19:13:56,934 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:13:56,953 ssGravityMain.dbf has 1502 duplicates
+2015-01-21 19:13:56,970 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:13:56,990 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:13:57,009 ssManhole.dbf has 939 duplicates
+2015-01-21 19:13:57,029 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:13:57,048 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:13:57,068 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:13:57,086 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:13:57,105 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:13:57,124 wCasing.dbf has 52 duplicates
+2015-01-21 19:13:57,142 wControlValve.dbf has 0 duplicates
+2015-01-21 19:13:57,161 wFitting.dbf has 61 duplicates
+2015-01-21 19:13:57,180 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:13:57,197 wHydrant.dbf has 0 duplicates
+2015-01-21 19:13:57,217 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:13:57,234 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:13:57,253 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:13:57,270 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:13:57,289 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:13:57,308 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:13:57,326 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:13:57,345 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:14:00,476 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:14:03,556 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:14:08,170 0 changes made to RPUD.ssAerial
+2015-01-21 19:14:11,507 0 changes made to RPUD.ssCasing
+2015-01-21 19:23:42,069 -- Last Started.
+2015-01-21 19:28:11,677 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:28:11,697 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:28:11,717 ssAerial.dbf has 2 duplicates
+2015-01-21 19:28:11,736 ssCasing.dbf has 53 duplicates
+2015-01-21 19:28:11,755 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:28:11,773 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:28:11,793 ssFitting.dbf has 0 duplicates
+2015-01-21 19:28:11,812 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:28:11,832 ssGravityMain.dbf has 747 duplicates
+2015-01-21 19:28:11,851 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:28:11,871 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:28:11,890 ssManhole.dbf has 0 duplicates
+2015-01-21 19:28:11,910 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:28:11,930 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:28:11,950 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:28:11,970 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:28:11,990 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:28:12,009 wCasing.dbf has 52 duplicates
+2015-01-21 19:28:12,029 wControlValve.dbf has 0 duplicates
+2015-01-21 19:28:12,049 wFitting.dbf has 61 duplicates
+2015-01-21 19:28:12,069 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:28:12,088 wHydrant.dbf has 0 duplicates
+2015-01-21 19:28:12,107 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:28:12,127 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:28:12,148 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:28:12,167 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:28:12,187 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:28:12,207 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:28:12,226 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:28:12,246 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:28:17,631 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:28:21,028 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:29:42,263 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:29:42,282 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:29:42,301 ssAerial.dbf has 2 duplicates
+2015-01-21 19:29:42,319 ssCasing.dbf has 53 duplicates
+2015-01-21 19:29:42,339 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:29:42,358 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:29:42,377 ssFitting.dbf has 0 duplicates
+2015-01-21 19:29:42,395 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:29:42,414 ssGravityMain.dbf has 747 duplicates
+2015-01-21 19:29:42,431 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:29:42,450 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:29:42,469 ssManhole.dbf has 0 duplicates
+2015-01-21 19:29:42,487 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:29:42,506 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:29:42,525 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:29:42,542 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:29:42,559 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:29:42,576 wCasing.dbf has 52 duplicates
+2015-01-21 19:29:42,595 wControlValve.dbf has 0 duplicates
+2015-01-21 19:29:42,612 wFitting.dbf has 61 duplicates
+2015-01-21 19:29:42,630 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:29:42,648 wHydrant.dbf has 0 duplicates
+2015-01-21 19:29:42,667 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:29:42,686 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:29:42,703 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:29:42,723 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:29:42,742 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:29:42,760 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:29:42,779 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:29:42,798 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:29:46,154 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:29:49,180 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:29:53,746 1 changes made to RPUD.ssAerial
+2015-01-21 19:29:57,269 0 changes made to RPUD.ssCasing
+2015-01-21 19:30:02,755 1 changes made to RPUD.ssControlValve
+2015-01-21 19:35:10,773 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:35:10,792 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:35:10,811 ssAerial.dbf has 2 duplicates
+2015-01-21 19:35:10,829 ssCasing.dbf has 53 duplicates
+2015-01-21 19:35:10,848 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:35:10,868 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:35:10,887 ssFitting.dbf has 0 duplicates
+2015-01-21 19:35:10,905 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:35:10,926 ssGravityMain.dbf has 747 duplicates
+2015-01-21 19:35:10,944 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:35:10,963 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:35:10,980 ssManhole.dbf has 0 duplicates
+2015-01-21 19:35:11,000 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:35:11,019 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:35:11,039 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:35:11,059 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:35:11,078 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:35:11,095 wCasing.dbf has 52 duplicates
+2015-01-21 19:35:11,115 wControlValve.dbf has 0 duplicates
+2015-01-21 19:35:11,132 wFitting.dbf has 61 duplicates
+2015-01-21 19:35:11,151 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:35:11,171 wHydrant.dbf has 0 duplicates
+2015-01-21 19:35:11,190 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:35:11,207 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:35:11,226 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:35:11,244 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:35:11,263 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:35:11,282 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:35:11,301 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:35:11,322 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:35:14,493 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:35:17,575 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:35:22,854 1 changes made to RPUD.ssAerial
+2015-01-21 19:35:26,305 0 changes made to RPUD.ssCasing
+2015-01-21 19:35:31,553 1 changes made to RPUD.ssControlValve
+2015-01-21 19:35:44,000 99 changes made to RPUD.ssForceMain
+2015-01-21 19:36:28,010 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:36:28,029 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:36:28,048 ssAerial.dbf has 2 duplicates
+2015-01-21 19:36:28,068 ssCasing.dbf has 53 duplicates
+2015-01-21 19:36:28,085 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:36:28,102 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:36:28,121 ssFitting.dbf has 0 duplicates
+2015-01-21 19:36:28,138 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:36:28,157 ssGravityMain.dbf has 747 duplicates
+2015-01-21 19:36:28,174 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:36:28,194 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:36:28,211 ssManhole.dbf has 0 duplicates
+2015-01-21 19:36:28,230 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:36:28,249 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:36:28,267 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:36:28,286 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:36:28,305 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:36:28,322 wCasing.dbf has 52 duplicates
+2015-01-21 19:36:28,341 wControlValve.dbf has 0 duplicates
+2015-01-21 19:36:28,358 wFitting.dbf has 61 duplicates
+2015-01-21 19:36:28,375 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:36:28,394 wHydrant.dbf has 0 duplicates
+2015-01-21 19:36:28,411 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:36:28,430 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:36:28,447 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:36:28,467 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:36:28,484 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:36:28,503 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:36:28,523 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:36:28,542 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:36:31,869 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:36:35,009 0 changes made to RPUD.ssAbandonedPoint
+2015-01-21 19:46:16,611 ssAbandonedLine.dbf has 68 duplicates
+2015-01-21 19:46:16,631 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-21 19:46:16,648 ssAerial.dbf has 2 duplicates
+2015-01-21 19:46:16,665 ssCasing.dbf has 53 duplicates
+2015-01-21 19:46:16,684 ssCleanOut.dbf has 0 duplicates
+2015-01-21 19:46:16,700 ssControlValve.dbf has 2 duplicates
+2015-01-21 19:46:16,719 ssFitting.dbf has 0 duplicates
+2015-01-21 19:46:16,736 ssForceMain.dbf has 140 duplicates
+2015-01-21 19:46:16,753 ssGravityMain.dbf has 747 duplicates
+2015-01-21 19:46:16,772 ssGreaseTrap.dbf has 20 duplicates
+2015-01-21 19:46:16,789 ssLateralLine.dbf has 27 duplicates
+2015-01-21 19:46:16,809 ssManhole.dbf has 0 duplicates
+2015-01-21 19:46:16,828 ssMeterStation.dbf has 0 duplicates
+2015-01-21 19:46:16,845 ssNetworkStructure.dbf has 16 duplicates
+2015-01-21 19:46:16,864 ssSystemValve.dbf has 66 duplicates
+2015-01-21 19:46:16,882 wAbandonedLine.dbf has 241 duplicates
+2015-01-21 19:46:16,901 wAbandonedPoint.dbf has 325 duplicates
+2015-01-21 19:46:16,918 wCasing.dbf has 52 duplicates
+2015-01-21 19:46:16,937 wControlValve.dbf has 0 duplicates
+2015-01-21 19:46:16,956 wFitting.dbf has 61 duplicates
+2015-01-21 19:46:16,974 wGravityMain.dbf has 0 duplicates
+2015-01-21 19:46:16,993 wHydrant.dbf has 0 duplicates
+2015-01-21 19:46:17,010 wLateralLine.dbf has 116 duplicates
+2015-01-21 19:46:17,029 wNetworkStructure.dbf has 0 duplicates
+2015-01-21 19:46:17,048 wNewHydrants.dbf has 0 duplicates
+2015-01-21 19:46:17,066 wPressureMain.dbf has 3005 duplicates
+2015-01-21 19:46:17,086 wPressureZone.dbf has 10 duplicates
+2015-01-21 19:46:17,105 wSamplingStation.dbf has 0 duplicates
+2015-01-21 19:46:17,122 wServiceConnection.dbf has 0 duplicates
+2015-01-21 19:46:17,141 wSystemValve.dbf has 25 duplicates
+2015-01-21 19:46:20,107 0 changes made to RPUD.ssAbandonedLine
+2015-01-21 19:46:22,937 0 changes made to RPUD.ssAbandonedPoint
+2015-01-27 16:36:20,193 -- Last Started.
+2015-01-27 16:39:35,905 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 16:39:35,966 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 16:39:35,983 ssAerial.dbf has 2 duplicates
+2015-01-27 16:39:36,002 ssCasing.dbf has 53 duplicates
+2015-01-27 16:39:36,022 ssCleanOut.dbf has 38 duplicates
+2015-01-27 16:39:36,042 ssControlValve.dbf has 2 duplicates
+2015-01-27 16:39:36,061 ssFitting.dbf has 33 duplicates
+2015-01-27 16:39:36,082 ssForceMain.dbf has 142 duplicates
+2015-01-27 16:39:36,099 ssGravityMain.dbf has 774 duplicates
+2015-01-27 16:39:36,121 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 16:39:36,140 ssLateralLine.dbf has 65 duplicates
+2015-01-27 16:39:36,160 ssManhole.dbf has 17 duplicates
+2015-01-27 16:39:36,180 ssMeterStation.dbf has 0 duplicates
+2015-01-27 16:39:36,200 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 16:39:36,220 ssSystemValve.dbf has 66 duplicates
+2015-01-27 16:39:36,240 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 16:39:36,262 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 16:39:36,280 wCasing.dbf has 54 duplicates
+2015-01-27 16:39:36,302 wControlValve.dbf has 4 duplicates
+2015-01-27 16:39:36,322 wFitting.dbf has 161 duplicates
+2015-01-27 16:39:36,342 wGravityMain.dbf has 0 duplicates
+2015-01-27 16:39:36,361 wHydrant.dbf has 9 duplicates
+2015-01-27 16:39:36,381 wLateralLine.dbf has 210 duplicates
+2015-01-27 16:39:36,403 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 16:39:36,423 wNewHydrants.dbf has 0 duplicates
+2015-01-27 16:39:36,441 wPressureMain.dbf has 3136 duplicates
+2015-01-27 16:39:36,463 wPressureZone.dbf has 10 duplicates
+2015-01-27 16:39:36,483 wSamplingStation.dbf has 0 duplicates
+2015-01-27 16:39:36,503 wServiceConnection.dbf has 41 duplicates
+2015-01-27 16:39:36,523 wSystemValve.dbf has 80 duplicates
+2015-01-27 16:39:43,454 0 changes made to RPUD.ssAbandonedLine
+2015-01-27 16:39:48,006 0 changes made to RPUD.ssAbandonedPoint
+2015-01-27 16:46:38,815 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 16:46:38,836 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 16:46:38,855 ssAerial.dbf has 2 duplicates
+2015-01-27 16:46:38,875 ssCasing.dbf has 53 duplicates
+2015-01-27 16:46:38,894 ssCleanOut.dbf has 38 duplicates
+2015-01-27 16:46:38,914 ssControlValve.dbf has 2 duplicates
+2015-01-27 16:46:38,934 ssFitting.dbf has 33 duplicates
+2015-01-27 16:46:38,953 ssForceMain.dbf has 142 duplicates
+2015-01-27 16:46:38,973 ssGravityMain.dbf has 774 duplicates
+2015-01-27 16:46:38,993 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 16:46:39,012 ssLateralLine.dbf has 65 duplicates
+2015-01-27 16:46:39,032 ssManhole.dbf has 17 duplicates
+2015-01-27 16:46:39,051 ssMeterStation.dbf has 0 duplicates
+2015-01-27 16:46:39,071 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 16:46:39,089 ssSystemValve.dbf has 66 duplicates
+2015-01-27 16:46:39,109 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 16:46:39,130 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 16:46:39,148 wCasing.dbf has 54 duplicates
+2015-01-27 16:46:39,168 wControlValve.dbf has 4 duplicates
+2015-01-27 16:46:39,187 wFitting.dbf has 161 duplicates
+2015-01-27 16:46:39,206 wGravityMain.dbf has 0 duplicates
+2015-01-27 16:46:39,226 wHydrant.dbf has 9 duplicates
+2015-01-27 16:46:39,244 wLateralLine.dbf has 210 duplicates
+2015-01-27 16:46:39,263 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 16:46:39,282 wNewHydrants.dbf has 0 duplicates
+2015-01-27 16:46:39,302 wPressureMain.dbf has 3136 duplicates
+2015-01-27 16:46:39,322 wPressureZone.dbf has 10 duplicates
+2015-01-27 16:46:39,341 wSamplingStation.dbf has 0 duplicates
+2015-01-27 16:46:39,361 wServiceConnection.dbf has 41 duplicates
+2015-01-27 16:46:39,381 wSystemValve.dbf has 80 duplicates
+2015-01-27 16:46:49,660 1 changes made to RPUD.ssAerial
+2015-01-27 16:47:03,750 1 changes made to RPUD.ssControlValve
+2015-01-27 16:47:14,773 2 changes made to RPUD.ssForceMain
+2015-01-27 16:47:16,996 3 changes made to RPUD.ssForceMain
+2015-01-27 16:47:18,318 4 changes made to RPUD.ssForceMain
+2015-01-27 16:47:19,756 5 changes made to RPUD.ssForceMain
+2015-01-27 16:47:21,069 6 changes made to RPUD.ssForceMain
+2015-01-27 16:47:22,358 11 changes made to RPUD.ssForceMain
+2015-01-27 16:47:23,967 12 changes made to RPUD.ssForceMain
+2015-01-27 16:47:25,404 20 changes made to RPUD.ssForceMain
+2015-01-27 16:47:26,783 21 changes made to RPUD.ssForceMain
+2015-01-27 16:47:28,194 25 changes made to RPUD.ssForceMain
+2015-01-27 16:47:29,661 26 changes made to RPUD.ssForceMain
+2015-01-27 16:47:31,042 27 changes made to RPUD.ssForceMain
+2015-01-27 16:47:32,280 28 changes made to RPUD.ssForceMain
+2015-01-27 16:47:33,500 29 changes made to RPUD.ssForceMain
+2015-01-27 16:47:34,752 30 changes made to RPUD.ssForceMain
+2015-01-27 16:47:35,999 31 changes made to RPUD.ssForceMain
+2015-01-27 16:47:37,279 35 changes made to RPUD.ssForceMain
+2015-01-27 16:47:38,749 39 changes made to RPUD.ssForceMain
+2015-01-27 16:47:40,214 40 changes made to RPUD.ssForceMain
+2015-01-27 16:47:41,552 41 changes made to RPUD.ssForceMain
+2015-01-27 16:47:42,802 45 changes made to RPUD.ssForceMain
+2015-01-27 16:47:44,095 46 changes made to RPUD.ssForceMain
+2015-01-27 16:47:45,384 52 changes made to RPUD.ssForceMain
+2015-01-27 16:47:46,700 53 changes made to RPUD.ssForceMain
+2015-01-27 16:47:48,072 54 changes made to RPUD.ssForceMain
+2015-01-27 16:47:49,283 56 changes made to RPUD.ssForceMain
+2015-01-27 16:47:50,489 58 changes made to RPUD.ssForceMain
+2015-01-27 16:47:51,638 59 changes made to RPUD.ssForceMain
+2015-01-27 16:47:52,957 60 changes made to RPUD.ssForceMain
+2015-01-27 16:47:54,196 62 changes made to RPUD.ssForceMain
+2015-01-27 16:47:55,661 64 changes made to RPUD.ssForceMain
+2015-01-27 16:47:57,048 65 changes made to RPUD.ssForceMain
+2015-01-27 16:47:58,298 66 changes made to RPUD.ssForceMain
+2015-01-27 16:47:59,895 89 changes made to RPUD.ssForceMain
+2015-01-27 16:48:01,342 90 changes made to RPUD.ssForceMain
+2015-01-27 16:48:02,711 91 changes made to RPUD.ssForceMain
+2015-01-27 16:48:03,980 93 changes made to RPUD.ssForceMain
+2015-01-27 16:48:05,211 94 changes made to RPUD.ssForceMain
+2015-01-27 16:48:06,479 95 changes made to RPUD.ssForceMain
+2015-01-27 16:48:08,437 98 changes made to RPUD.ssForceMain
+2015-01-27 16:48:09,813 99 changes made to RPUD.ssForceMain
+2015-01-27 16:48:11,414 100 changes made to RPUD.ssForceMain
+2015-01-27 16:48:19,842 3 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:22,614 4 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:24,210 5 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:25,858 6 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:27,456 7 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:28,967 8 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:30,608 9 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:32,111 10 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:33,614 11 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:35,135 13 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:36,788 14 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:38,233 15 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:39,971 16 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:41,720 17 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:43,197 18 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:44,861 19 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:46,655 20 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:48,443 21 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:50,410 22 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:51,992 23 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:53,727 24 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:55,505 25 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:57,157 26 changes made to RPUD.ssGravityMain
+2015-01-27 16:48:58,730 27 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:00,233 28 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:01,825 29 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:03,630 30 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:05,494 31 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:07,055 32 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:08,483 33 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:10,278 34 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:11,993 35 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:13,786 36 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:15,569 37 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:17,421 38 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:19,016 39 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:20,519 40 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:22,288 41 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:24,052 42 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:25,660 43 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:27,400 44 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:29,148 45 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:30,713 46 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:32,329 47 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:33,960 48 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:35,551 49 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:37,075 50 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:38,694 51 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:40,289 52 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:41,862 53 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:43,430 54 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:45,007 55 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:46,647 56 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:48,546 57 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:50,091 58 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:51,766 59 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:53,635 60 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:55,272 61 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:56,944 62 changes made to RPUD.ssGravityMain
+2015-01-27 16:49:58,450 63 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:00,107 64 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:02,167 65 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:03,936 66 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:05,579 67 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:07,171 68 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:08,805 69 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:10,446 71 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:11,992 72 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:13,710 73 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:15,299 75 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:16,842 77 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:18,614 78 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:20,302 79 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:22,121 80 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:23,951 81 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:25,683 82 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:27,239 84 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:28,992 86 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:30,648 87 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:32,463 88 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:34,092 89 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:35,792 90 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:37,486 91 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:39,085 92 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:40,730 93 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:42,398 94 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:44,230 95 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:45,928 96 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:47,844 97 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:49,480 98 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:51,221 99 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:53,170 100 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:55,006 101 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:56,619 102 changes made to RPUD.ssGravityMain
+2015-01-27 16:50:58,306 103 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:00,125 104 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:02,042 105 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:03,792 106 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:06,016 107 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:07,868 109 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:09,842 110 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:11,802 111 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:13,605 112 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:15,687 114 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:17,391 115 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:19,170 116 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:20,934 117 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:22,872 118 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:24,665 119 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:26,746 120 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:28,611 121 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:30,713 122 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:32,598 124 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:34,279 125 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:36,101 126 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:37,900 127 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:39,789 128 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:41,552 129 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:43,526 130 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:45,390 132 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:47,174 133 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:49,086 134 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:51,049 135 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:52,941 136 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:54,657 138 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:56,446 139 changes made to RPUD.ssGravityMain
+2015-01-27 16:51:58,207 140 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:00,180 141 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:01,867 142 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:03,582 143 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:05,457 144 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:07,111 145 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:08,937 146 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:10,782 147 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:12,687 148 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:14,520 149 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:16,322 150 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:18,621 151 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:20,542 152 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:22,326 153 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:24,128 154 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:26,073 155 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:27,864 156 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:29,690 157 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:31,805 158 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:33,618 159 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:35,588 160 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:37,599 161 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:39,582 162 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:41,364 163 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:43,265 164 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:45,213 165 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:46,977 166 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:48,746 167 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:50,767 168 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:52,792 169 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:55,190 170 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:57,119 171 changes made to RPUD.ssGravityMain
+2015-01-27 16:52:58,857 172 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:00,848 175 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:02,780 176 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:04,645 177 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:06,427 178 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:08,516 179 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:10,334 180 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:12,158 181 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:13,982 182 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:15,834 183 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:17,658 184 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:19,503 185 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:21,315 186 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:23,206 187 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:25,279 210 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:27,346 211 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:29,381 212 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:31,315 213 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:34,005 214 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:36,196 215 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:38,247 216 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:40,176 218 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:42,193 219 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:44,072 220 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:46,140 221 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:48,176 222 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:50,181 223 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:52,552 226 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:54,641 227 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:56,648 228 changes made to RPUD.ssGravityMain
+2015-01-27 16:53:58,779 230 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:00,714 231 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:02,680 233 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:04,937 234 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:06,960 235 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:08,805 236 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:10,877 237 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:12,697 238 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:14,766 239 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:16,842 240 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:18,852 241 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:20,990 242 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:22,971 243 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:24,894 244 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:26,831 246 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:28,841 247 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:30,809 248 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:32,858 249 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:34,869 250 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:36,967 251 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:39,115 254 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:41,405 255 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:43,568 256 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:45,638 257 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:47,788 258 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:49,914 259 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:51,892 260 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:53,940 261 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:55,898 262 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:57,871 263 changes made to RPUD.ssGravityMain
+2015-01-27 16:54:59,980 264 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:01,911 265 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:04,203 268 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:06,400 269 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:08,500 270 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:10,526 274 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:12,657 275 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:14,697 276 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:16,858 277 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:18,992 278 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:21,089 280 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:23,065 281 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:25,283 283 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:27,436 284 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:29,456 285 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:31,667 286 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:33,569 287 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:35,625 290 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:37,588 291 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:39,808 292 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:41,852 293 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:43,930 294 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:45,921 295 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:47,920 296 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:50,042 297 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:52,055 298 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:54,779 300 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:57,121 301 changes made to RPUD.ssGravityMain
+2015-01-27 16:55:59,365 302 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:01,714 303 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:03,808 304 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:06,030 305 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:08,150 308 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:10,288 309 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:12,563 310 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:14,776 311 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:17,020 312 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:19,197 313 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:21,414 314 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:23,631 315 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:25,698 317 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:27,854 318 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:29,971 319 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:32,124 320 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:34,311 321 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:36,552 322 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:38,749 323 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:41,035 324 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:43,296 325 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:45,490 326 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:47,812 327 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:50,121 328 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:52,411 329 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:54,690 330 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:57,118 331 changes made to RPUD.ssGravityMain
+2015-01-27 16:56:59,440 332 changes made to RPUD.ssGravityMain
+2015-01-27 16:57:01,776 333 changes made to RPUD.ssGravityMain
+2015-01-27 16:57:03,855 334 changes made to RPUD.ssGravityMain
+2015-01-27 16:57:06,203 336 changes made to RPUD.ssGravityMain
+2015-01-27 16:57:08,595 337 changes made to RPUD.ssGravityMain
+2015-01-27 16:57:10,736 338 changes made to RPUD.ssGravityMain
+2015-01-27 16:59:31,834 -- Last Started.
+2015-01-27 17:02:27,997 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 17:02:28,017 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 17:02:28,036 ssAerial.dbf has 0 duplicates
+2015-01-27 17:02:28,056 ssCasing.dbf has 53 duplicates
+2015-01-27 17:02:28,076 ssCleanOut.dbf has 38 duplicates
+2015-01-27 17:02:28,095 ssControlValve.dbf has 0 duplicates
+2015-01-27 17:02:28,112 ssFitting.dbf has 33 duplicates
+2015-01-27 17:02:28,131 ssForceMain.dbf has 100 duplicates
+2015-01-27 17:02:28,151 ssGravityMain.dbf has 495 duplicates
+2015-01-27 17:02:28,170 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 17:02:28,190 ssLateralLine.dbf has 65 duplicates
+2015-01-27 17:02:28,210 ssManhole.dbf has 17 duplicates
+2015-01-27 17:02:28,227 ssMeterStation.dbf has 0 duplicates
+2015-01-27 17:02:28,246 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 17:02:28,266 ssSystemValve.dbf has 66 duplicates
+2015-01-27 17:02:28,285 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 17:02:28,303 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 17:02:28,325 wCasing.dbf has 54 duplicates
+2015-01-27 17:02:28,342 wControlValve.dbf has 4 duplicates
+2015-01-27 17:02:28,361 wFitting.dbf has 161 duplicates
+2015-01-27 17:02:28,381 wGravityMain.dbf has 0 duplicates
+2015-01-27 17:02:28,401 wHydrant.dbf has 9 duplicates
+2015-01-27 17:02:28,418 wLateralLine.dbf has 210 duplicates
+2015-01-27 17:02:28,438 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 17:02:28,459 wNewHydrants.dbf has 0 duplicates
+2015-01-27 17:02:28,477 wPressureMain.dbf has 3136 duplicates
+2015-01-27 17:02:28,496 wPressureZone.dbf has 10 duplicates
+2015-01-27 17:02:28,516 wSamplingStation.dbf has 0 duplicates
+2015-01-27 17:02:28,536 wServiceConnection.dbf has 41 duplicates
+2015-01-27 17:02:28,555 wSystemValve.dbf has 80 duplicates
+2015-01-27 17:02:35,618 0 changes made to RPUD.ssAbandonedLine
+2015-01-27 17:02:39,539 0 changes made to RPUD.ssAbandonedPoint
+2015-01-27 17:02:43,303 0 changes made to RPUD.ssCasing
+2015-01-27 17:02:48,622 0 changes made to RPUD.ssCleanOut
+2015-01-27 17:02:53,901 0 changes made to RPUD.ssFitting
+2015-01-27 17:02:59,055 0 changes made to RPUD.ssForceMain
+2015-01-27 17:03:06,723 0 changes made to RPUD.ssGravityMain
+2015-01-27 17:03:13,851 0 changes made to RPUD.ssGreaseTrap
+2015-01-27 17:03:18,237 0 changes made to RPUD.ssLateralLine
+2015-01-27 17:03:25,789 0 changes made to RPUD.ssManhole
+2015-01-27 17:03:30,673 0 changes made to RPUD.ssNetworkStructure
+2015-01-27 17:03:35,176 0 changes made to RPUD.ssSystemValve
+2015-01-27 17:03:42,289 0 changes made to RPUD.wAbandonedLine
+2015-01-27 17:03:47,693 0 changes made to RPUD.wAbandonedPoint
+2015-01-27 17:03:52,308 0 changes made to RPUD.wCasing
+2015-01-27 17:03:57,374 0 changes made to RPUD.wControlValve
+2015-01-27 17:04:05,144 0 changes made to RPUD.wFitting
+2015-01-27 17:04:11,642 0 changes made to RPUD.wHydrant
+2015-01-27 17:04:17,118 0 changes made to RPUD.wLateralLine
+2015-01-27 17:04:22,721 0 changes made to RPUD.wPressureMain
+2015-01-27 17:11:07,730 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 17:11:07,750 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 17:11:07,766 ssAerial.dbf has 0 duplicates
+2015-01-27 17:11:07,786 ssCasing.dbf has 53 duplicates
+2015-01-27 17:11:07,805 ssCleanOut.dbf has 38 duplicates
+2015-01-27 17:11:07,822 ssControlValve.dbf has 0 duplicates
+2015-01-27 17:11:07,841 ssFitting.dbf has 33 duplicates
+2015-01-27 17:11:07,858 ssForceMain.dbf has 100 duplicates
+2015-01-27 17:11:07,878 ssGravityMain.dbf has 495 duplicates
+2015-01-27 17:11:07,897 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 17:11:07,914 ssLateralLine.dbf has 65 duplicates
+2015-01-27 17:11:07,930 ssManhole.dbf has 17 duplicates
+2015-01-27 17:11:07,948 ssMeterStation.dbf has 0 duplicates
+2015-01-27 17:11:07,967 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 17:11:07,986 ssSystemValve.dbf has 66 duplicates
+2015-01-27 17:11:08,003 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 17:11:08,022 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 17:11:08,039 wCasing.dbf has 54 duplicates
+2015-01-27 17:11:08,056 wControlValve.dbf has 4 duplicates
+2015-01-27 17:11:08,072 wFitting.dbf has 161 duplicates
+2015-01-27 17:11:08,091 wGravityMain.dbf has 0 duplicates
+2015-01-27 17:11:08,111 wHydrant.dbf has 9 duplicates
+2015-01-27 17:11:08,128 wLateralLine.dbf has 210 duplicates
+2015-01-27 17:11:08,147 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 17:11:08,164 wNewHydrants.dbf has 0 duplicates
+2015-01-27 17:11:08,183 wPressureMain.dbf has 3136 duplicates
+2015-01-27 17:11:08,200 wPressureZone.dbf has 10 duplicates
+2015-01-27 17:11:08,217 wSamplingStation.dbf has 0 duplicates
+2015-01-27 17:11:08,233 wServiceConnection.dbf has 41 duplicates
+2015-01-27 17:11:08,252 wSystemValve.dbf has 80 duplicates
+2015-01-27 17:11:16,186 0 changes made to RPUD.ssAbandonedLine
+2015-01-27 17:11:20,750 0 changes made to RPUD.ssAbandonedPoint
+2015-01-27 17:11:25,000 0 changes made to RPUD.ssCasing
+2015-01-27 17:11:31,213 0 changes made to RPUD.ssCleanOut
+2015-01-27 17:11:37,157 0 changes made to RPUD.ssFitting
+2015-01-27 17:11:42,272 0 changes made to RPUD.ssForceMain
+2015-01-27 17:11:50,009 0 changes made to RPUD.ssGravityMain
+2015-01-27 17:11:57,151 0 changes made to RPUD.ssGreaseTrap
+2015-01-27 17:13:50,118 End of Update
+2015-01-27 17:17:35,102 -- Last Started.
+2015-01-27 17:20:28,964 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 17:20:28,986 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 17:20:29,003 ssAerial.dbf has 0 duplicates
+2015-01-27 17:20:29,023 ssCasing.dbf has 53 duplicates
+2015-01-27 17:20:29,042 ssCleanOut.dbf has 38 duplicates
+2015-01-27 17:20:29,059 ssControlValve.dbf has 0 duplicates
+2015-01-27 17:20:29,078 ssFitting.dbf has 33 duplicates
+2015-01-27 17:20:29,099 ssForceMain.dbf has 100 duplicates
+2015-01-27 17:20:29,118 ssGravityMain.dbf has 495 duplicates
+2015-01-27 17:20:29,137 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 17:20:29,154 ssLateralLine.dbf has 65 duplicates
+2015-01-27 17:20:29,174 ssManhole.dbf has 17 duplicates
+2015-01-27 17:20:29,193 ssMeterStation.dbf has 0 duplicates
+2015-01-27 17:20:29,213 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 17:20:29,233 ssSystemValve.dbf has 66 duplicates
+2015-01-27 17:20:29,256 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 17:20:29,276 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 17:20:29,298 wCasing.dbf has 54 duplicates
+2015-01-27 17:20:29,318 wControlValve.dbf has 4 duplicates
+2015-01-27 17:20:29,336 wFitting.dbf has 161 duplicates
+2015-01-27 17:20:29,357 wGravityMain.dbf has 0 duplicates
+2015-01-27 17:20:29,377 wHydrant.dbf has 9 duplicates
+2015-01-27 17:20:29,397 wLateralLine.dbf has 210 duplicates
+2015-01-27 17:20:29,417 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 17:20:29,437 wNewHydrants.dbf has 0 duplicates
+2015-01-27 17:20:29,457 wPressureMain.dbf has 3136 duplicates
+2015-01-27 17:20:29,476 wPressureZone.dbf has 10 duplicates
+2015-01-27 17:20:29,497 wSamplingStation.dbf has 0 duplicates
+2015-01-27 17:20:29,517 wServiceConnection.dbf has 41 duplicates
+2015-01-27 17:20:29,539 wSystemValve.dbf has 80 duplicates
+2015-01-27 17:20:37,982 0 changes made to RPUD.ssAbandonedLine
+2015-01-27 17:20:42,640 0 changes made to RPUD.ssAbandonedPoint
+2015-01-27 17:20:47,025 0 changes made to RPUD.ssCasing
+2015-01-27 17:20:53,390 0 changes made to RPUD.ssCleanOut
+2015-01-27 17:20:59,641 0 changes made to RPUD.ssFitting
+2015-01-27 17:21:05,055 0 changes made to RPUD.ssForceMain
+2015-01-27 17:21:13,088 0 changes made to RPUD.ssGravityMain
+2015-01-27 17:21:20,565 0 changes made to RPUD.ssGreaseTrap
+2015-01-27 17:21:24,788 0 changes made to RPUD.ssLateralLine
+2015-01-27 17:21:32,428 0 changes made to RPUD.ssManhole
+2015-01-27 17:21:37,808 0 changes made to RPUD.ssNetworkStructure
+2015-01-27 17:21:42,345 0 changes made to RPUD.ssSystemValve
+2015-01-27 17:21:49,378 0 changes made to RPUD.wAbandonedLine
+2015-01-27 17:21:53,558 0 changes made to RPUD.wAbandonedPoint
+2015-01-27 17:21:57,696 0 changes made to RPUD.wCasing
+2015-01-27 17:22:02,361 0 changes made to RPUD.wControlValve
+2015-01-27 17:22:09,825 0 changes made to RPUD.wFitting
+2015-01-27 17:22:16,003 0 changes made to RPUD.wHydrant
+2015-01-27 17:22:21,108 0 changes made to RPUD.wLateralLine
+2015-01-27 17:22:25,411 0 changes made to RPUD.wPressureMain
+2015-01-27 17:22:29,844 0 changes made to RPUD.wPressureZone
+2015-01-27 17:22:40,292 0 changes made to RPUD.wServiceConnection
+2015-01-27 17:22:47,072 0 changes made to RPUD.wSystemValve
+2015-01-27 17:22:48,526 End of Update
+2015-01-27 17:35:26,013 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 17:35:26,032 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 17:35:26,051 ssAerial.dbf has 0 duplicates
+2015-01-27 17:35:26,069 ssCasing.dbf has 53 duplicates
+2015-01-27 17:35:26,088 ssCleanOut.dbf has 38 duplicates
+2015-01-27 17:35:26,107 ssControlValve.dbf has 0 duplicates
+2015-01-27 17:35:26,125 ssFitting.dbf has 33 duplicates
+2015-01-27 17:35:26,145 ssForceMain.dbf has 100 duplicates
+2015-01-27 17:35:26,164 ssGravityMain.dbf has 495 duplicates
+2015-01-27 17:35:26,184 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 17:35:26,203 ssLateralLine.dbf has 65 duplicates
+2015-01-27 17:35:26,223 ssManhole.dbf has 17 duplicates
+2015-01-27 17:35:26,240 ssMeterStation.dbf has 0 duplicates
+2015-01-27 17:35:26,260 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 17:35:26,279 ssSystemValve.dbf has 66 duplicates
+2015-01-27 17:35:26,299 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 17:35:26,319 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 17:35:26,338 wCasing.dbf has 54 duplicates
+2015-01-27 17:35:26,359 wControlValve.dbf has 4 duplicates
+2015-01-27 17:35:26,381 wFitting.dbf has 161 duplicates
+2015-01-27 17:35:26,400 wGravityMain.dbf has 0 duplicates
+2015-01-27 17:35:26,418 wHydrant.dbf has 9 duplicates
+2015-01-27 17:35:26,437 wLateralLine.dbf has 210 duplicates
+2015-01-27 17:35:26,456 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 17:35:26,473 wNewHydrants.dbf has 0 duplicates
+2015-01-27 17:35:26,493 wPressureMain.dbf has 3136 duplicates
+2015-01-27 17:35:26,513 wPressureZone.dbf has 10 duplicates
+2015-01-27 17:35:26,535 wSamplingStation.dbf has 0 duplicates
+2015-01-27 17:35:26,552 wServiceConnection.dbf has 41 duplicates
+2015-01-27 17:35:26,571 wSystemValve.dbf has 80 duplicates
+2015-01-27 17:35:45,437 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 17:35:45,456 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 17:35:45,473 ssAerial.dbf has 0 duplicates
+2015-01-27 17:35:45,492 ssCasing.dbf has 53 duplicates
+2015-01-27 17:35:45,509 ssCleanOut.dbf has 38 duplicates
+2015-01-27 17:35:45,528 ssControlValve.dbf has 0 duplicates
+2015-01-27 17:35:45,546 ssFitting.dbf has 33 duplicates
+2015-01-27 17:35:45,563 ssForceMain.dbf has 100 duplicates
+2015-01-27 17:35:45,582 ssGravityMain.dbf has 495 duplicates
+2015-01-27 17:35:45,601 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 17:35:45,619 ssLateralLine.dbf has 65 duplicates
+2015-01-27 17:35:45,638 ssManhole.dbf has 17 duplicates
+2015-01-27 17:35:45,655 ssMeterStation.dbf has 0 duplicates
+2015-01-27 17:35:45,674 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 17:35:45,694 ssSystemValve.dbf has 66 duplicates
+2015-01-27 17:35:45,710 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 17:35:45,729 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 17:35:45,746 wCasing.dbf has 54 duplicates
+2015-01-27 17:35:45,765 wControlValve.dbf has 4 duplicates
+2015-01-27 17:35:45,782 wFitting.dbf has 161 duplicates
+2015-01-27 17:35:45,801 wGravityMain.dbf has 0 duplicates
+2015-01-27 17:35:45,819 wHydrant.dbf has 9 duplicates
+2015-01-27 17:35:45,838 wLateralLine.dbf has 210 duplicates
+2015-01-27 17:35:45,855 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 17:35:45,874 wNewHydrants.dbf has 0 duplicates
+2015-01-27 17:35:45,894 wPressureMain.dbf has 3136 duplicates
+2015-01-27 17:35:45,911 wPressureZone.dbf has 10 duplicates
+2015-01-27 17:35:45,930 wSamplingStation.dbf has 0 duplicates
+2015-01-27 17:35:45,947 wServiceConnection.dbf has 41 duplicates
+2015-01-27 17:35:45,964 wSystemValve.dbf has 80 duplicates
+2015-01-27 17:35:52,928 0 changes made to RPUD.ssAbandonedLine
+2015-01-27 17:35:57,361 0 changes made to RPUD.ssAbandonedPoint
+2015-01-27 17:36:01,867 0 changes made to RPUD.ssCasing
+2015-01-27 17:36:08,068 0 changes made to RPUD.ssCleanOut
+2015-01-27 17:36:14,236 0 changes made to RPUD.ssFitting
+2015-01-27 17:36:19,493 0 changes made to RPUD.ssForceMain
+2015-01-27 17:36:27,451 0 changes made to RPUD.ssGravityMain
+2015-01-27 17:36:34,792 0 changes made to RPUD.ssGreaseTrap
+2015-01-27 17:36:39,186 0 changes made to RPUD.ssLateralLine
+2015-01-27 17:36:47,032 0 changes made to RPUD.ssManhole
+2015-01-27 17:36:52,230 0 changes made to RPUD.ssNetworkStructure
+2015-01-27 17:36:56,628 0 changes made to RPUD.ssSystemValve
+2015-01-27 17:37:03,135 0 changes made to RPUD.wAbandonedLine
+2015-01-27 17:37:07,217 0 changes made to RPUD.wAbandonedPoint
+2015-01-27 17:37:11,302 0 changes made to RPUD.wCasing
+2015-01-27 17:37:15,904 0 changes made to RPUD.wControlValve
+2015-01-27 17:37:23,357 0 changes made to RPUD.wFitting
+2015-01-27 17:37:29,322 0 changes made to RPUD.wHydrant
+2015-01-27 17:37:34,595 0 changes made to RPUD.wLateralLine
+2015-01-27 17:37:39,431 0 changes made to RPUD.wPressureMain
+2015-01-27 17:37:43,911 0 changes made to RPUD.wPressureZone
+2015-01-27 17:37:54,194 0 changes made to RPUD.wServiceConnection
+2015-01-27 17:38:01,138 0 changes made to RPUD.wSystemValve
+2015-01-27 17:38:02,526 End of Update
+2015-01-27 17:39:14,150 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 17:39:14,170 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 17:39:14,187 ssAerial.dbf has 0 duplicates
+2015-01-27 17:39:14,203 ssCasing.dbf has 53 duplicates
+2015-01-27 17:39:14,223 ssCleanOut.dbf has 38 duplicates
+2015-01-27 17:39:14,242 ssControlValve.dbf has 0 duplicates
+2015-01-27 17:39:14,260 ssFitting.dbf has 33 duplicates
+2015-01-27 17:39:14,280 ssForceMain.dbf has 100 duplicates
+2015-01-27 17:39:14,302 ssGravityMain.dbf has 495 duplicates
+2015-01-27 17:39:14,321 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 17:39:14,341 ssLateralLine.dbf has 65 duplicates
+2015-01-27 17:39:14,361 ssManhole.dbf has 17 duplicates
+2015-01-27 17:39:14,380 ssMeterStation.dbf has 0 duplicates
+2015-01-27 17:39:14,400 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 17:39:14,418 ssSystemValve.dbf has 66 duplicates
+2015-01-27 17:39:14,437 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 17:39:14,457 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 17:39:14,474 wCasing.dbf has 54 duplicates
+2015-01-27 17:39:14,493 wControlValve.dbf has 4 duplicates
+2015-01-27 17:39:14,510 wFitting.dbf has 161 duplicates
+2015-01-27 17:39:14,529 wGravityMain.dbf has 0 duplicates
+2015-01-27 17:39:14,549 wHydrant.dbf has 9 duplicates
+2015-01-27 17:39:14,569 wLateralLine.dbf has 210 duplicates
+2015-01-27 17:39:14,588 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 17:39:14,608 wNewHydrants.dbf has 0 duplicates
+2015-01-27 17:39:14,627 wPressureMain.dbf has 3136 duplicates
+2015-01-27 17:39:14,645 wPressureZone.dbf has 10 duplicates
+2015-01-27 17:39:14,665 wSamplingStation.dbf has 0 duplicates
+2015-01-27 17:39:14,684 wServiceConnection.dbf has 41 duplicates
+2015-01-27 17:39:14,703 wSystemValve.dbf has 80 duplicates
+2015-01-27 17:40:41,713 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 17:40:41,733 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 17:40:41,752 ssAerial.dbf has 0 duplicates
+2015-01-27 17:40:41,769 ssCasing.dbf has 53 duplicates
+2015-01-27 17:40:41,789 ssCleanOut.dbf has 38 duplicates
+2015-01-27 17:40:41,805 ssControlValve.dbf has 0 duplicates
+2015-01-27 17:40:41,823 ssFitting.dbf has 33 duplicates
+2015-01-27 17:40:41,842 ssForceMain.dbf has 100 duplicates
+2015-01-27 17:40:41,861 ssGravityMain.dbf has 495 duplicates
+2015-01-27 17:40:41,878 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 17:40:41,897 ssLateralLine.dbf has 65 duplicates
+2015-01-27 17:40:41,914 ssManhole.dbf has 17 duplicates
+2015-01-27 17:40:41,933 ssMeterStation.dbf has 0 duplicates
+2015-01-27 17:40:41,950 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 17:40:41,969 ssSystemValve.dbf has 66 duplicates
+2015-01-27 17:40:41,987 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 17:40:42,005 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 17:40:42,023 wCasing.dbf has 54 duplicates
+2015-01-27 17:40:42,039 wControlValve.dbf has 4 duplicates
+2015-01-27 17:40:42,059 wFitting.dbf has 161 duplicates
+2015-01-27 17:40:42,075 wGravityMain.dbf has 0 duplicates
+2015-01-27 17:40:42,092 wHydrant.dbf has 9 duplicates
+2015-01-27 17:40:42,111 wLateralLine.dbf has 210 duplicates
+2015-01-27 17:40:42,128 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 17:40:42,147 wNewHydrants.dbf has 0 duplicates
+2015-01-27 17:40:42,165 wPressureMain.dbf has 3136 duplicates
+2015-01-27 17:40:42,184 wPressureZone.dbf has 10 duplicates
+2015-01-27 17:40:42,201 wSamplingStation.dbf has 0 duplicates
+2015-01-27 17:40:42,220 wServiceConnection.dbf has 41 duplicates
+2015-01-27 17:40:42,237 wSystemValve.dbf has 80 duplicates
+2015-01-27 17:42:48,112 End of Update
+2015-01-27 17:43:58,405 ssAbandonedLine.dbf has 68 duplicates
+2015-01-27 17:43:58,424 ssAbandonedPoint.dbf has 43 duplicates
+2015-01-27 17:43:58,443 ssAerial.dbf has 0 duplicates
+2015-01-27 17:43:58,460 ssCasing.dbf has 53 duplicates
+2015-01-27 17:43:58,477 ssCleanOut.dbf has 38 duplicates
+2015-01-27 17:43:58,496 ssControlValve.dbf has 0 duplicates
+2015-01-27 17:43:58,513 ssFitting.dbf has 33 duplicates
+2015-01-27 17:43:58,532 ssForceMain.dbf has 100 duplicates
+2015-01-27 17:43:58,552 ssGravityMain.dbf has 495 duplicates
+2015-01-27 17:43:58,569 ssGreaseTrap.dbf has 20 duplicates
+2015-01-27 17:43:58,588 ssLateralLine.dbf has 65 duplicates
+2015-01-27 17:43:58,605 ssManhole.dbf has 17 duplicates
+2015-01-27 17:43:58,624 ssMeterStation.dbf has 0 duplicates
+2015-01-27 17:43:58,641 ssNetworkStructure.dbf has 16 duplicates
+2015-01-27 17:43:58,658 ssSystemValve.dbf has 66 duplicates
+2015-01-27 17:43:58,677 wAbandonedLine.dbf has 239 duplicates
+2015-01-27 17:43:58,696 wAbandonedPoint.dbf has 325 duplicates
+2015-01-27 17:43:58,713 wCasing.dbf has 54 duplicates
+2015-01-27 17:43:58,730 wControlValve.dbf has 4 duplicates
+2015-01-27 17:43:58,750 wFitting.dbf has 161 duplicates
+2015-01-27 17:43:58,769 wGravityMain.dbf has 0 duplicates
+2015-01-27 17:43:58,788 wHydrant.dbf has 9 duplicates
+2015-01-27 17:43:58,805 wLateralLine.dbf has 210 duplicates
+2015-01-27 17:43:58,825 wNetworkStructure.dbf has 0 duplicates
+2015-01-27 17:43:58,842 wNewHydrants.dbf has 0 duplicates
+2015-01-27 17:43:58,861 wPressureMain.dbf has 3136 duplicates
+2015-01-27 17:43:58,880 wPressureZone.dbf has 10 duplicates
+2015-01-27 17:43:58,898 wSamplingStation.dbf has 0 duplicates
+2015-01-27 17:43:58,915 wServiceConnection.dbf has 41 duplicates
+2015-01-27 17:43:58,933 wSystemValve.dbf has 80 duplicates
+2015-01-27 17:44:03,796 0 changes made to RPUD.ssAbandonedLine
+2015-01-27 17:44:07,573 0 changes made to RPUD.ssAbandonedPoint
+2015-01-27 17:44:11,158 0 changes made to RPUD.ssCasing
+2015-01-27 17:44:17,845 0 changes made to RPUD.ssCleanOut
+2015-01-27 17:44:23,617 0 changes made to RPUD.ssFitting
+2015-01-27 17:44:27,997 0 changes made to RPUD.ssForceMain
+2015-01-27 17:44:47,308 74 changes made to RPUD.ssGravityMain
+2015-01-27 17:44:55,170 0 changes made to RPUD.ssGreaseTrap
+2015-01-27 17:45:02,671 14 changes made to RPUD.ssLateralLine
+2015-01-27 17:45:11,246 0 changes made to RPUD.ssManhole
+2015-01-27 17:45:15,990 0 changes made to RPUD.ssNetworkStructure
+2015-01-27 17:45:19,923 1 changes made to RPUD.ssSystemValve
+2015-01-27 17:45:26,267 1 changes made to RPUD.wAbandonedLine
+2015-01-27 17:45:29,957 0 changes made to RPUD.wAbandonedPoint
+2015-01-27 17:45:33,584 0 changes made to RPUD.wCasing
+2015-01-27 17:45:37,709 0 changes made to RPUD.wControlValve
+2015-01-27 17:45:46,200 60 changes made to RPUD.wFitting
+2015-01-27 17:45:52,759 0 changes made to RPUD.wHydrant
+2015-01-27 17:46:07,476 59 changes made to RPUD.wLateralLine
+2015-01-27 17:48:47,112 1926 changes made to RPUD.wPressureMain
+2015-01-27 17:48:53,239 0 changes made to RPUD.wPressureZone
+2015-01-27 17:49:06,391 0 changes made to RPUD.wServiceConnection
+2015-01-27 17:49:14,447 22 changes made to RPUD.wSystemValve
+2015-01-27 17:49:16,408 End of Update
