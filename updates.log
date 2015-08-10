@@ -240,3 +240,1383 @@
 2015-01-21 19:21:50,535 RPUD.EasementMaintenanceAreas Editor Tracking Disabled
 2015-01-21 19:21:52,390 MAX ID = EMA108428
 2015-01-21 19:21:53,423 Features updated = 0
+2015-03-19 17:45:06,109 
+2015-03-19 17:45:06,141 ********  START OF AUTOID.py  **********
+2015-03-19 17:45:06,141 Updating IDs for RPUD.ssCleanOut
+2015-03-19 17:50:07,842 
+2015-03-19 17:50:07,842 ********  START OF AUTOID.py  **********
+2015-03-19 17:50:07,842 Updating IDs for RPUD.ssCleanOut
+2015-03-19 17:50:11,760 RPUD.ssCleanOut Editor Tracking Disabled
+2015-03-19 17:50:15,207 MAX ID = SCO146602
+2015-03-19 17:50:17,313 Features updated = 0
+2015-03-19 17:50:53,099 
+2015-03-19 17:50:53,099 ********  START OF AUTOID.py  **********
+2015-03-19 17:50:53,099 Updating IDs for RPUD.ssCleanOut
+2015-03-19 17:50:56,688 RPUD.ssCleanOut Editor Tracking Disabled
+2015-03-19 17:51:00,121 MAX ID = SCO146602
+2015-03-19 17:51:01,009 Features updated = 0
+2015-03-19 17:54:13,637 
+2015-03-19 17:54:13,638 ********  START OF AUTOID.py  **********
+2015-03-19 17:54:13,640 Updating IDs for RPUD.ssCleanOut
+2015-03-19 17:54:18,180 RPUD.ssCleanOut Editor Tracking Disabled
+2015-03-19 17:54:21,749 MAX ID = SCO146602
+2015-03-19 17:54:23,953 Features updated = 0
+2015-03-19 17:57:36,365 
+2015-03-19 17:57:36,367 ********  START OF AUTOID.py  **********
+2015-03-19 17:57:36,368 Updating IDs for RPUD.ssControlValve
+2015-03-19 17:59:06,486 
+2015-03-19 17:59:06,489 ********  START OF AUTOID.py  **********
+2015-03-19 17:59:06,492 Updating IDs for RPUD.ssControlValve
+2015-03-19 17:59:10,970 RPUD.ssControlValve Editor Tracking Disabled
+2015-03-19 17:59:12,700 MAX ID = SCV10587
+2015-03-19 17:59:13,647 Features updated = 0
+2015-03-19 17:59:15,704 RPUD.ssControlValve Editor Tracking Enabled
+2015-03-19 17:59:15,707 Updating IDs for RPUD.ssFitting
+2015-03-19 17:59:17,663 RPUD.ssFitting Editor Tracking Disabled
+2015-03-19 17:59:19,447 MAX ID = SF133866
+2015-03-19 17:59:19,803 Features updated = 6
+2015-03-19 17:59:21,865 RPUD.ssFitting Editor Tracking Enabled
+2015-03-19 17:59:21,868 Updating IDs for RPUD.ssForceMain
+2015-03-19 17:59:23,928 RPUD.ssForceMain Editor Tracking Disabled
+2015-03-19 17:59:24,551 MAX ID = SFMN11410
+2015-03-19 17:59:24,801 Features updated = 1
+2015-03-19 17:59:27,015 RPUD.ssForceMain Editor Tracking Enabled
+2015-03-19 17:59:27,017 Updating IDs for RPUD.ssGravityMain
+2015-03-19 17:59:32,648 RPUD.ssGravityMain Editor Tracking Disabled
+2015-03-19 17:59:37,243 MAX ID = SGMN168115
+2015-03-19 17:59:37,694 Features updated = 33
+2015-03-19 17:59:43,173 RPUD.ssGravityMain Editor Tracking Enabled
+2015-03-19 17:59:43,174 Updating IDs for RPUD.ssLateralLine
+2015-03-19 17:59:45,108 RPUD.ssLateralLine Editor Tracking Disabled
+2015-03-19 17:59:47,532 MAX ID = SLAT146466
+2015-03-19 17:59:47,871 Features updated = 19
+2015-03-19 17:59:49,549 RPUD.ssLateralLine Editor Tracking Enabled
+2015-03-19 17:59:49,552 Updating IDs for RPUD.ssAerial
+2015-03-19 17:59:51,375 RPUD.ssAerial Editor Tracking Disabled
+2015-03-19 17:59:51,990 MAX ID = SAM10764
+2015-03-19 17:59:52,273 Features updated = 5
+2015-03-19 17:59:54,115 RPUD.ssAerial Editor Tracking Enabled
+2015-03-19 17:59:54,117 Updating IDs for RPUD.ssManhole
+2015-03-19 17:59:56,852 RPUD.ssManhole Editor Tracking Disabled
+2015-03-19 18:00:00,848 MAX ID = SMH168555
+2015-03-19 18:00:01,384 Features updated = 30
+2015-03-19 18:00:04,118 RPUD.ssManhole Editor Tracking Enabled
+2015-03-19 18:00:12,546 RPUD.ssGravityMain Editor Tracking Disabled
+2015-03-19 18:00:12,549 RPUD.ssManhole Editor Tracking Disabled
+2015-03-19 18:00:13,354 UpdateMHNumbers
+2015-03-19 18:01:27,180 87042  =  SMH108882 : SMH137653
+2015-03-19 18:01:28,556 87041  =  SMH154955 : SMH108882
+2015-03-19 18:01:29,874 85444  =  SMH168571 : SMH168570
+2015-03-19 18:01:31,155 85443  =  SMH168570 : SMH168573
+2015-03-19 18:01:32,437 85442  =  SMH168573 : SMH168567
+2015-03-19 18:01:33,753 85441  =  SMH168567 : SMH168569
+2015-03-19 18:01:35,039 85136  =  SMH168569 : SMH168558
+2015-03-19 18:01:36,322 85133  =  SMH168568 : SMH168567
+2015-03-19 18:01:37,601 85132  =  SMH168557 : SMH168558
+2015-03-19 18:01:38,872 85131  =  SMH168566 : SMH168565
+2015-03-19 18:01:40,180 85130  =  SMH168558 : SMH168559
+2015-03-19 18:01:41,477 85125  =  SMH168562 : SMH168563
+2015-03-19 18:01:42,752 85124  =  SMH168563 : SMH168564
+2015-03-19 18:01:44,073 85123  =  SMH168564 : SMH168565
+2015-03-19 18:01:45,423 85121  =  SMH168572 : SMH168571
+2015-03-19 18:01:46,755 84803  =  SMH168577 : SMH168578
+2015-03-19 18:01:48,069 84802  =  SMH168576 : SMH168577
+2015-03-19 18:01:49,398 84801  =  SMH168575 : SMH168576
+2015-03-19 18:01:50,680 84483  =  SMH168582 : SMH168585
+2015-03-19 18:01:51,986 84482  =  SMH168584 : SMH168582
+2015-03-19 18:01:53,322 84481  =  SMH168583 : SMH168584
+2015-03-19 18:01:54,625 84161  =  SMH142150 : SMH141750
+2015-03-19 18:01:55,900 85129  =  SMH168559 : SMH168560
+2015-03-19 18:01:57,186 85128  =  SMH168560 : SMH168561
+2015-03-19 18:01:58,473 85127  =  SMH168556 : SMH168557
+2015-03-19 18:01:59,714 85126  =  SMH168561 : SMH168562
+2015-03-19 18:02:08,444 RPUD.ssGravityMain Editor Tracking Enabled
+2015-03-19 18:02:08,447 RPUD.ssManhole Editor Tracking Enabled
+2015-03-19 18:02:08,450 Updating IDs for RPUD.wControlValve
+2015-03-19 18:02:13,160 RPUD.wControlValve Editor Tracking Disabled
+2015-03-19 18:02:15,131 MAX ID = WCV107316
+2015-03-19 18:02:16,852 Features updated = 10
+2015-03-19 18:02:19,762 RPUD.wControlValve Editor Tracking Enabled
+2015-03-19 18:02:19,763 Updating IDs for RPUD.wFitting
+2015-03-19 18:02:21,538 RPUD.wFitting Editor Tracking Disabled
+2015-03-19 18:02:25,515 MAX ID = WFIT188943
+2015-03-19 18:02:26,471 Features updated = 145
+2015-03-19 18:02:28,444 RPUD.wFitting Editor Tracking Enabled
+2015-03-19 18:02:28,446 Updating IDs for RPUD.wGravityMain
+2015-03-19 18:02:30,125 RPUD.wGravityMain Editor Tracking Disabled
+2015-03-19 18:02:30,697 MAX ID = WGM100081
+2015-03-19 18:02:30,943 Features updated = 0
+2015-03-19 18:02:33,161 RPUD.wGravityMain Editor Tracking Enabled
+2015-03-19 18:02:33,163 Updating IDs for RPUD.wLateralLine
+2015-03-19 18:02:34,648 RPUD.wLateralLine Editor Tracking Disabled
+2015-03-19 18:02:38,490 MAX ID = WLAT176807
+2015-03-19 18:02:39,408 Features updated = 167
+2015-03-19 18:02:41,453 RPUD.wLateralLine Editor Tracking Enabled
+2015-03-19 18:02:41,456 Updating IDs for RPUD.wServiceConnection
+2015-03-19 18:02:42,891 RPUD.wServiceConnection Editor Tracking Disabled
+2015-03-19 18:02:51,201 MAX ID = WSC286142
+2015-03-19 18:02:51,548 Features updated = 2
+2015-03-19 18:02:53,523 RPUD.wServiceConnection Editor Tracking Enabled
+2015-03-19 18:02:53,525 Updating IDs for RPUD.wSystemValve
+2015-03-19 18:02:55,043 RPUD.wSystemValve Editor Tracking Disabled
+2015-03-19 18:02:58,450 MAX ID = WSV166366
+2015-03-19 18:02:59,279 Features updated = 130
+2015-03-19 18:03:01,329 RPUD.wSystemValve Editor Tracking Enabled
+2015-03-19 18:03:01,331 Updating IDs for RPUD.wPressureMain
+2015-03-19 18:03:02,849 RPUD.wPressureMain Editor Tracking Disabled
+2015-03-19 18:03:07,167 MAX ID = WMN201332
+2015-03-19 18:03:07,638 Features updated = 31
+2015-03-19 18:03:09,782 RPUD.wPressureMain Editor Tracking Enabled
+2015-03-19 18:03:09,783 Updating IDs for RPUD.wHydrant
+2015-03-19 18:03:11,717 RPUD.wHydrant Editor Tracking Disabled
+2015-03-19 18:03:14,513 MAX ID = WHYD128342
+2015-03-19 18:03:14,918 Features updated = 12
+2015-03-19 18:03:17,375 RPUD.wHydrant Editor Tracking Enabled
+2015-03-19 18:03:17,377 Updating IDs for RPUD.wSamplingStation
+2015-03-19 18:03:18,776 RPUD.wSamplingStation Editor Tracking Disabled
+2015-03-19 18:03:19,362 MAX ID = WSS10229
+2015-03-19 18:03:19,599 Features updated = 0
+2015-03-19 18:03:21,503 RPUD.wSamplingStation Editor Tracking Enabled
+2015-03-19 18:03:21,506 Updating IDs for RPUD.EasementMaintenanceAreas
+2015-03-19 18:03:22,828 RPUD.EasementMaintenanceAreas Editor Tracking Disabled
+2015-03-19 18:03:31,273 MAX ID = EMA108428
+2015-03-19 18:03:31,709 Features updated = 0
+2015-03-31 19:10:14,354 
+2015-03-31 19:10:14,372 ********  START OF AUTOID.py  **********
+2015-03-31 19:10:14,375 Updating IDs for RPUD.ssCleanOut
+2015-03-31 19:10:22,201 RPUD.ssCleanOut Editor Tracking Disabled
+2015-03-31 19:10:26,782 MAX ID = SCO146707
+2015-03-31 19:10:28,796 Features updated = 0
+2015-03-31 19:10:52,005 
+2015-03-31 19:10:52,006 ********  START OF AUTOID.py  **********
+2015-03-31 19:10:52,009 Updating IDs for RPUD.ssControlValve
+2015-03-31 19:10:58,328 RPUD.ssControlValve Editor Tracking Disabled
+2015-03-31 19:11:00,115 MAX ID = SCV10587
+2015-03-31 19:11:01,088 Features updated = 0
+2015-03-31 19:11:04,344 RPUD.ssControlValve Editor Tracking Enabled
+2015-03-31 19:11:04,345 Updating IDs for RPUD.ssFitting
+2015-03-31 19:11:07,299 RPUD.ssFitting Editor Tracking Disabled
+2015-03-31 19:11:10,042 MAX ID = SF133872
+2015-03-31 19:11:10,749 Features updated = 96
+2015-03-31 19:11:13,836 RPUD.ssFitting Editor Tracking Enabled
+2015-03-31 19:11:13,839 Updating IDs for RPUD.ssForceMain
+2015-03-31 19:11:17,276 RPUD.ssForceMain Editor Tracking Disabled
+2015-03-31 19:11:17,937 MAX ID = SFMN11411
+2015-03-31 19:11:18,108 Features updated = 0
+2015-03-31 19:11:20,881 RPUD.ssForceMain Editor Tracking Enabled
+2015-03-31 19:11:20,882 Updating IDs for RPUD.ssGravityMain
+2015-03-31 19:11:27,361 RPUD.ssGravityMain Editor Tracking Disabled
+2015-03-31 19:11:32,760 MAX ID = SGMN168148
+2015-03-31 19:11:33,598 Features updated = 83
+2015-03-31 19:11:40,118 RPUD.ssGravityMain Editor Tracking Enabled
+2015-03-31 19:11:40,119 Updating IDs for RPUD.ssLateralLine
+2015-03-31 19:11:42,482 RPUD.ssLateralLine Editor Tracking Disabled
+2015-03-31 19:11:45,224 MAX ID = SLAT146485
+2015-03-31 19:11:45,861 Features updated = 105
+2015-03-31 19:11:47,878 RPUD.ssLateralLine Editor Tracking Enabled
+2015-03-31 19:11:47,880 Updating IDs for RPUD.ssAerial
+2015-03-31 19:11:50,894 RPUD.ssAerial Editor Tracking Disabled
+2015-03-31 19:11:51,740 MAX ID = SAM10769
+2015-03-31 19:11:52,073 Features updated = 1
+2015-03-31 19:11:54,187 RPUD.ssAerial Editor Tracking Enabled
+2015-03-31 19:11:54,188 Updating IDs for RPUD.ssManhole
+2015-03-31 19:11:57,701 RPUD.ssManhole Editor Tracking Disabled
+2015-03-31 19:12:03,117 MAX ID = SMH168585
+2015-03-31 19:12:04,411 Features updated = 98
+2015-03-31 19:12:08,099 RPUD.ssManhole Editor Tracking Enabled
+2015-03-31 19:12:18,486 RPUD.ssGravityMain Editor Tracking Disabled
+2015-03-31 19:12:18,487 RPUD.ssManhole Editor Tracking Disabled
+2015-03-31 19:12:19,509 UpdateMHNumbers
+2015-03-31 19:13:45,888 Slope:1.2520109232
+2015-03-31 19:13:45,890 87049  =  SMH168676 : SMH168674
+2015-03-31 19:13:47,394 87684  =  SMH168610 : SMH168611
+2015-03-31 19:13:48,953 87683  =  SMH168609 : SMH168610
+2015-03-31 19:13:50,322 41441  =  SMH168611 : SMH168612
+2015-03-31 19:13:51,950 86724  =  SMH168679 : SMH168680
+2015-03-31 19:13:53,664 88330  =  SMH168593 : SMH168591
+2015-03-31 19:13:55,028 88325  =  SMH168590 : SMH168587
+2015-03-31 19:13:56,388 88324  =  SMH168586 : SMH168590
+2015-03-31 19:13:57,930 88322  =  SMH168589 : SMH168588
+2015-03-31 19:13:59,519 88321  =  SMH168588 : SMH168590
+2015-03-31 19:14:00,894 88012  =  SMH168632 : SMH168637
+2015-03-31 19:14:02,513 88011  =  SMH168633 : SMH168634
+2015-03-31 19:14:04,013 88010  =  SMH168634 : SMH168635
+2015-03-31 19:14:05,556 88009  =  SMH168635 : SMH168636
+2015-03-31 19:14:07,112 88007  =  SMH168637 : SMH168633
+2015-03-31 19:14:08,563 88004  =  SMH168624 : SMH168623
+2015-03-31 19:14:10,072 88003  =  SMH168628 : SMH168624
+2015-03-31 19:14:11,631 88002  =  SMH168627 : SMH168628
+2015-03-31 19:14:13,071 88001  =  SMH168630 : SMH168627
+2015-03-31 19:14:14,552 87712  =  SMH168625 : SMH168627
+2015-03-31 19:14:16,020 87711  =  SMH168626 : SMH168630
+2015-03-31 19:14:17,457 87710  =  SMH168629 : SMH168625
+2015-03-31 19:14:18,989 87709  =  SMH168623 : SMH168621
+2015-03-31 19:14:20,398 87708  =  SMH168602 : SMH168622
+2015-03-31 19:14:22,105 87706  =  SMH168619 : SMH168620
+2015-03-31 19:14:23,773 87705  =  SMH168620 : SMH168602
+2015-03-31 19:14:25,229 87703  =  SMH168616 : SMH168617
+2015-03-31 19:14:26,957 87702  =  SMH168617 : SMH168618
+2015-03-31 19:14:28,573 87701  =  SMH168605 : SMH168606
+2015-03-31 19:14:30,187 87700  =  SMH168603 : SMH168604
+2015-03-31 19:14:31,813 87699  =  SMH168595 : SMH168603
+2015-03-31 19:14:33,332 87698  =  SMH168594 : SMH168595
+2015-03-31 19:14:35,065 87697  =  SMH168614 : SMH168594
+2015-03-31 19:14:36,405 87696  =  SMH168613 : SMH168614
+2015-03-31 19:14:37,842 87695  =  SMH168604 : SMH168605
+2015-03-31 19:14:39,299 87694  =  SMH168597 : SMH168596
+2015-03-31 19:14:41,035 87693  =  SMH168598 : SMH168597
+2015-03-31 19:14:42,565 87692  =  SMH168599 : SMH168598
+2015-03-31 19:14:44,190 87691  =  SMH168606 : SMH168599
+2015-03-31 19:14:45,803 87690  =  SMH168607 : SMH168606
+2015-03-31 19:14:47,328 87689  =  SMH168601 : SMH168607
+2015-03-31 19:14:48,835 87688  =  SMH168608 : SMH168601
+2015-03-31 19:14:50,388 87687  =  SMH168615 : SMH168608
+2015-03-31 19:14:51,786 87686  =  SMH168600 : SMH168615
+2015-03-31 19:14:53,312 87380  =  SMH168664 : SMH168661
+2015-03-31 19:14:54,832 87379  =  SMH168665 : SMH168664
+2015-03-31 19:14:56,323 87378  =  SMH168666 : SMH168665
+2015-03-31 19:14:57,694 87377  =  SMH168667 : SMH168666
+2015-03-31 19:14:59,286 87376  =  SMH168668 : SMH168667
+2015-03-31 19:15:00,760 87375  =  SMH168663 : SMH116047
+2015-03-31 19:15:02,352 87374  =  SMH168662 : SMH168663
+2015-03-31 19:15:03,743 87373  =  SMH168661 : SMH168662
+2015-03-31 19:15:05,233 87372  =  SMH168660 : SMH168661
+2015-03-31 19:15:06,723 87371  =  SMH168659 : SMH168660
+2015-03-31 19:15:08,035 87370  =  SMH168658 : SMH168659
+2015-03-31 19:15:09,413 87369  =  SMH168657 : SMH168658
+2015-03-31 19:15:10,799 87368  =  SMH168656 : SMH168657
+2015-03-31 19:15:12,174 87367  =  SMH168655 : SMH168656
+2015-03-31 19:15:13,555 87366  =  SMH168653 : SMH168655
+2015-03-31 19:15:14,903 87365  =  SMH168654 : SMH168653
+2015-03-31 19:15:16,276 87364  =  SMH168652 : SMH168653
+2015-03-31 19:15:17,582 87363  =  SMH168651 : SMH168652
+2015-03-31 19:15:18,961 87362  =  SMH168650 : SMH168651
+2015-03-31 19:15:20,256 87361  =  SMH168649 : SMH168650
+2015-03-31 19:15:21,586 Slope:1.03459830888
+2015-03-31 19:15:21,588 87053  =  SMH168675 : SMH168676
+2015-03-31 19:15:22,954 87048  =  SMH168673 : SMH123959
+2015-03-31 19:15:24,326 87047  =  SMH168672 : SMH168673
+2015-03-31 19:15:25,846 87046  =  SMH168671 : SMH168672
+2015-03-31 19:15:27,209 87045  =  SMH168669 : SMH168671
+2015-03-31 19:15:28,573 87044  =  SMH168670 : SMH168671
+2015-03-31 19:15:29,851 87043  =  SMH168681 : SMH168670
+2015-03-31 19:15:39,780 RPUD.ssGravityMain Editor Tracking Enabled
+2015-03-31 19:15:39,782 RPUD.ssManhole Editor Tracking Enabled
+2015-03-31 19:15:39,782 Updating IDs for RPUD.wControlValve
+2015-03-31 19:15:44,822 RPUD.wControlValve Editor Tracking Disabled
+2015-03-31 19:15:46,930 MAX ID = WCV107326
+2015-03-31 19:15:49,352 Features updated = 7
+2015-03-31 19:15:52,503 RPUD.wControlValve Editor Tracking Enabled
+2015-03-31 19:15:52,506 Updating IDs for RPUD.wFitting
+2015-03-31 19:15:54,135 RPUD.wFitting Editor Tracking Disabled
+2015-03-31 19:15:58,664 MAX ID = WFIT189088
+2015-03-31 19:15:59,884 Features updated = 210
+2015-03-31 19:16:02,023 RPUD.wFitting Editor Tracking Enabled
+2015-03-31 19:16:02,023 Updating IDs for RPUD.wGravityMain
+2015-03-31 19:16:03,865 RPUD.wGravityMain Editor Tracking Disabled
+2015-03-31 19:16:04,526 MAX ID = WGM100081
+2015-03-31 19:16:04,766 Features updated = 0
+2015-03-31 19:16:07,216 RPUD.wGravityMain Editor Tracking Enabled
+2015-03-31 19:16:07,217 Updating IDs for RPUD.wLateralLine
+2015-03-31 19:16:08,891 RPUD.wLateralLine Editor Tracking Disabled
+2015-03-31 19:16:12,915 MAX ID = WLAT176974
+2015-03-31 19:16:14,076 Features updated = 172
+2015-03-31 19:16:16,460 RPUD.wLateralLine Editor Tracking Enabled
+2015-03-31 19:16:16,463 Updating IDs for RPUD.wServiceConnection
+2015-03-31 19:16:18,180 RPUD.wServiceConnection Editor Tracking Disabled
+2015-03-31 19:16:27,134 MAX ID = WSC286144
+2015-03-31 19:16:27,654 Features updated = 46
+2015-03-31 19:16:29,973 RPUD.wServiceConnection Editor Tracking Enabled
+2015-03-31 19:16:29,974 Updating IDs for RPUD.wSystemValve
+2015-03-31 19:16:31,671 RPUD.wSystemValve Editor Tracking Disabled
+2015-03-31 19:16:35,316 MAX ID = WSV166496
+2015-03-31 19:16:36,290 Features updated = 135
+2015-03-31 19:16:38,627 RPUD.wSystemValve Editor Tracking Enabled
+2015-03-31 19:16:38,628 Updating IDs for RPUD.wPressureMain
+2015-03-31 19:16:40,427 RPUD.wPressureMain Editor Tracking Disabled
+2015-03-31 19:16:45,532 MAX ID = WMN201363
+2015-03-31 19:16:46,145 Features updated = 65
+2015-03-31 19:16:48,542 RPUD.wPressureMain Editor Tracking Enabled
+2015-03-31 19:16:48,543 Updating IDs for RPUD.wHydrant
+2015-03-31 19:16:49,723 RPUD.wHydrant Editor Tracking Disabled
+2015-03-31 19:16:53,125 MAX ID = WHYD128354
+2015-03-31 19:16:53,674 Features updated = 4
+2015-03-31 19:16:57,115 RPUD.wHydrant Editor Tracking Enabled
+2015-03-31 19:16:57,117 Updating IDs for RPUD.wSamplingStation
+2015-03-31 19:16:58,766 RPUD.wSamplingStation Editor Tracking Disabled
+2015-03-31 19:16:59,394 MAX ID = WSS10229
+2015-03-31 19:16:59,796 Features updated = 10
+2015-03-31 19:17:02,362 RPUD.wSamplingStation Editor Tracking Enabled
+2015-03-31 19:17:02,365 ********  STOP OF AUTOID.py  **********
+2015-03-31 19:17:02,365 
+2015-04-07 16:49:57,292 
+2015-04-07 16:49:57,325 ********  START OF AUTOID.py  **********
+2015-04-07 16:49:57,328 Updating IDs for RPUD.ssControlValve
+2015-04-07 17:23:37,864 
+2015-04-07 17:23:37,864 ********  START OF AUTOID.py  **********
+2015-04-07 17:23:37,864 Updating IDs for RPUD.ssControlValve
+2015-04-07 17:23:45,414 RPUD.ssControlValve Editor Tracking Disabled
+2015-04-07 17:23:47,551 MAX ID = SCV10587
+2015-04-07 17:23:49,625 Features updated = 0
+2015-04-07 17:23:52,545 RPUD.ssControlValve Editor Tracking Enabled
+2015-04-07 17:23:52,545 Updating IDs for RPUD.ssFitting
+2015-04-07 17:23:55,243 RPUD.ssFitting Editor Tracking Disabled
+2015-04-07 17:23:58,114 MAX ID = SF133968
+2015-04-07 17:23:58,473 Features updated = 18
+2015-04-07 17:24:01,344 RPUD.ssFitting Editor Tracking Enabled
+2015-04-07 17:24:01,344 Updating IDs for RPUD.ssForceMain
+2015-04-07 17:24:04,417 RPUD.ssForceMain Editor Tracking Disabled
+2015-04-07 17:24:05,055 MAX ID = SFMN11411
+2015-04-07 17:24:05,197 Features updated = 0
+2015-04-07 17:24:08,348 RPUD.ssForceMain Editor Tracking Enabled
+2015-04-07 17:24:08,348 Updating IDs for RPUD.ssGravityMain
+2015-04-07 17:24:16,476 RPUD.ssGravityMain Editor Tracking Disabled
+2015-04-07 17:24:21,467 MAX ID = SGMN168231
+2015-04-07 17:24:21,888 Features updated = 32
+2015-04-07 17:24:29,595 RPUD.ssGravityMain Editor Tracking Enabled
+2015-04-07 17:24:29,595 Updating IDs for RPUD.ssLateralLine
+2015-04-07 17:24:31,372 RPUD.ssLateralLine Editor Tracking Disabled
+2015-04-07 17:24:34,259 MAX ID = SLAT146590
+2015-04-07 17:24:35,055 Features updated = 91
+2015-04-07 17:24:36,989 RPUD.ssLateralLine Editor Tracking Enabled
+2015-04-07 17:24:36,989 Updating IDs for RPUD.ssAerial
+2015-04-07 17:24:38,877 RPUD.ssAerial Editor Tracking Disabled
+2015-04-07 17:24:39,438 MAX ID = SAM10770
+2015-04-07 17:24:39,595 Features updated = 0
+2015-04-07 17:24:41,716 RPUD.ssAerial Editor Tracking Enabled
+2015-04-07 17:24:41,716 Updating IDs for RPUD.ssManhole
+2015-04-07 17:24:45,148 RPUD.ssManhole Editor Tracking Disabled
+2015-04-07 17:24:49,562 MAX ID = SMH168683
+2015-04-07 17:24:50,078 Features updated = 38
+2015-04-07 17:24:53,556 RPUD.ssManhole Editor Tracking Enabled
+2015-04-07 17:25:02,510 RPUD.ssGravityMain Editor Tracking Disabled
+2015-04-07 17:25:02,510 RPUD.ssManhole Editor Tracking Disabled
+2015-04-07 17:25:03,290 UpdateMHNumbers
+2015-04-07 17:26:11,246 88647  =  SMH168718 : SMH168719
+2015-04-07 17:26:12,447 88646  =  SMH168717 : SMH168718
+2015-04-07 17:26:13,664 58228  =  SMH168719 : SMH168716
+2015-04-07 17:26:14,895 90252  =  SMH168702 : SMH168701
+2015-04-07 17:26:16,082 90251  =  SMH168703 : SMH168702
+2015-04-07 17:26:17,313 90250  =  SMH168704 : SMH168703
+2015-04-07 17:26:18,516 90249  =  SMH168705 : SMH168704
+2015-04-07 17:26:19,686 90247  =  SMH168712 : SMH168713
+2015-04-07 17:26:20,855 90246  =  SMH168711 : SMH168712
+2015-04-07 17:26:21,993 90245  =  SMH168710 : SMH168711
+2015-04-07 17:26:23,210 90244  =  SMH168709 : SMH168710
+2015-04-07 17:26:24,411 90243  =  SMH168706 : SMH168709
+2015-04-07 17:26:25,628 90242  =  SMH168707 : SMH168706
+2015-04-07 17:26:26,861 90241  =  SMH168708 : SMH168707
+2015-04-07 17:26:28,078 89921  =  SMH168685 : SMH168684
+2015-04-07 17:26:29,295 89291  =  SMH168692 : SMH168693
+2015-04-07 17:26:30,512 89290  =  SMH168691 : SMH168692
+2015-04-07 17:26:31,665 89289  =  SMH168690 : SMH168691
+2015-04-07 17:26:32,898 89287  =  SMH168696 : SMH168697
+2015-04-07 17:26:34,084 89286  =  SMH168695 : SMH168696
+2015-04-07 17:26:35,269 89285  =  SMH168694 : SMH168695
+2015-04-07 17:26:36,470 89283  =  SMH168687 : SMH168686
+2015-04-07 17:26:37,641 89282  =  SMH168688 : SMH168687
+2015-04-07 17:26:38,888 89281  =  SMH168689 : SMH168688
+2015-04-07 17:26:40,075 Slope:2.83434715628
+2015-04-07 17:26:40,089 88648  =  SMH168720 : SMH168718
+2015-04-07 17:26:41,322 Slope:0.535075457929
+2015-04-07 17:26:41,338 88644  =  SMH168714 : SMH168715
+2015-04-07 17:26:42,571 88643  =  SMH168715 : SMH168716
+2015-04-07 17:26:43,724 Slope:3.6195664976
+2015-04-07 17:26:43,724 88641  =  SMH168721 : SMH168714
+2015-04-07 17:26:53,210 RPUD.ssGravityMain Editor Tracking Enabled
+2015-04-07 17:26:53,210 RPUD.ssManhole Editor Tracking Enabled
+2015-04-07 17:26:53,210 Updating IDs for RPUD.wControlValve
+2015-04-07 17:26:57,937 RPUD.wControlValve Editor Tracking Disabled
+2015-04-07 17:27:00,073 MAX ID = WCV107333
+2015-04-07 17:27:02,196 Features updated = 17
+2015-04-07 17:27:05,098 RPUD.wControlValve Editor Tracking Enabled
+2015-04-07 17:27:05,098 Updating IDs for RPUD.wFitting
+2015-04-07 17:27:06,706 RPUD.wFitting Editor Tracking Disabled
+2015-04-07 17:27:11,572 MAX ID = WFIT189298
+2015-04-07 17:27:12,680 Features updated = 180
+2015-04-07 17:27:14,941 RPUD.wFitting Editor Tracking Enabled
+2015-04-07 17:27:14,941 Updating IDs for RPUD.wGravityMain
+2015-04-07 17:27:16,782 RPUD.wGravityMain Editor Tracking Disabled
+2015-04-07 17:27:17,470 MAX ID = WGM100081
+2015-04-07 17:27:17,671 Features updated = 0
+2015-04-07 17:27:20,059 RPUD.wGravityMain Editor Tracking Enabled
+2015-04-07 17:27:20,059 Updating IDs for RPUD.wLateralLine
+2015-04-07 17:27:21,650 RPUD.wLateralLine Editor Tracking Disabled
+2015-04-07 17:27:26,190 MAX ID = WLAT177146
+2015-04-07 17:27:27,282 Features updated = 161
+2015-04-07 17:27:29,513 RPUD.wLateralLine Editor Tracking Enabled
+2015-04-07 17:27:29,513 Updating IDs for RPUD.wServiceConnection
+2015-04-07 17:27:31,104 RPUD.wServiceConnection Editor Tracking Disabled
+2015-04-07 17:27:40,479 MAX ID = WSC286190
+2015-04-07 17:27:40,854 Features updated = 10
+2015-04-07 17:27:43,085 RPUD.wServiceConnection Editor Tracking Enabled
+2015-04-07 17:27:43,085 Updating IDs for RPUD.wSystemValve
+2015-04-07 17:27:44,690 RPUD.wSystemValve Editor Tracking Disabled
+2015-04-07 17:27:48,467 MAX ID = WSV166631
+2015-04-07 17:27:49,278 Features updated = 110
+2015-04-07 17:27:51,571 RPUD.wSystemValve Editor Tracking Enabled
+2015-04-07 17:27:51,586 Updating IDs for RPUD.wPressureMain
+2015-04-07 17:27:53,193 RPUD.wPressureMain Editor Tracking Disabled
+2015-04-07 17:27:58,309 MAX ID = WMN201428
+2015-04-07 17:27:58,903 Features updated = 60
+2015-04-07 17:28:01,196 RPUD.wPressureMain Editor Tracking Enabled
+2015-04-07 17:28:01,196 Updating IDs for RPUD.wHydrant
+2015-04-07 17:28:03,519 RPUD.wHydrant Editor Tracking Disabled
+2015-04-07 17:28:06,967 MAX ID = WHYD128358
+2015-04-07 17:28:07,374 Features updated = 5
+2015-04-07 17:28:10,322 RPUD.wHydrant Editor Tracking Enabled
+2015-04-07 17:28:10,322 Updating IDs for RPUD.wSamplingStation
+2015-04-07 17:28:11,835 RPUD.wSamplingStation Editor Tracking Disabled
+2015-04-07 17:28:12,427 MAX ID = WSS10239
+2015-04-07 17:28:12,645 Features updated = 0
+2015-04-07 17:28:14,845 RPUD.wSamplingStation Editor Tracking Enabled
+2015-04-07 17:28:14,845 ********  STOP OF AUTOID.py  **********
+2015-04-07 17:28:14,845 
+2015-04-08 17:43:42,361 
+2015-04-08 17:43:42,378 ********  START OF AUTOID.py  **********
+2015-04-08 17:43:42,378 Updating IDs for RPUD.ssControlValve
+2015-04-08 17:43:55,907 RPUD.ssControlValve Editor Tracking Disabled
+2015-04-08 17:43:58,388 MAX ID = SCV10587
+2015-04-08 17:44:00,305 Features updated = 0
+2015-04-08 17:44:02,895 RPUD.ssControlValve Editor Tracking Enabled
+2015-04-08 17:44:02,895 Updating IDs for RPUD.ssFitting
+2015-04-08 17:44:05,470 RPUD.ssFitting Editor Tracking Disabled
+2015-04-08 17:44:07,201 MAX ID = SF133986
+2015-04-08 17:44:07,358 Features updated = 0
+2015-04-08 17:44:09,931 RPUD.ssFitting Editor Tracking Enabled
+2015-04-08 17:44:09,931 Updating IDs for RPUD.ssForceMain
+2015-04-08 17:44:12,520 RPUD.ssForceMain Editor Tracking Disabled
+2015-04-08 17:44:13,177 MAX ID = SFMN11411
+2015-04-08 17:44:13,332 Features updated = 0
+2015-04-08 17:44:15,875 RPUD.ssForceMain Editor Tracking Enabled
+2015-04-08 17:44:15,875 Updating IDs for RPUD.ssGravityMain
+2015-04-08 17:44:22,525 RPUD.ssGravityMain Editor Tracking Disabled
+2015-04-08 17:44:27,359 MAX ID = SGMN168263
+2015-04-08 17:44:27,734 Features updated = 5
+2015-04-08 17:44:34,581 RPUD.ssGravityMain Editor Tracking Enabled
+2015-04-08 17:44:34,581 Updating IDs for RPUD.ssLateralLine
+2015-04-08 17:44:36,500 RPUD.ssLateralLine Editor Tracking Disabled
+2015-04-08 17:44:39,119 MAX ID = SLAT146681
+2015-04-08 17:44:39,431 Features updated = 5
+2015-04-08 17:44:41,474 RPUD.ssLateralLine Editor Tracking Enabled
+2015-04-08 17:44:41,474 Updating IDs for RPUD.ssAerial
+2015-04-08 17:44:43,533 RPUD.ssAerial Editor Tracking Disabled
+2015-04-08 17:44:44,157 MAX ID = SAM10770
+2015-04-08 17:44:44,298 Features updated = 0
+2015-04-08 17:44:46,450 RPUD.ssAerial Editor Tracking Enabled
+2015-04-08 17:44:46,450 Updating IDs for RPUD.ssManhole
+2015-04-08 17:44:49,775 RPUD.ssManhole Editor Tracking Disabled
+2015-04-08 17:44:54,063 MAX ID = SMH168721
+2015-04-08 17:44:54,500 Features updated = 11
+2015-04-08 17:44:58,025 RPUD.ssManhole Editor Tracking Enabled
+2015-04-08 17:45:07,196 RPUD.ssGravityMain Editor Tracking Disabled
+2015-04-08 17:45:07,196 RPUD.ssManhole Editor Tracking Disabled
+2015-04-08 17:45:07,928 UpdateMHNumbers
+2015-04-08 17:46:14,813 90571  =  SMH168732 : SMH168725
+2015-04-08 17:46:16,062 90568  =  SMH168729 : SMH168723
+2015-04-08 17:46:17,232 90567  =  SMH168724 : SMH168729
+2015-04-08 17:46:18,401 90566  =  SMH168730 : SMH168724
+2015-04-08 17:46:19,601 90565  =  SMH168723 : SMH168728
+2015-04-08 17:46:29,415 RPUD.ssGravityMain Editor Tracking Enabled
+2015-04-08 17:46:29,415 RPUD.ssManhole Editor Tracking Enabled
+2015-04-08 17:46:29,415 Updating IDs for RPUD.wControlValve
+2015-04-08 17:46:35,249 RPUD.wControlValve Editor Tracking Disabled
+2015-04-08 17:46:37,447 MAX ID = WCV107350
+2015-04-08 17:46:39,631 Features updated = 12
+2015-04-08 17:46:42,734 RPUD.wControlValve Editor Tracking Enabled
+2015-04-08 17:46:42,734 Updating IDs for RPUD.wFitting
+2015-04-08 17:46:44,404 RPUD.wFitting Editor Tracking Disabled
+2015-04-08 17:46:48,957 MAX ID = WFIT189478
+2015-04-08 17:46:49,924 Features updated = 113
+2015-04-08 17:46:52,280 RPUD.wFitting Editor Tracking Enabled
+2015-04-08 17:46:52,280 Updating IDs for RPUD.wGravityMain
+2015-04-08 17:46:54,233 RPUD.wGravityMain Editor Tracking Disabled
+2015-04-08 17:46:54,904 MAX ID = WGM100081
+2015-04-08 17:46:55,121 Features updated = 0
+2015-04-08 17:46:57,648 RPUD.wGravityMain Editor Tracking Enabled
+2015-04-08 17:46:57,648 Updating IDs for RPUD.wLateralLine
+2015-04-08 17:46:59,332 RPUD.wLateralLine Editor Tracking Disabled
+2015-04-08 17:47:03,559 MAX ID = WLAT177307
+2015-04-08 17:47:04,448 Features updated = 94
+2015-04-08 17:47:06,756 RPUD.wLateralLine Editor Tracking Enabled
+2015-04-08 17:47:06,756 Updating IDs for RPUD.wServiceConnection
+2015-04-08 17:47:08,519 RPUD.wServiceConnection Editor Tracking Disabled
+2015-04-08 17:47:17,517 MAX ID = WSC286200
+2015-04-08 17:47:17,877 Features updated = 2
+2015-04-08 17:47:20,216 RPUD.wServiceConnection Editor Tracking Enabled
+2015-04-08 17:47:20,216 Updating IDs for RPUD.wSystemValve
+2015-04-08 17:47:21,963 RPUD.wSystemValve Editor Tracking Disabled
+2015-04-08 17:47:25,694 MAX ID = WSV166741
+2015-04-08 17:47:26,272 Features updated = 36
+2015-04-08 17:47:28,657 RPUD.wSystemValve Editor Tracking Enabled
+2015-04-08 17:47:28,657 Updating IDs for RPUD.wPressureMain
+2015-04-08 17:47:30,358 RPUD.wPressureMain Editor Tracking Disabled
+2015-04-08 17:47:35,441 MAX ID = WMN201488
+2015-04-08 17:47:35,971 Features updated = 27
+2015-04-08 17:47:38,358 RPUD.wPressureMain Editor Tracking Enabled
+2015-04-08 17:47:38,358 Updating IDs for RPUD.wHydrant
+2015-04-08 17:47:40,729 RPUD.wHydrant Editor Tracking Disabled
+2015-04-08 17:47:44,003 MAX ID = WHYD128363
+2015-04-08 17:47:44,487 Features updated = 18
+2015-04-08 17:47:47,575 RPUD.wHydrant Editor Tracking Enabled
+2015-04-08 17:47:47,575 Updating IDs for RPUD.wSamplingStation
+2015-04-08 17:47:49,181 RPUD.wSamplingStation Editor Tracking Disabled
+2015-04-08 17:47:49,789 MAX ID = WSS10239
+2015-04-08 17:47:50,023 Features updated = 0
+2015-04-08 17:47:52,255 RPUD.wSamplingStation Editor Tracking Enabled
+2015-04-08 17:47:52,255 ********  STOP OF AUTOID.py  **********
+2015-04-08 17:47:52,255 
+2015-06-18 12:40:59,144 
+2015-06-18 12:40:59,160 ********  START OF AUTOID.py  **********
+2015-06-18 12:40:59,160 Updating IDs for RPUD.ssControlValve
+2015-06-18 12:41:12,111 RPUD.ssControlValve Editor Tracking Disabled
+2015-06-18 12:41:15,480 MAX ID = SCV10594
+2015-06-18 12:41:18,226 Features updated = 0
+2015-06-18 12:41:23,378 RPUD.ssControlValve Editor Tracking Enabled
+2015-06-18 12:41:23,378 Updating IDs for RPUD.ssFitting
+2015-06-18 12:41:27,262 RPUD.ssFitting Editor Tracking Disabled
+2015-06-18 12:41:31,630 MAX ID = SF134753
+2015-06-18 12:41:31,957 Features updated = 3
+2015-06-18 12:41:37,448 RPUD.ssFitting Editor Tracking Enabled
+2015-06-18 12:41:37,448 Updating IDs for RPUD.ssForceMain
+2015-06-18 12:41:41,740 RPUD.ssForceMain Editor Tracking Disabled
+2015-06-18 12:41:42,505 MAX ID = SFMN11570
+2015-06-18 12:41:43,128 Features updated = 0
+2015-06-18 12:41:47,434 RPUD.ssForceMain Editor Tracking Enabled
+2015-06-18 12:41:47,434 Updating IDs for RPUD.ssGravityMain
+2015-06-18 12:41:58,292 RPUD.ssGravityMain Editor Tracking Disabled
+2015-06-18 12:42:07,792 MAX ID = SGMN168506
+2015-06-18 12:42:08,009 Features updated = 0
+2015-06-18 12:42:18,480 RPUD.ssGravityMain Editor Tracking Enabled
+2015-06-18 12:42:18,480 Updating IDs for RPUD.ssLateralLine
+2015-06-18 12:42:21,349 RPUD.ssLateralLine Editor Tracking Disabled
+2015-06-18 12:42:25,779 MAX ID = SLAT147751
+2015-06-18 12:42:25,921 Features updated = 0
+2015-06-18 12:42:29,025 RPUD.ssLateralLine Editor Tracking Enabled
+2015-06-18 12:42:29,025 Updating IDs for RPUD.ssAerial
+2015-06-18 12:42:33,065 RPUD.ssAerial Editor Tracking Disabled
+2015-06-18 12:42:33,611 MAX ID = SAM10771
+2015-06-18 12:42:33,736 Features updated = 0
+2015-06-18 12:42:36,746 RPUD.ssAerial Editor Tracking Enabled
+2015-06-18 12:42:36,746 Updating IDs for RPUD.ssManhole
+2015-06-18 12:42:42,861 RPUD.ssManhole Editor Tracking Disabled
+2015-06-18 12:42:48,914 MAX ID = SMH169011
+2015-06-18 12:42:49,148 Features updated = 0
+2015-06-18 12:42:54,888 RPUD.ssManhole Editor Tracking Enabled
+2015-06-18 12:43:10,380 RPUD.ssGravityMain Editor Tracking Disabled
+2015-06-18 12:43:10,380 RPUD.ssManhole Editor Tracking Disabled
+2015-06-18 12:43:11,503 UpdateMHNumbers
+2015-06-18 12:45:00,207 RPUD.ssGravityMain Editor Tracking Enabled
+2015-06-18 12:45:00,207 RPUD.ssManhole Editor Tracking Enabled
+2015-06-18 12:45:00,223 Updating IDs for RPUD.wControlValve
+2015-06-18 12:45:13,374 RPUD.wControlValve Editor Tracking Disabled
+2015-06-18 12:45:18,834 MAX ID = WCV107457
+2015-06-18 12:45:19,270 Features updated = 30
+2015-06-18 12:52:26,323 
+2015-06-18 12:52:26,323 ********  START OF AUTOID.py  **********
+2015-06-18 12:52:26,323 Updating IDs for RPUD.ssControlValve
+2015-06-18 12:52:35,107 RPUD.ssControlValve Editor Tracking Disabled
+2015-06-18 12:52:38,164 MAX ID = SCV10594
+2015-06-18 12:53:40,247 
+2015-06-18 12:53:40,250 ********  START OF AUTOID.py  **********
+2015-06-18 12:53:40,250 Updating IDs for RPUD.ssControlValve
+2015-06-18 12:53:49,976 RPUD.ssControlValve Editor Tracking Disabled
+2015-06-18 12:53:53,729 MAX ID = SCV10594
+2015-06-18 12:53:57,380 Features updated = 0
+2015-06-18 12:54:01,181 RPUD.ssControlValve Editor Tracking Enabled
+2015-06-18 12:54:01,183 Updating IDs for RPUD.ssFitting
+2015-06-18 12:54:04,372 RPUD.ssFitting Editor Tracking Disabled
+2015-06-18 12:54:07,154 MAX ID = SF134756
+2015-06-18 12:54:07,318 Features updated = 0
+2015-06-18 12:54:11,299 RPUD.ssFitting Editor Tracking Enabled
+2015-06-18 12:54:11,301 Updating IDs for RPUD.ssForceMain
+2015-06-18 12:54:14,561 RPUD.ssForceMain Editor Tracking Disabled
+2015-06-18 12:54:15,433 MAX ID = SFMN11570
+2015-06-18 12:54:15,608 Features updated = 0
+2015-06-18 12:54:18,983 RPUD.ssForceMain Editor Tracking Enabled
+2015-06-18 12:54:18,984 Updating IDs for RPUD.ssGravityMain
+2015-06-18 12:54:28,707 RPUD.ssGravityMain Editor Tracking Disabled
+2015-06-18 12:54:36,714 MAX ID = SGMN168506
+2015-06-18 12:54:36,928 Features updated = 0
+2015-06-18 12:54:46,405 RPUD.ssGravityMain Editor Tracking Enabled
+2015-06-18 12:54:46,407 Updating IDs for RPUD.ssLateralLine
+2015-06-18 12:54:49,543 RPUD.ssLateralLine Editor Tracking Disabled
+2015-06-18 12:54:53,342 MAX ID = SLAT147751
+2015-06-18 12:54:53,509 Features updated = 0
+2015-06-18 12:54:56,453 RPUD.ssLateralLine Editor Tracking Enabled
+2015-06-18 12:54:56,453 Updating IDs for RPUD.ssAerial
+2015-06-18 12:54:59,338 RPUD.ssAerial Editor Tracking Disabled
+2015-06-18 12:54:59,888 MAX ID = SAM10771
+2015-06-18 12:56:48,375 
+2015-06-18 12:56:48,375 ********  START OF AUTOID.py  **********
+2015-06-18 12:56:48,375 Updating IDs for RPUD.ssControlValve
+2015-06-18 12:56:57,346 RPUD.ssControlValve Editor Tracking Disabled
+2015-06-18 12:57:01,279 MAX ID = SCV10594
+2015-06-18 12:57:04,071 Features updated = 0
+2015-06-18 12:57:07,907 RPUD.ssControlValve Editor Tracking Enabled
+2015-06-18 12:57:07,907 Updating IDs for RPUD.ssFitting
+2015-06-18 12:57:11,105 RPUD.ssFitting Editor Tracking Disabled
+2015-06-18 12:57:14,492 MAX ID = SF134756
+2015-06-18 13:13:56,078 
+2015-06-18 13:13:56,078 ********  START OF AUTOID.py  **********
+2015-06-18 13:13:56,078 Updating IDs for RPUD.ssControlValve
+2015-06-18 13:19:47,992 
+2015-06-18 13:19:48,006 ********  START OF AUTOID.py  **********
+2015-06-18 13:19:48,006 Updating IDs for RPUD.ssControlValve
+2015-06-18 13:19:55,480 RPUD.ssControlValve Editor Tracking Disabled
+2015-06-18 13:19:57,585 MAX ID = SCV10594
+2015-06-18 13:19:59,130 Features updated = 0
+2015-06-18 13:20:02,951 RPUD.ssControlValve Editor Tracking Enabled
+2015-06-18 13:20:02,967 Updating IDs for RPUD.ssFitting
+2015-06-18 13:20:04,448 RPUD.ssFitting Editor Tracking Disabled
+2015-06-18 13:20:06,430 MAX ID = SF134756
+2015-06-18 13:20:06,601 Features updated = 0
+2015-06-18 13:20:09,940 RPUD.ssFitting Editor Tracking Enabled
+2015-06-18 13:20:09,940 Updating IDs for RPUD.ssForceMain
+2015-06-18 13:20:12,967 RPUD.ssForceMain Editor Tracking Disabled
+2015-06-18 13:20:13,559 MAX ID = SFMN11570
+2015-06-18 13:20:13,716 Features updated = 0
+2015-06-18 13:20:17,240 RPUD.ssForceMain Editor Tracking Enabled
+2015-06-18 13:20:17,240 Updating IDs for RPUD.ssGravityMain
+2015-06-18 13:20:26,944 RPUD.ssGravityMain Editor Tracking Disabled
+2015-06-18 13:20:33,122 MAX ID = SGMN168506
+2015-06-18 13:22:06,750 
+2015-06-18 13:22:06,750 ********  START OF AUTOID.py  **********
+2015-06-18 13:22:06,750 Updating IDs for RPUD.ssControlValve
+2015-06-18 13:22:16,296 RPUD.ssControlValve Editor Tracking Disabled
+2015-06-18 13:22:19,183 MAX ID = SCV10594
+2015-06-18 13:22:21,273 Features updated = 0
+2015-06-18 13:22:25,032 RPUD.ssControlValve Editor Tracking Enabled
+2015-06-18 13:22:25,032 Updating IDs for RPUD.ssFitting
+2015-06-18 13:22:28,203 RPUD.ssFitting Editor Tracking Disabled
+2015-06-18 13:22:32,586 MAX ID = SF134756
+2015-06-18 13:22:32,710 Features updated = 0
+2015-06-18 13:22:36,486 RPUD.ssFitting Editor Tracking Enabled
+2015-06-18 13:22:36,486 Updating IDs for RPUD.ssForceMain
+2015-06-18 13:22:39,855 RPUD.ssForceMain Editor Tracking Disabled
+2015-06-18 13:22:40,808 MAX ID = SFMN11570
+2015-06-18 13:22:40,963 Features updated = 0
+2015-06-18 13:22:44,582 RPUD.ssForceMain Editor Tracking Enabled
+2015-06-18 13:22:44,598 Updating IDs for RPUD.ssGravityMain
+2015-06-18 13:22:48,015 RPUD.ssGravityMain Editor Tracking Disabled
+2015-06-18 13:22:56,969 MAX ID = SGMN168506
+2015-06-18 13:22:57,141 Features updated = 0
+2015-06-18 13:23:08,062 RPUD.ssGravityMain Editor Tracking Enabled
+2015-06-18 13:23:08,062 Updating IDs for RPUD.ssLateralLine
+2015-06-18 13:23:12,882 RPUD.ssLateralLine Editor Tracking Disabled
+2015-06-18 13:23:18,326 MAX ID = SLAT147751
+2015-06-18 13:23:18,483 Features updated = 0
+2015-06-18 13:23:21,602 RPUD.ssLateralLine Editor Tracking Enabled
+2015-06-18 13:23:21,602 Updating IDs for RPUD.ssAerial
+2015-06-18 13:23:23,677 RPUD.ssAerial Editor Tracking Disabled
+2015-06-18 13:23:24,239 MAX ID = SAM10771
+2015-06-18 13:23:24,832 Features updated = 0
+2015-06-18 13:23:28,622 RPUD.ssAerial Editor Tracking Enabled
+2015-06-18 13:23:28,622 Updating IDs for RPUD.ssManhole
+2015-06-18 13:23:34,612 RPUD.ssManhole Editor Tracking Disabled
+2015-06-18 13:23:42,724 MAX ID = SMH169011
+2015-06-18 13:23:42,974 Features updated = 0
+2015-06-18 13:23:51,290 RPUD.ssManhole Editor Tracking Enabled
+2015-06-18 13:24:06,236 RPUD.ssGravityMain Editor Tracking Disabled
+2015-06-18 13:24:06,236 RPUD.ssManhole Editor Tracking Disabled
+2015-06-18 13:24:07,280 UpdateMHNumbers
+2015-06-18 13:26:05,078 RPUD.ssGravityMain Editor Tracking Enabled
+2015-06-18 13:26:05,078 RPUD.ssManhole Editor Tracking Enabled
+2015-06-18 13:26:05,078 Updating IDs for RPUD.wControlValve
+2015-06-18 13:26:16,605 RPUD.wControlValve Editor Tracking Disabled
+2015-06-18 13:26:21,676 MAX ID = WCV107457
+2015-06-18 13:26:22,253 Features updated = 30
+2015-06-18 13:30:19,555 
+2015-06-18 13:30:19,555 ********  START OF AUTOID.py  **********
+2015-06-18 13:30:19,559 Updating IDs for RPUD.wControlValve
+2015-06-18 13:30:28,388 RPUD.wControlValve Editor Tracking Disabled
+2015-06-18 13:30:31,188 MAX ID = WCV107457
+2015-06-18 13:30:51,209 
+2015-06-18 13:30:51,210 ********  START OF AUTOID.py  **********
+2015-06-18 13:30:51,213 Updating IDs for RPUD.wControlValve
+2015-06-18 13:30:56,706 RPUD.wControlValve Editor Tracking Disabled
+2015-06-18 13:31:00,243 MAX ID = WCV107457
+2015-06-18 13:31:01,637 Features updated = 30
+2015-06-18 13:31:07,107 RPUD.wControlValve Editor Tracking Enabled
+2015-06-18 13:31:07,108 Updating IDs for RPUD.wFitting
+2015-06-18 13:31:09,436 RPUD.wFitting Editor Tracking Disabled
+2015-06-18 13:31:19,868 MAX ID = WFIT190983
+2015-06-18 13:31:23,048 Features updated = 272
+2015-06-18 13:31:25,930 RPUD.wFitting Editor Tracking Enabled
+2015-06-18 13:31:25,933 Updating IDs for RPUD.wGravityMain
+2015-06-18 13:31:28,875 RPUD.wGravityMain Editor Tracking Disabled
+2015-06-18 13:31:29,483 MAX ID = WGM100081
+2015-06-18 13:32:20,746 
+2015-06-18 13:32:20,749 ********  START OF AUTOID.py  **********
+2015-06-18 13:32:20,750 Updating IDs for RPUD.wControlValve
+2015-06-18 13:32:26,904 RPUD.wControlValve Editor Tracking Disabled
+2015-06-18 13:32:29,417 MAX ID = WCV107487
+2015-06-18 13:32:30,545 Features updated = 0
+2015-06-18 13:32:34,108 RPUD.wControlValve Editor Tracking Enabled
+2015-06-18 13:32:34,109 Updating IDs for RPUD.wFitting
+2015-06-18 13:32:36,188 RPUD.wFitting Editor Tracking Disabled
+2015-06-18 13:32:41,877 MAX ID = WFIT191255
+2015-06-18 13:39:08,410 
+2015-06-18 13:39:08,413 ********  START OF AUTOID.py  **********
+2015-06-18 13:39:08,414 Updating IDs for RPUD.wControlValve
+2015-06-18 13:39:17,263 RPUD.wControlValve Editor Tracking Disabled
+2015-06-18 13:39:21,065 MAX ID = WCV107487
+2015-06-18 13:39:22,921 Features updated = 0
+2015-06-18 13:39:26,285 RPUD.wControlValve Editor Tracking Enabled
+2015-06-18 13:39:26,286 Updating IDs for RPUD.wFitting
+2015-06-18 13:39:27,430 RPUD.wFitting Editor Tracking Disabled
+2015-06-18 13:39:33,302 MAX ID = WFIT191255
+2015-06-18 14:53:53,690 
+2015-06-18 14:53:53,691 ********  START OF AUTOID.py  **********
+2015-06-18 14:53:53,693 Updating IDs for RPUD.wControlValve
+2015-06-18 14:54:03,960 RPUD.wControlValve Editor Tracking Disabled
+2015-06-18 14:54:07,269 MAX ID = WCV107487
+2015-06-18 14:54:10,561 Features updated = 0
+2015-06-18 14:54:14,851 RPUD.wControlValve Editor Tracking Enabled
+2015-06-18 14:54:14,851 Updating IDs for RPUD.wFitting
+2015-06-18 14:54:15,976 RPUD.wFitting Editor Tracking Disabled
+2015-06-18 14:54:21,686 MAX ID = WFIT191255
+2015-06-18 14:54:21,888 Features updated = 0
+2015-06-18 14:54:25,246 RPUD.wFitting Editor Tracking Enabled
+2015-06-18 14:54:25,246 Updating IDs for RPUD.wGravityMain
+2015-06-18 14:54:26,665 RPUD.wGravityMain Editor Tracking Disabled
+2015-06-18 14:54:27,243 MAX ID = WGM100081
+2015-06-18 14:54:27,424 Features updated = 0
+2015-06-18 14:54:31,283 RPUD.wGravityMain Editor Tracking Enabled
+2015-06-18 14:54:31,283 Updating IDs for RPUD.wLateralLine
+2015-06-18 14:54:33,592 RPUD.wLateralLine Editor Tracking Disabled
+2015-06-18 14:54:44,461 MAX ID = WLAT178749
+2015-06-18 14:54:47,223 Features updated = 250
+2015-06-18 14:54:50,536 RPUD.wLateralLine Editor Tracking Enabled
+2015-06-18 14:54:50,536 Updating IDs for RPUD.wServiceConnection
+2015-06-18 14:54:53,062 RPUD.wServiceConnection Editor Tracking Disabled
+2015-06-18 14:55:08,664 MAX ID = WSC286451
+2015-06-18 14:55:09,019 Features updated = 5
+2015-06-18 14:55:13,137 RPUD.wServiceConnection Editor Tracking Enabled
+2015-06-18 14:55:13,137 Updating IDs for RPUD.wSystemValve
+2015-06-18 14:55:16,095 RPUD.wSystemValve Editor Tracking Disabled
+2015-06-18 14:55:22,575 MAX ID = WSV167533
+2015-06-18 14:55:24,332 Features updated = 222
+2015-06-18 14:55:28,247 RPUD.wSystemValve Editor Tracking Enabled
+2015-06-18 14:55:28,247 Updating IDs for RPUD.wPressureMain
+2015-06-18 14:55:31,269 RPUD.wPressureMain Editor Tracking Disabled
+2015-06-18 14:55:41,467 MAX ID = WMN201927
+2015-06-18 14:55:42,545 Features updated = 96
+2015-06-18 14:55:46,398 RPUD.wPressureMain Editor Tracking Enabled
+2015-06-18 14:55:46,398 Updating IDs for RPUD.wHydrant
+2015-06-18 14:55:49,907 RPUD.wHydrant Editor Tracking Disabled
+2015-06-18 14:55:54,891 MAX ID = WHYD128496
+2015-06-18 14:55:55,969 Features updated = 39
+2015-06-18 14:56:00,023 RPUD.wHydrant Editor Tracking Enabled
+2015-06-18 14:56:00,023 Updating IDs for RPUD.wSamplingStation
+2015-06-18 14:56:02,242 RPUD.wSamplingStation Editor Tracking Disabled
+2015-06-18 14:56:03,293 MAX ID = WSS10253
+2015-06-18 14:56:03,611 Features updated = 1
+2015-06-18 14:56:06,517 RPUD.wSamplingStation Editor Tracking Enabled
+2015-06-18 14:56:06,517 ********  STOP OF AUTOID.py  **********
+2015-06-18 14:56:06,532 
+2015-06-18 14:58:03,155 
+2015-06-18 14:58:03,155 ********  START OF AUTOID.py  **********
+2015-06-18 14:58:03,155 Updating IDs for RPUD.ssCleanOut
+2015-06-18 14:58:35,130 
+2015-06-18 14:58:35,130 ********  START OF AUTOID.py  **********
+2015-06-18 14:58:35,130 Updating IDs for RPUD.ssCleanOut
+2015-06-18 14:58:45,894 RPUD.ssCleanOut Editor Tracking Disabled
+2015-06-18 14:59:00,049 MAX ID = SCO147811
+2015-06-18 14:59:04,418 Features updated = 0
+2015-06-18 14:59:08,213 RPUD.ssCleanOut Editor Tracking Enabled
+2015-06-18 14:59:08,229 Updating IDs for RPUD.ssControlValve
+2015-06-18 14:59:13,532 RPUD.ssControlValve Editor Tracking Disabled
+2015-06-18 14:59:14,075 MAX ID = SCV10594
+2015-06-18 14:59:14,233 Features updated = 0
+2015-06-18 14:59:21,842 RPUD.ssControlValve Editor Tracking Enabled
+2015-06-18 14:59:21,842 Updating IDs for RPUD.ssFitting
+2015-06-18 14:59:26,926 RPUD.ssFitting Editor Tracking Disabled
+2015-06-18 14:59:32,599 MAX ID = SF134756
+2015-06-18 14:59:32,803 Features updated = 0
+2015-06-18 14:59:38,529 RPUD.ssFitting Editor Tracking Enabled
+2015-06-18 14:59:38,543 Updating IDs for RPUD.ssForceMain
+2015-06-18 14:59:42,336 RPUD.ssForceMain Editor Tracking Disabled
+2015-06-18 14:59:43,266 MAX ID = SFMN11570
+2015-06-18 14:59:43,430 Features updated = 0
+2015-06-18 14:59:46,990 RPUD.ssForceMain Editor Tracking Enabled
+2015-06-18 14:59:46,990 Updating IDs for RPUD.ssGravityMain
+2015-06-18 14:59:56,608 RPUD.ssGravityMain Editor Tracking Disabled
+2015-06-18 15:00:03,036 MAX ID = SGMN168506
+2015-06-18 15:00:03,232 Features updated = 0
+2015-06-18 15:00:12,424 RPUD.ssGravityMain Editor Tracking Enabled
+2015-06-18 15:00:12,424 Updating IDs for RPUD.ssLateralLine
+2015-06-18 15:00:15,493 RPUD.ssLateralLine Editor Tracking Disabled
+2015-06-18 15:00:22,293 MAX ID = SLAT147751
+2015-06-18 15:00:22,454 Features updated = 0
+2015-06-18 15:00:25,401 RPUD.ssLateralLine Editor Tracking Enabled
+2015-06-18 15:00:25,401 Updating IDs for RPUD.ssAerial
+2015-06-18 15:00:28,085 RPUD.ssAerial Editor Tracking Disabled
+2015-06-18 15:00:29,052 MAX ID = SAM10771
+2015-06-18 15:00:29,219 Features updated = 0
+2015-06-18 15:00:32,819 RPUD.ssAerial Editor Tracking Enabled
+2015-06-18 15:00:32,819 Updating IDs for RPUD.ssManhole
+2015-06-18 15:00:39,403 RPUD.ssManhole Editor Tracking Disabled
+2015-06-18 15:00:46,819 MAX ID = SMH169011
+2015-06-18 15:00:47,052 Features updated = 0
+2015-06-18 15:00:53,811 RPUD.ssManhole Editor Tracking Enabled
+2015-06-18 15:01:08,380 RPUD.ssGravityMain Editor Tracking Disabled
+2015-06-18 15:01:08,380 RPUD.ssManhole Editor Tracking Disabled
+2015-06-18 15:01:10,141 UpdateMHNumbers
+2015-06-18 15:03:14,017 RPUD.ssGravityMain Editor Tracking Enabled
+2015-06-18 15:03:14,017 RPUD.ssManhole Editor Tracking Enabled
+2015-06-18 15:03:14,017 ********  STOP OF AUTOID.py  **********
+2015-06-18 15:03:14,017 
+2015-07-16 07:43:32,411 
+2015-07-16 07:43:32,450 ********  START OF AUTOID.py  **********
+2015-07-16 07:43:32,451 Updating IDs for RPUD.ssCleanOut
+2015-07-16 07:48:15,556 
+2015-07-16 07:48:15,559 ********  START OF AUTOID.py  **********
+2015-07-16 07:48:15,561 Updating IDs for RPUD.ssCleanOut
+2015-07-16 07:48:26,582 RPUD.ssCleanOut Editor Tracking Disabled
+2015-07-16 07:48:33,404 MAX ID = SCO148059
+2015-07-16 07:48:34,845 Features updated = 0
+2015-07-16 07:48:39,247 RPUD.ssCleanOut Editor Tracking Enabled
+2015-07-16 07:48:39,250 Updating IDs for RPUD.ssControlValve
+2015-07-16 07:48:43,326 RPUD.ssControlValve Editor Tracking Disabled
+2015-07-16 07:48:43,987 MAX ID = SCV10597
+2015-07-16 07:48:44,119 Features updated = 0
+2015-07-16 07:48:48,003 RPUD.ssControlValve Editor Tracking Enabled
+2015-07-16 07:48:48,006 Updating IDs for RPUD.ssFitting
+2015-07-16 07:48:51,572 RPUD.ssFitting Editor Tracking Disabled
+2015-07-16 07:48:55,331 MAX ID = SF134957
+2015-07-16 07:48:55,473 Features updated = 0
+2015-07-16 07:48:58,775 RPUD.ssFitting Editor Tracking Enabled
+2015-07-16 07:48:58,776 Updating IDs for RPUD.ssForceMain
+2015-07-16 07:49:02,296 RPUD.ssForceMain Editor Tracking Disabled
+2015-07-16 07:49:02,957 MAX ID = SFMN11573
+2015-07-16 07:49:03,082 Features updated = 0
+2015-07-16 07:49:06,164 RPUD.ssForceMain Editor Tracking Enabled
+2015-07-16 07:49:06,164 Updating IDs for RPUD.ssGravityMain
+2015-07-16 07:49:16,421 RPUD.ssGravityMain Editor Tracking Disabled
+2015-07-16 07:49:21,706 MAX ID = SGMN168769
+2015-07-16 07:49:21,865 Features updated = 0
+2015-07-16 07:49:32,096 RPUD.ssGravityMain Editor Tracking Enabled
+2015-07-16 07:49:32,098 Updating IDs for RPUD.ssLateralLine
+2015-07-16 07:49:34,959 RPUD.ssLateralLine Editor Tracking Disabled
+2015-07-16 07:49:38,920 MAX ID = SLAT148029
+2015-07-16 07:49:39,061 Features updated = 0
+2015-07-16 07:49:41,812 RPUD.ssLateralLine Editor Tracking Enabled
+2015-07-16 07:49:41,812 Updating IDs for RPUD.ssAerial
+2015-07-16 07:49:45,114 RPUD.ssAerial Editor Tracking Disabled
+2015-07-16 07:49:45,684 MAX ID = SAM10796
+2015-07-16 07:49:45,816 Features updated = 0
+2015-07-16 07:49:48,789 RPUD.ssAerial Editor Tracking Enabled
+2015-07-16 07:49:48,790 Updating IDs for RPUD.ssManhole
+2015-07-16 07:49:54,877 RPUD.ssManhole Editor Tracking Disabled
+2015-07-16 07:50:00,158 MAX ID = SMH169324
+2015-07-16 07:50:00,380 Features updated = 0
+2015-07-16 07:50:06,542 RPUD.ssManhole Editor Tracking Enabled
+2015-07-16 07:50:22,638 RPUD.ssGravityMain Editor Tracking Disabled
+2015-07-16 07:50:22,641 RPUD.ssManhole Editor Tracking Disabled
+2015-07-16 07:50:23,322 UpdateMHNumbers
+2015-08-03 17:03:47,061 
+2015-08-03 17:03:47,107 ********  START OF AUTOID.py  **********
+2015-08-03 17:03:47,107 Updating IDs for RPUD.ssCleanOut
+2015-08-03 17:03:54,131 RPUD.ssCleanOut Editor Tracking Disabled
+2015-08-03 17:03:58,017 MAX ID = SCO148218
+2015-08-03 17:03:59,890 Features updated = 12
+2015-08-03 17:04:03,336 RPUD.ssCleanOut Editor Tracking Enabled
+2015-08-03 17:04:03,336 Updating IDs for RPUD.ssControlValve
+2015-08-03 17:04:06,753 RPUD.ssControlValve Editor Tracking Disabled
+2015-08-03 17:04:07,331 MAX ID = SCV10598
+2015-08-03 17:04:07,486 Features updated = 0
+2015-08-03 17:04:10,716 RPUD.ssControlValve Editor Tracking Enabled
+2015-08-03 17:04:10,716 Updating IDs for RPUD.ssFitting
+2015-08-03 17:04:13,928 RPUD.ssFitting Editor Tracking Disabled
+2015-08-03 17:04:15,677 MAX ID = SF135072
+2015-08-03 17:04:16,066 Features updated = 2
+2015-08-03 17:04:19,311 RPUD.ssFitting Editor Tracking Enabled
+2015-08-03 17:04:19,311 Updating IDs for RPUD.ssForceMain
+2015-08-03 17:04:22,510 RPUD.ssForceMain Editor Tracking Disabled
+2015-08-03 17:04:23,072 MAX ID = SFMN11573
+2015-08-03 17:04:23,229 Features updated = 0
+2015-08-03 17:04:26,710 RPUD.ssForceMain Editor Tracking Enabled
+2015-08-03 17:04:26,710 Updating IDs for RPUD.ssGravityMain
+2015-08-03 17:04:37,085 RPUD.ssGravityMain Editor Tracking Disabled
+2015-08-03 17:04:41,578 MAX ID = SGMN168865
+2015-08-03 17:04:41,999 Features updated = 31
+2015-08-03 17:04:52,575 RPUD.ssGravityMain Editor Tracking Enabled
+2015-08-03 17:04:52,575 Updating IDs for RPUD.ssLateralLine
+2015-08-03 17:04:55,279 RPUD.ssLateralLine Editor Tracking Disabled
+2015-08-03 17:04:57,775 MAX ID = SLAT148187
+2015-08-03 17:04:58,039 Features updated = 12
+2015-08-03 17:05:00,832 RPUD.ssLateralLine Editor Tracking Enabled
+2015-08-03 17:05:00,848 Updating IDs for RPUD.ssAerial
+2015-08-03 17:05:03,905 RPUD.ssAerial Editor Tracking Disabled
+2015-08-03 17:05:04,451 MAX ID = SAM10799
+2015-08-03 17:05:04,592 Features updated = 0
+2015-08-03 17:05:07,602 RPUD.ssAerial Editor Tracking Enabled
+2015-08-03 17:05:07,618 Updating IDs for RPUD.ssManhole
+2015-08-03 17:05:13,921 RPUD.ssManhole Editor Tracking Disabled
+2015-08-03 17:05:18,460 MAX ID = SMH169430
+2015-08-03 17:05:18,897 Features updated = 36
+2015-08-03 17:05:25,262 RPUD.ssManhole Editor Tracking Enabled
+2015-08-03 17:05:42,536 RPUD.ssGravityMain Editor Tracking Disabled
+2015-08-03 17:05:42,536 RPUD.ssManhole Editor Tracking Disabled
+2015-08-03 17:05:43,207 UpdateMHNumbers
+2015-08-03 17:06:39,921 124161  =  SMH169448 : SMH169447
+2015-08-03 17:06:41,028 124162  =  SMH169447 : SMH169446
+2015-08-03 17:06:42,026 124163  =  SMH169446 : SMH169445
+2015-08-03 17:06:43,055 124164  =  SMH169445 : SMH169444
+2015-08-03 17:06:44,101 124165  =  SMH169444 : SMH169443
+2015-08-03 17:06:45,161 124166  =  SMH169443 : SMH169442
+2015-08-03 17:06:46,223 124167  =  SMH169442 : SMH169441
+2015-08-03 17:06:47,267 124168  =  SMH169441 : SMH169440
+2015-08-03 17:06:48,250 124169  =  SMH169440 : SMH169439
+2015-08-03 17:06:49,265 124170  =  SMH169439 : SMH169438
+2015-08-03 17:06:50,263 124171  =  SMH169438 : SMH169437
+2015-08-03 17:06:51,292 Slope:4.73567361024
+2015-08-03 17:06:51,292 124801  =  SMH169451 : SMH169450
+2015-08-03 17:06:52,322 Slope:7.63235874685
+2015-08-03 17:06:52,322 124802  =  SMH169450 : SMH169449
+2015-08-03 17:06:53,368 Slope:0.0
+2015-08-03 17:06:53,368 124803  =  SMH169449 : SMH169454
+2015-08-03 17:06:54,413 Slope:3.69035317689
+2015-08-03 17:06:54,428 124804  =  SMH169454 : SMH169453
+2015-08-03 17:06:55,457 Slope:2.49244301547
+2015-08-03 17:06:55,457 124805  =  SMH169466 : SMH169453
+2015-08-03 17:06:56,471 Slope:1.02346430461
+2015-08-03 17:06:56,487 124806  =  SMH169453 : SMH169452
+2015-08-03 17:06:57,532 Slope:1.143719234
+2015-08-03 17:06:57,532 124807  =  SMH169452 : SMH169465
+2015-08-03 17:06:58,530 Slope:3.22469623734
+2015-08-03 17:06:58,530 124808  =  SMH169465 : SMH169464
+2015-08-03 17:06:59,545 Slope:7.16146655826
+2015-08-03 17:06:59,545 124809  =  SMH169464 : SMH169463
+2015-08-03 17:07:00,964 Slope:2.58227374619
+2015-08-03 17:07:00,964 124810  =  SMH169463 : SMH169462
+2015-08-03 17:07:01,999 Slope:1.67307657316
+2015-08-03 17:07:01,999 124811  =  SMH169462 : SMH169459
+2015-08-03 17:07:03,065 Slope:0.0206292993014
+2015-08-03 17:07:03,065 124812  =  SMH169435 : SMH169460
+2015-08-03 17:07:04,187 Slope:0.80097872591
+2015-08-03 17:07:04,187 124813  =  SMH169460 : SMH169459
+2015-08-03 17:07:05,187 Slope:1.93946095659
+2015-08-03 17:07:05,187 124815  =  SMH169433 : SMH169432
+2015-08-03 17:07:06,546 Slope:1.74979905589
+2015-08-03 17:07:06,546 124816  =  SMH169432 : SMH169431
+2015-08-03 17:07:07,621 Slope:1.24930329876
+2015-08-03 17:07:07,621 124817  =  SMH169431 : SMH169456
+2015-08-03 17:07:08,667 Slope:0.987795913741
+2015-08-03 17:07:08,667 124819  =  SMH169436 : SMH169434
+2015-08-03 17:07:09,665 Slope:1.38608415913
+2015-08-03 17:07:09,665 124820  =  SMH169434 : SMH169431
+2015-08-03 17:07:12,684 123841  =  SMH169430 : SMH169429
+2015-08-03 17:07:13,697 123842  =  SMH169429 : SMH169428
+2015-08-03 17:07:14,680 123843  =  SMH169428 : SMH169427
+2015-08-03 17:07:15,678 123844  =  SMH169427 : SMH169426
+2015-08-03 17:07:32,385 RPUD.ssGravityMain Editor Tracking Enabled
+2015-08-03 17:07:32,385 RPUD.ssManhole Editor Tracking Enabled
+2015-08-03 17:07:32,385 Updating IDs for RPUD.wControlValve
+2015-08-03 17:07:37,381 RPUD.wControlValve Editor Tracking Disabled
+2015-08-03 17:07:39,427 MAX ID = WCV107590
+2015-08-03 17:07:40,535 Features updated = 9
+2015-08-03 17:07:43,328 RPUD.wControlValve Editor Tracking Enabled
+2015-08-03 17:07:43,328 Updating IDs for RPUD.wFitting
+2015-08-03 17:07:45,262 RPUD.wFitting Editor Tracking Disabled
+2015-08-03 17:07:49,145 MAX ID = WFIT192352
+2015-08-03 17:07:49,880 Features updated = 88
+2015-08-03 17:07:52,078 RPUD.wFitting Editor Tracking Enabled
+2015-08-03 17:07:52,078 Updating IDs for RPUD.wGravityMain
+2015-08-03 17:07:54,466 RPUD.wGravityMain Editor Tracking Disabled
+2015-08-03 17:07:54,950 MAX ID = WGM100081
+2015-08-03 17:07:55,121 Features updated = 0
+2015-08-03 17:07:57,632 RPUD.wGravityMain Editor Tracking Enabled
+2015-08-03 17:07:57,632 Updating IDs for RPUD.wLateralLine
+2015-08-03 17:07:59,644 RPUD.wLateralLine Editor Tracking Disabled
+2015-08-03 17:08:03,186 MAX ID = WMN202371
+2015-08-03 17:08:03,763 Features updated = 70
+2015-08-03 17:08:05,936 RPUD.wLateralLine Editor Tracking Enabled
+2015-08-03 17:08:05,936 Updating IDs for RPUD.wServiceConnection
+2015-08-03 17:08:06,964 RPUD.wServiceConnection Editor Tracking Disabled
+2015-08-03 17:08:15,437 MAX ID = WSC286754
+2015-08-03 17:08:15,625 Features updated = 0
+2015-08-03 17:08:16,733 RPUD.wServiceConnection Editor Tracking Enabled
+2015-08-03 17:08:16,733 Updating IDs for RPUD.wSystemValve
+2015-08-03 17:08:18,792 RPUD.wSystemValve Editor Tracking Disabled
+2015-08-03 17:08:22,145 MAX ID = WSV168303
+2015-08-03 17:08:22,801 Features updated = 77
+2015-08-03 17:08:25,062 RPUD.wSystemValve Editor Tracking Enabled
+2015-08-03 17:08:25,062 Updating IDs for RPUD.wPressureMain
+2015-08-03 17:08:27,059 RPUD.wPressureMain Editor Tracking Disabled
+2015-08-03 17:08:31,381 MAX ID = WMN202396
+2015-08-03 17:08:31,723 Features updated = 21
+2015-08-03 17:08:34,095 RPUD.wPressureMain Editor Tracking Enabled
+2015-08-03 17:08:34,095 Updating IDs for RPUD.wHydrant
+2015-08-03 17:08:37,029 RPUD.wHydrant Editor Tracking Disabled
+2015-08-03 17:08:39,778 MAX ID = WHYD128590
+2015-08-03 17:08:40,121 Features updated = 3
+2015-08-03 17:08:43,243 RPUD.wHydrant Editor Tracking Enabled
+2015-08-03 17:08:43,243 Updating IDs for RPUD.wSamplingStation
+2015-08-03 17:08:45,286 RPUD.wSamplingStation Editor Tracking Disabled
+2015-08-03 17:08:45,755 MAX ID = WSS10255
+2015-08-03 17:08:45,941 Features updated = 0
+2015-08-03 17:08:47,953 RPUD.wSamplingStation Editor Tracking Enabled
+2015-08-03 17:08:47,953 ********  STOP OF AUTOID.py  **********
+2015-08-03 17:08:47,953 
+2015-08-10 17:45:30,453 
+2015-08-10 17:45:30,464 ********  START OF AUTOID.py  **********
+2015-08-10 17:45:30,466 Updating IDs for RPUD.ssCleanOut
+2015-08-10 17:45:38,207 RPUD.ssCleanOut Editor Tracking Disabled
+2015-08-10 17:45:42,121 MAX ID = SCO148458
+2015-08-10 17:45:44,144 Features updated = 0
+2015-08-10 17:45:48,147 RPUD.ssCleanOut Editor Tracking Enabled
+2015-08-10 17:45:48,148 Updating IDs for RPUD.ssControlValve
+2015-08-10 17:45:51,572 RPUD.ssControlValve Editor Tracking Disabled
+2015-08-10 17:45:52,151 MAX ID = SCV10598
+2015-08-10 17:45:52,305 Features updated = 0
+2015-08-10 17:45:55,828 RPUD.ssControlValve Editor Tracking Enabled
+2015-08-10 17:45:55,829 Updating IDs for RPUD.ssFitting
+2015-08-10 17:45:59,165 RPUD.ssFitting Editor Tracking Disabled
+2015-08-10 17:46:00,901 MAX ID = SF135165
+2015-08-10 17:46:01,125 Features updated = 4
+2015-08-10 17:46:04,589 RPUD.ssFitting Editor Tracking Enabled
+2015-08-10 17:46:04,592 Updating IDs for RPUD.ssForceMain
+2015-08-10 17:46:08,315 RPUD.ssForceMain Editor Tracking Disabled
+2015-08-10 17:46:08,934 MAX ID = SFMN11573
+2015-08-10 17:46:09,568 Features updated = 113
+2015-08-10 17:46:13,210 RPUD.ssForceMain Editor Tracking Enabled
+2015-08-10 17:46:13,210 Updating IDs for RPUD.ssGravityMain
+2015-08-10 17:46:24,549 RPUD.ssGravityMain Editor Tracking Disabled
+2015-08-10 17:46:29,242 MAX ID = SGMN168922
+2015-08-10 17:46:31,529 Features updated = 325
+2015-08-10 17:46:43,055 RPUD.ssGravityMain Editor Tracking Enabled
+2015-08-10 17:46:43,056 Updating IDs for RPUD.ssLateralLine
+2015-08-10 17:46:46,000 RPUD.ssLateralLine Editor Tracking Disabled
+2015-08-10 17:46:48,483 MAX ID = SLAT148333
+2015-08-10 17:46:48,901 Features updated = 41
+2015-08-10 17:46:51,951 RPUD.ssLateralLine Editor Tracking Enabled
+2015-08-10 17:46:51,953 Updating IDs for RPUD.ssAerial
+2015-08-10 17:46:55,114 RPUD.ssAerial Editor Tracking Disabled
+2015-08-10 17:46:55,638 MAX ID = SAM10799
+2015-08-10 17:46:55,769 Features updated = 0
+2015-08-10 17:46:59,029 RPUD.ssAerial Editor Tracking Enabled
+2015-08-10 17:46:59,029 Updating IDs for RPUD.ssManhole
+2015-08-10 17:47:06,055 RPUD.ssManhole Editor Tracking Disabled
+2015-08-10 17:47:10,025 MAX ID = SMH169485
+2015-08-10 17:47:10,201 Features updated = 0
+2015-08-10 17:47:17,492 RPUD.ssManhole Editor Tracking Enabled
+2015-08-10 17:47:36,035 RPUD.ssGravityMain Editor Tracking Disabled
+2015-08-10 17:47:36,036 RPUD.ssManhole Editor Tracking Disabled
+2015-08-10 17:47:36,736 UpdateMHNumbers
+2015-08-10 17:48:52,237 RPUD.ssGravityMain Editor Tracking Enabled
+2015-08-10 17:48:52,240 RPUD.ssManhole Editor Tracking Enabled
+2015-08-10 17:48:52,240 Updating IDs for RPUD.wControlValve
+2015-08-10 17:48:57,377 RPUD.wControlValve Editor Tracking Disabled
+2015-08-10 17:48:59,552 MAX ID = WCV107601
+2015-08-10 17:49:00,622 Features updated = 8
+2015-08-10 17:49:02,858 RPUD.wControlValve Editor Tracking Enabled
+2015-08-10 17:49:02,858 Updating IDs for RPUD.wFitting
+2015-08-10 17:49:05,058 RPUD.wFitting Editor Tracking Disabled
+2015-08-10 17:49:08,983 MAX ID = WFIT192640
+2015-08-10 17:49:09,210 Features updated = 0
+2015-08-10 17:49:11,857 RPUD.wFitting Editor Tracking Enabled
+2015-08-10 17:49:11,858 Updating IDs for RPUD.wGravityMain
+2015-08-10 17:49:14,538 RPUD.wGravityMain Editor Tracking Disabled
+2015-08-10 17:49:15,039 MAX ID = WGM100081
+2015-08-10 17:49:15,259 Features updated = 0
+2015-08-10 17:49:17,891 RPUD.wGravityMain Editor Tracking Enabled
+2015-08-10 17:49:17,892 Updating IDs for RPUD.wLateralLine
+2015-08-10 17:49:20,042 RPUD.wLateralLine Editor Tracking Disabled
+2015-08-10 17:49:23,743 MAX ID = WMN167232
+2015-08-10 17:49:25,954 Features updated = 570
+2015-08-10 17:49:28,315 RPUD.wLateralLine Editor Tracking Enabled
+2015-08-10 17:49:28,315 Updating IDs for RPUD.wServiceConnection
+2015-08-10 17:49:29,302 RPUD.wServiceConnection Editor Tracking Disabled
+2015-08-10 17:49:37,520 MAX ID = WSC286755
+2015-08-10 17:49:37,855 Features updated = 11
+2015-08-10 17:49:39,039 RPUD.wServiceConnection Editor Tracking Enabled
+2015-08-10 17:49:39,040 Updating IDs for RPUD.wSystemValve
+2015-08-10 17:49:41,299 RPUD.wSystemValve Editor Tracking Disabled
+2015-08-10 17:49:44,743 MAX ID = WSV168410
+2015-08-10 17:49:45,247 Features updated = 55
+2015-08-10 17:49:47,687 RPUD.wSystemValve Editor Tracking Enabled
+2015-08-10 17:49:47,690 Updating IDs for RPUD.wPressureMain
+2015-08-10 17:49:49,957 RPUD.wPressureMain Editor Tracking Disabled
+2015-08-10 17:49:54,283 MAX ID = WMN202453
+2015-08-10 17:50:05,864 Features updated = 3765
+2015-08-10 17:50:08,190 RPUD.wPressureMain Editor Tracking Enabled
+2015-08-10 17:50:08,190 Updating IDs for RPUD.wHydrant
+2015-08-10 17:50:11,325 RPUD.wHydrant Editor Tracking Disabled
+2015-08-10 17:50:14,078 MAX ID = WHYD128602
+2015-08-10 17:50:14,408 Features updated = 6
+2015-08-10 17:50:17,678 RPUD.wHydrant Editor Tracking Enabled
+2015-08-10 17:50:17,680 Updating IDs for RPUD.wSamplingStation
+2015-08-10 17:50:19,721 RPUD.wSamplingStation Editor Tracking Disabled
+2015-08-10 17:50:20,232 MAX ID = WSS10255
+2015-08-10 17:50:20,403 Features updated = 0
+2015-08-10 17:50:22,562 RPUD.wSamplingStation Editor Tracking Enabled
+2015-08-10 17:50:22,562 ********  STOP OF AUTOID.py  **********
+2015-08-10 17:50:22,563 
+2015-08-10 17:57:42,032 
+2015-08-10 17:57:42,033 ********  START OF AUTOID.py  **********
+2015-08-10 17:57:42,036 Updating IDs for RPUD.ssSystemValve
+2015-08-10 17:57:48,318 RPUD.ssSystemValve Editor Tracking Disabled
+2015-08-10 17:57:50,280 MAX ID = SSV10281
+2015-08-10 17:57:52,822 Features updated = 90
+2015-08-10 17:57:54,043 RPUD.ssSystemValve Editor Tracking Enabled
+2015-08-10 17:57:54,045 ********  STOP OF AUTOID.py  **********
+2015-08-10 17:57:54,046 
+2015-08-10 18:01:21,822 
+2015-08-10 18:01:21,823 ********  START OF AUTOID.py  **********
+2015-08-10 18:01:21,825 Updating IDs for RPUD.ssCaseing
+2015-08-10 18:02:07,630 
+2015-08-10 18:02:07,631 ********  START OF AUTOID.py  **********
+2015-08-10 18:02:07,632 Updating IDs for RPUD.ssCaseing
+2015-08-10 18:02:30,723 
+2015-08-10 18:02:30,724 ********  START OF AUTOID.py  **********
+2015-08-10 18:02:30,726 Updating IDs for RPUD.wCasing
+2015-08-10 18:02:33,823 RPUD.wCasing Editor Tracking Disabled
+2015-08-10 18:02:34,605 MAX ID = WCAS10114
+2015-08-10 18:02:36,723 Features updated = 84
+2015-08-10 18:02:38,061 RPUD.wCasing Editor Tracking Enabled
+2015-08-10 18:02:38,062 ********  STOP OF AUTOID.py  **********
+2015-08-10 18:02:38,062 
+2015-08-10 18:12:06,448 
+2015-08-10 18:12:06,450 ********  START OF AUTOID.py  **********
+2015-08-10 18:12:06,450 Updating IDs for RPUD.ssGreaseTrap
+2015-08-10 18:12:27,471 
+2015-08-10 18:12:27,473 ********  START OF AUTOID.py  **********
+2015-08-10 18:12:27,474 Updating IDs for RPUD.ssGreaseTrap
+2015-08-10 18:12:34,233 RPUD.ssGreaseTrap Editor Tracking Disabled
+2015-08-10 18:12:36,125 MAX ID = SGT10081
+2015-08-10 18:12:38,471 Features updated = 33
+2015-08-10 18:12:39,714 RPUD.ssGreaseTrap Editor Tracking Enabled
+2015-08-10 18:12:39,716 Updating IDs for RPUD.ssNetworkStructure
+2015-08-10 18:12:40,858 RPUD.ssNetworkStructure Editor Tracking Disabled
+2015-08-10 18:12:41,299 MAX ID = SNS1157
+2015-08-10 18:12:41,667 Features updated = 25
+2015-08-10 18:12:42,878 RPUD.ssNetworkStructure Editor Tracking Enabled
+2015-08-10 18:12:42,878 Updating IDs for RPUD.ssCasing
+2015-08-10 18:12:44,082 RPUD.ssCasing Editor Tracking Disabled
+2015-08-10 18:12:44,552 MAX ID = SGMN106029
+2015-08-10 18:12:45,055 Features updated = 78
+2015-08-10 18:12:46,319 RPUD.ssCasing Editor Tracking Enabled
+2015-08-10 18:12:46,321 ********  STOP OF AUTOID.py  **********
+2015-08-10 18:12:46,321 
+2015-08-10 18:38:43,680 
+2015-08-10 18:38:43,681 ********  START OF AUTOID.py  **********
+2015-08-10 18:38:43,684 Updating IDs for RPUD.ssCleanOut
+2015-08-10 18:38:51,015 RPUD.ssCleanOut Editor Tracking Disabled
+2015-08-10 18:38:54,796 MAX ID = SCO148458
+2015-08-10 18:38:55,687 Features updated = 0
+2015-08-10 18:38:59,845 RPUD.ssCleanOut Editor Tracking Enabled
+2015-08-10 18:38:59,845 Updating IDs for RPUD.ssSystemValve
+2015-08-10 18:39:00,989 RPUD.ssSystemValve Editor Tracking Disabled
+2015-08-10 18:39:01,470 MAX ID = SSV10371
+2015-08-10 18:39:01,625 Features updated = 0
+2015-08-10 18:39:02,819 RPUD.ssSystemValve Editor Tracking Enabled
+2015-08-10 18:39:02,821 Updating IDs for RPUD.ssControlValve
+2015-08-10 18:39:06,286 RPUD.ssControlValve Editor Tracking Disabled
+2015-08-10 18:39:06,801 MAX ID = SCV10598
+2015-08-10 18:39:06,936 Features updated = 0
+2015-08-10 18:39:10,624 RPUD.ssControlValve Editor Tracking Enabled
+2015-08-10 18:39:10,625 Updating IDs for RPUD.ssFitting
+2015-08-10 18:39:14,030 RPUD.ssFitting Editor Tracking Disabled
+2015-08-10 18:39:15,779 MAX ID = SF135169
+2015-08-10 18:39:15,943 Features updated = 0
+2015-08-10 18:39:19,398 RPUD.ssFitting Editor Tracking Enabled
+2015-08-10 18:39:19,400 Updating IDs for RPUD.ssForceMain
+2015-08-10 18:39:22,984 RPUD.ssForceMain Editor Tracking Disabled
+2015-08-10 18:39:23,542 MAX ID = SFMN11686
+2015-08-10 18:39:23,686 Features updated = 0
+2015-08-10 18:39:27,269 RPUD.ssForceMain Editor Tracking Enabled
+2015-08-10 18:39:27,270 Updating IDs for RPUD.ssGravityMain
+2015-08-10 18:39:38,586 RPUD.ssGravityMain Editor Tracking Disabled
+2015-08-10 18:39:43,015 MAX ID = SGMN169247
+2015-08-10 18:39:43,176 Features updated = 0
+2015-08-10 18:39:54,555 RPUD.ssGravityMain Editor Tracking Enabled
+2015-08-10 18:39:54,555 Updating IDs for RPUD.ssLateralLine
+2015-08-10 18:39:57,457 RPUD.ssLateralLine Editor Tracking Disabled
+2015-08-10 18:39:59,904 MAX ID = SLAT148374
+2015-08-10 18:40:00,055 Features updated = 0
+2015-08-10 18:40:02,966 RPUD.ssLateralLine Editor Tracking Enabled
+2015-08-10 18:40:02,967 Updating IDs for RPUD.ssAerial
+2015-08-10 18:40:05,913 RPUD.ssAerial Editor Tracking Disabled
+2015-08-10 18:40:06,398 MAX ID = SAM10799
+2015-08-10 18:40:06,536 Features updated = 0
+2015-08-10 18:40:09,709 RPUD.ssAerial Editor Tracking Enabled
+2015-08-10 18:40:09,710 Updating IDs for RPUD.ssSystemValve
+2015-08-10 18:40:10,717 RPUD.ssSystemValve Editor Tracking Disabled
+2015-08-10 18:40:11,003 MAX ID = SSV10371
+2015-08-10 18:40:11,095 Features updated = 0
+2015-08-10 18:40:12,249 RPUD.ssSystemValve Editor Tracking Enabled
+2015-08-10 18:40:12,250 Updating IDs for RPUD.ssGreaseTrap
+2015-08-10 18:40:13,257 RPUD.ssGreaseTrap Editor Tracking Disabled
+2015-08-10 18:40:13,737 MAX ID = SGT10114
+2015-08-10 18:40:13,865 Features updated = 0
+2015-08-10 18:40:14,967 RPUD.ssGreaseTrap Editor Tracking Enabled
+2015-08-10 18:40:14,967 Updating IDs for RPUD.ssNetworkStructure
+2015-08-10 18:40:16,068 RPUD.ssNetworkStructure Editor Tracking Disabled
+2015-08-10 18:40:16,503 MAX ID = SNS1157
+2015-08-10 18:40:16,650 Features updated = 0
+2015-08-10 18:40:17,806 RPUD.ssNetworkStructure Editor Tracking Enabled
+2015-08-10 18:40:17,808 Updating IDs for RPUD.ssCasing
+2015-08-10 18:40:18,440 RPUD.ssCasing Editor Tracking Disabled
+2015-08-10 18:40:18,878 MAX ID = SCA10271
+2015-08-10 18:40:19,298 Features updated = 79
+2015-08-10 18:40:20,516 RPUD.ssCasing Editor Tracking Enabled
+2015-08-10 18:40:20,517 Updating IDs for RPUD.wControlValve
+2015-08-10 18:40:25,614 RPUD.wControlValve Editor Tracking Disabled
+2015-08-10 18:40:27,688 MAX ID = WCV107609
+2015-08-10 18:40:28,796 Features updated = 0
+2015-08-10 18:40:31,187 RPUD.wControlValve Editor Tracking Enabled
+2015-08-10 18:40:31,187 Updating IDs for RPUD.wFitting
+2015-08-10 18:40:33,752 RPUD.wFitting Editor Tracking Disabled
+2015-08-10 18:40:37,565 MAX ID = WFIT192641
+2015-08-10 18:40:37,778 Features updated = 0
+2015-08-10 18:40:40,352 RPUD.wFitting Editor Tracking Enabled
+2015-08-10 18:40:40,354 Updating IDs for RPUD.wGravityMain
+2015-08-10 18:40:42,821 RPUD.wGravityMain Editor Tracking Disabled
+2015-08-10 18:40:43,302 MAX ID = WGM100081
+2015-08-10 18:40:43,506 Features updated = 0
+2015-08-10 18:40:46,101 RPUD.wGravityMain Editor Tracking Enabled
+2015-08-10 18:40:46,101 Updating IDs for RPUD.wLateralLine
+2015-08-10 18:40:48,299 RPUD.wLateralLine Editor Tracking Disabled
+2015-08-10 18:40:51,825 MAX ID = WLAT179709
+2015-08-10 18:40:55,746 Features updated = 964
+2015-08-10 18:40:58,049 RPUD.wLateralLine Editor Tracking Enabled
+2015-08-10 18:40:58,052 Updating IDs for RPUD.wServiceConnection
+2015-08-10 18:40:59,119 RPUD.wServiceConnection Editor Tracking Disabled
+2015-08-10 18:41:07,237 MAX ID = WSC286766
+2015-08-10 18:41:07,437 Features updated = 0
+2015-08-10 18:41:08,552 RPUD.wServiceConnection Editor Tracking Enabled
+2015-08-10 18:41:08,555 Updating IDs for RPUD.wSystemValve
+2015-08-10 18:41:10,825 RPUD.wSystemValve Editor Tracking Disabled
+2015-08-10 18:41:14,155 MAX ID = WSV168465
+2015-08-10 18:41:14,352 Features updated = 0
+2015-08-10 18:41:16,740 RPUD.wSystemValve Editor Tracking Enabled
+2015-08-10 18:41:16,742 Updating IDs for RPUD.wPressureMain
+2015-08-10 18:41:18,927 RPUD.wPressureMain Editor Tracking Disabled
+2015-08-10 18:41:23,362 MAX ID = WMN206218
+2015-08-10 18:41:23,576 Features updated = 0
+2015-08-10 18:41:25,905 RPUD.wPressureMain Editor Tracking Enabled
+2015-08-10 18:41:25,907 Updating IDs for RPUD.wHydrant
+2015-08-10 18:41:29,051 RPUD.wHydrant Editor Tracking Disabled
+2015-08-10 18:41:31,743 MAX ID = WHYD128608
+2015-08-10 18:41:31,930 Features updated = 0
+2015-08-10 18:41:35,142 RPUD.wHydrant Editor Tracking Enabled
+2015-08-10 18:41:35,145 Updating IDs for RPUD.wSamplingStation
+2015-08-10 18:41:37,122 RPUD.wSamplingStation Editor Tracking Disabled
+2015-08-10 18:41:37,586 MAX ID = WSS10255
+2015-08-10 18:41:37,753 Features updated = 0
+2015-08-10 18:41:39,818 RPUD.wSamplingStation Editor Tracking Enabled
+2015-08-10 18:41:39,819 Updating IDs for RPUD.wCasing
+2015-08-10 18:41:40,933 RPUD.wCasing Editor Tracking Disabled
+2015-08-10 18:41:41,430 MAX ID = WCAS10198
+2015-08-10 18:41:41,599 Features updated = 0
+2015-08-10 18:41:42,819 RPUD.wCasing Editor Tracking Enabled
+2015-08-10 18:41:42,819 Updating IDs for RPUD.wNetworkStructure
+2015-08-10 18:41:43,894 RPUD.wNetworkStructure Editor Tracking Disabled
+2015-08-10 18:41:44,348 MAX ID = WNS10072
+2015-08-10 18:41:44,667 Features updated = 1
+2015-08-10 18:41:45,861 RPUD.wNetworkStructure Editor Tracking Enabled
+2015-08-10 18:41:45,862 ********  STOP OF AUTOID.py  **********
+2015-08-10 18:41:45,864 
+2015-08-10 18:43:05,569 
+2015-08-10 18:43:05,572 ********  START OF AUTOID.py  **********
+2015-08-10 18:43:05,573 Updating IDs for RPUD.ssCleanOut
+2015-08-10 18:43:12,701 RPUD.ssCleanOut Editor Tracking Disabled
+2015-08-10 18:43:16,279 MAX ID = SCO148458
+2015-08-10 18:43:17,454 Features updated = 0
+2015-08-10 18:43:21,246 RPUD.ssCleanOut Editor Tracking Enabled
+2015-08-10 18:43:21,249 Updating IDs for RPUD.ssSystemValve
+2015-08-10 18:43:22,302 RPUD.ssSystemValve Editor Tracking Disabled
+2015-08-10 18:43:22,634 MAX ID = SSV10371
+2015-08-10 18:43:22,753 Features updated = 0
+2015-08-10 18:43:23,917 RPUD.ssSystemValve Editor Tracking Enabled
+2015-08-10 18:43:23,920 Updating IDs for RPUD.ssControlValve
+2015-08-10 18:43:27,144 RPUD.ssControlValve Editor Tracking Disabled
+2015-08-10 18:43:27,628 MAX ID = SCV10598
+2015-08-10 18:43:27,714 Features updated = 0
+2015-08-10 18:43:31,144 RPUD.ssControlValve Editor Tracking Enabled
+2015-08-10 18:43:31,144 Updating IDs for RPUD.ssFitting
+2015-08-10 18:43:34,479 RPUD.ssFitting Editor Tracking Disabled
+2015-08-10 18:43:36,164 MAX ID = SF135169
+2015-08-10 18:43:36,270 Features updated = 0
+2015-08-10 18:43:39,665 RPUD.ssFitting Editor Tracking Enabled
+2015-08-10 18:43:39,667 Updating IDs for RPUD.ssForceMain
+2015-08-10 18:43:43,128 RPUD.ssForceMain Editor Tracking Disabled
+2015-08-10 18:43:43,612 MAX ID = SFMN11686
+2015-08-10 18:43:43,710 Features updated = 0
+2015-08-10 18:43:47,273 RPUD.ssForceMain Editor Tracking Enabled
+2015-08-10 18:43:47,273 Updating IDs for RPUD.ssGravityMain
+2015-08-10 18:43:58,506 RPUD.ssGravityMain Editor Tracking Disabled
+2015-08-10 18:44:02,651 MAX ID = SGMN169247
+2015-08-10 18:44:02,783 Features updated = 0
+2015-08-10 18:44:14,151 RPUD.ssGravityMain Editor Tracking Enabled
+2015-08-10 18:44:14,153 Updating IDs for RPUD.ssLateralLine
+2015-08-10 18:44:16,993 RPUD.ssLateralLine Editor Tracking Disabled
+2015-08-10 18:44:19,341 MAX ID = SLAT148374
+2015-08-10 18:44:19,447 Features updated = 0
+2015-08-10 18:44:22,453 RPUD.ssLateralLine Editor Tracking Enabled
+2015-08-10 18:44:22,453 Updating IDs for RPUD.ssAerial
+2015-08-10 18:44:25,526 RPUD.ssAerial Editor Tracking Disabled
+2015-08-10 18:44:25,993 MAX ID = SAM10799
+2015-08-10 18:44:26,082 Features updated = 0
+2015-08-10 18:44:29,262 RPUD.ssAerial Editor Tracking Enabled
+2015-08-10 18:44:29,263 Updating IDs for RPUD.ssSystemValve
+2015-08-10 18:44:30,288 RPUD.ssSystemValve Editor Tracking Disabled
+2015-08-10 18:44:30,562 MAX ID = SSV10371
+2015-08-10 18:44:30,654 Features updated = 0
+2015-08-10 18:44:31,819 RPUD.ssSystemValve Editor Tracking Enabled
+2015-08-10 18:44:31,822 Updating IDs for RPUD.ssGreaseTrap
+2015-08-10 18:44:32,874 RPUD.ssGreaseTrap Editor Tracking Disabled
+2015-08-10 18:44:33,296 MAX ID = SGT10114
+2015-08-10 18:44:33,437 Features updated = 0
+2015-08-10 18:44:34,559 RPUD.ssGreaseTrap Editor Tracking Enabled
+2015-08-10 18:44:34,562 Updating IDs for RPUD.ssNetworkStructure
+2015-08-10 18:44:35,640 RPUD.ssNetworkStructure Editor Tracking Disabled
+2015-08-10 18:44:36,091 MAX ID = SNS1157
+2015-08-10 18:44:36,184 Features updated = 0
+2015-08-10 18:44:37,352 RPUD.ssNetworkStructure Editor Tracking Enabled
+2015-08-10 18:44:37,354 Updating IDs for RPUD.ssCasing
+2015-08-10 18:44:38,466 RPUD.ssCasing Editor Tracking Disabled
+2015-08-10 18:44:38,933 MAX ID = SCA10350
+2015-08-10 18:44:39,071 Features updated = 0
+2015-08-10 18:44:40,303 RPUD.ssCasing Editor Tracking Enabled
+2015-08-10 18:44:40,305 Updating IDs for RPUD.ssManhole
+2015-08-10 18:44:47,270 RPUD.ssManhole Editor Tracking Disabled
+2015-08-10 18:44:51,094 MAX ID = SMH169485
+2015-08-10 18:44:51,259 Features updated = 0
+2015-08-10 18:44:58,266 RPUD.ssManhole Editor Tracking Enabled
+2015-08-10 18:45:16,203 RPUD.ssGravityMain Editor Tracking Disabled
+2015-08-10 18:45:16,204 RPUD.ssManhole Editor Tracking Disabled
+2015-08-10 18:45:16,877 UpdateMHNumbers
+2015-08-10 18:46:30,927 RPUD.ssGravityMain Editor Tracking Enabled
+2015-08-10 18:46:30,927 RPUD.ssManhole Editor Tracking Enabled
+2015-08-10 18:46:30,930 Updating IDs for RPUD.wControlValve
+2015-08-10 18:46:36,062 RPUD.wControlValve Editor Tracking Disabled
+2015-08-10 18:46:38,010 MAX ID = WCV107609
+2015-08-10 18:46:39,207 Features updated = 0
+2015-08-10 18:46:41,617 RPUD.wControlValve Editor Tracking Enabled
+2015-08-10 18:46:41,618 Updating IDs for RPUD.wFitting
+2015-08-10 18:46:44,051 RPUD.wFitting Editor Tracking Disabled
+2015-08-10 18:46:47,918 MAX ID = WFIT192641
+2015-08-10 18:46:48,134 Features updated = 0
+2015-08-10 18:46:50,701 RPUD.wFitting Editor Tracking Enabled
+2015-08-10 18:46:50,703 Updating IDs for RPUD.wGravityMain
+2015-08-10 18:46:53,109 RPUD.wGravityMain Editor Tracking Disabled
+2015-08-10 18:46:53,540 MAX ID = WGM100081
+2015-08-10 18:46:53,716 Features updated = 0
+2015-08-10 18:46:56,299 RPUD.wGravityMain Editor Tracking Enabled
+2015-08-10 18:46:56,301 Updating IDs for RPUD.wLateralLine
+2015-08-10 18:46:58,444 RPUD.wLateralLine Editor Tracking Disabled
+2015-08-10 18:47:01,884 MAX ID = WLAT180673
+2015-08-10 18:47:02,035 Features updated = 0
+2015-08-10 18:47:04,184 RPUD.wLateralLine Editor Tracking Enabled
+2015-08-10 18:47:04,187 Updating IDs for RPUD.wServiceConnection
+2015-08-10 18:47:05,032 RPUD.wServiceConnection Editor Tracking Disabled
+2015-08-10 18:47:13,134 MAX ID = WSC286766
+2015-08-10 18:47:13,299 Features updated = 0
+2015-08-10 18:47:14,433 RPUD.wServiceConnection Editor Tracking Enabled
+2015-08-10 18:47:14,434 Updating IDs for RPUD.wSystemValve
+2015-08-10 18:47:16,680 RPUD.wSystemValve Editor Tracking Disabled
+2015-08-10 18:47:19,966 MAX ID = WSV168465
+2015-08-10 18:47:20,161 Features updated = 0

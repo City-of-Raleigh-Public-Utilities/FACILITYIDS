@@ -164,7 +164,7 @@ def removeDuplicates(duptable):
                         totalchanges+=1
     print(Fore.WHITE + "%d changes made to %s" % (totalchanges, infeature))
     logging.warning("%d changes made to %s" % (totalchanges, infeature))
-
+    edit.stopEditing(True)
     enableEditorTarcking(infeature)
     # except RuntimeError:
     #     print(Fore.RED + arcpy.GetMessages())
@@ -184,8 +184,8 @@ def main():
     pool.close()
     pool.join()
     joinList = getJoinTables()
-    for each in joinList:
-        removeDuplicates(each)
+    # for each in joinList:
+    #     removeDuplicates(each)
 
 
     logging.warning('End of Update')
