@@ -163,11 +163,12 @@ CREATE OR REPLACE TRIGGER RPUD.wGravityMain_facilityid
   BEFORE INSERT ON RPUD.A7290
   FOR EACH ROW
   BEGIN
-    --IF :new.FACILITYID IS NULL THEN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
       SELECT CONCAT('WGM', wGravityMain_seq.nextval) INTO :new.FACILITYID FROM DUAL;
-    --END IF;
+    END IF;
   END;
 /
+
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wLateralLine_facilityid
