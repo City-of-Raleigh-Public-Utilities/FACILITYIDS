@@ -175,9 +175,9 @@ CREATE OR REPLACE TRIGGER RPUD.wLateralLine_facilityid
   BEFORE INSERT ON RPUD.A7291
   FOR EACH ROW
   BEGIN
-    --IF :new.FACILITYID IS NULL THEN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
       SELECT CONCAT('WLAT', wLateralLine_seq.nextval) INTO :new.FACILITYID FROM DUAL;
-    --END IF;
+    END IF;
   END;
 /
 --------------------------------------------------------------------------------------
@@ -208,9 +208,9 @@ CREATE OR REPLACE TRIGGER RPUD.wPressureMain_facilityid
   BEFORE INSERT ON RPUD.A7293
   FOR EACH ROW
   BEGIN
-    --IF :new.FACILITYID IS NULL THEN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
       SELECT CONCAT('WMN', wPressureMain_seq.nextval) INTO :new.FACILITYID FROM DUAL;
-    --END IF;
+    END IF;
   END;
 /
 --------------------------------------------------------------------------------------
@@ -241,9 +241,9 @@ CREATE OR REPLACE TRIGGER RPUD.wCasing_facilityid
   BEFORE INSERT ON RPUD.A7288
   FOR EACH ROW
   BEGIN
-    --IF :new.FACILITYID IS NULL THEN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
       SELECT CONCAT('WCAS', wCasing_seq.nextval) INTO :new.FACILITYID FROM DUAL;
-    --END IF;
+    END IF;
   END;
 /
 --------------------------------------------------------------------------------------
