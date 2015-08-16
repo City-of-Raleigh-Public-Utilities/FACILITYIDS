@@ -49,9 +49,9 @@ CREATE OR REPLACE TRIGGER RPUD.ssForceMain_facilityid
   BEFORE INSERT ON RPUD.A6784
   FOR EACH ROW
   BEGIN
-    --IF :new.FACILITYID IS NULL THEN
+      IF (:new.CREATEDON = :new.EDITEDON) THEN
       SELECT CONCAT('SFMN', ssForceMain_seq.nextval) INTO :new.FACILITYID FROM DUAL;
-    --END IF;
+    END IF;
   END;
 /
 ---------------------------------------------------------------------------------------
