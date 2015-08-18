@@ -60,9 +60,9 @@ CREATE OR REPLACE TRIGGER RPUD.ssGravityMain_facilityid
   BEFORE INSERT ON RPUD.A6785
   FOR EACH ROW
   BEGIN
-    --IF :new.FACILITYID IS NULL THEN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
       SELECT CONCAT('SGMN', ssGravityMain_seq.nextval) INTO :new.FACILITYID FROM DUAL;
-    --END IF;
+    END IF;
   END;
 /
 ---------------------------------------------------------------------------------------
@@ -72,9 +72,9 @@ CREATE OR REPLACE TRIGGER RPUD.ssLateralLine_facilityid
   BEFORE INSERT ON RPUD.A6787
   FOR EACH ROW
   BEGIN
-    --IF :new.FACILITYID IS NULL THEN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
       SELECT CONCAT('SLAT', ssLateralLine_seq.nextval) INTO :new.FACILITYID FROM DUAL;
-    --END IF;
+    END IF;
   END;
 /
 ---------------------------------------------------------------------------------------
@@ -83,7 +83,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssAerial_facilityid
   BEFORE INSERT ON RPUD.A6793
   FOR EACH ROW
   BEGIN
-    IF :new.FACILITYID IS NULL THEN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
       SELECT CONCAT('SAM', ssAerial_seq.nextval) INTO :new.FACILITYID FROM DUAL;
     END IF;
   END;
@@ -116,7 +116,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssCasing_facilityid
   BEFORE INSERT ON RPUD.A6792
   FOR EACH ROW
   BEGIN
-    IF :new.FACILITYID IS NULL THEN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
       SELECT CONCAT('SCA', ssCasing_seq.nextval) INTO :new.FACILITYID FROM DUAL;
     END IF;
   END;
