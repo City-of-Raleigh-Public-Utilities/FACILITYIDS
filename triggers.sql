@@ -194,7 +194,7 @@ CREATE OR REPLACE TRIGGER RPUD.wServiceConnection_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wSystemValve_facilityid
-  BEFORE INSERT ON RPUD.A7296
+  BEFORE INSERT ON RPUD.A9788
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
