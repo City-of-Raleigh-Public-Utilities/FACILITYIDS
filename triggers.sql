@@ -257,3 +257,106 @@ CREATE OR REPLACE TRIGGER RPUD.wNetworkStructure_facilityid
     END IF;
   END;
 /
+---------------------------------------------------------------------------------------
+--Reclaimed Water----------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rCasing_facilityid
+  BEFORE INSERT ON RPUD.A71057
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rCasing_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rControlValve_facilityid
+  BEFORE INSERT ON RPUD.A71052
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rControlValve_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rFitting_facilityid
+  BEFORE INSERT ON RPUD.A71049
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rFitting_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rHyrant_facilityid
+  BEFORE INSERT ON RPUD.A71047
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rHydrant_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rLateralLine_facilityid
+  BEFORE INSERT ON RPUD.A71058
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rLateralLine_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rNetworkStructure_facilityid
+  BEFORE INSERT ON RPUD.A71053
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rNetworkStructure_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rPressureMain_facilityid
+  BEFORE INSERT ON RPUD.A71048
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rPressureMain_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rSamplingStation_facilityid
+  BEFORE INSERT ON RPUD.A71050
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rSamplingStation_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rServiceConnection_facilityid
+  BEFORE INSERT ON RPUD.A71056
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rServiceConnection_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.rSystemValve_facilityid
+  BEFORE INSERT ON RPUD.A71051
+  FOR EACH ROW
+  BEGIN
+    IF (:new.CREATEDON = :new.EDITEDON) THEN
+      SELECT CONCAT('RCAS', rSystemValve_seq.nextval) INTO :new.FACILITYID FROM DUAL
+    END IF;
+  END;
+  /
+---------------------------------------------------------------------------------------
