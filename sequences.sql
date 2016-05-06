@@ -139,3 +139,69 @@ CREATE SEQUENCE wCasing_seq
 CREATE SEQUENCE wNetworkStructure_seq
  START WITH     10074
  INCREMENT BY   1;
+
+--Reclaimed Water----------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+CREATE SEQUENCE rControlValve_seq
+ START WITH     10076
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rFitting_seq
+ START WITH     100323
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rGravityMain_seq
+ START WITH     100082
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rLateralLine_seq
+ START WITH     100019
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rServiceConnection_seq
+ START WITH     100011
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rSystemValve_seq
+ START WITH     100149
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rPressureMain_seq
+ START WITH     100308
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rHydrant_seq
+ START WITH     10003
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rSampleStation_seq
+ START WITH     1
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rCasing_seq
+ START WITH     10047
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE rNetworkStructure_seq
+ START WITH     1006
+ INCREMENT BY   1;
