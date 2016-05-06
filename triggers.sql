@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssCleanout_facilityid
-  BEFORE INSERT ON RPUD.A6889
+  BEFORE INSERT ON RPUD.A71026
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -13,7 +13,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssCleanout_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssSysValve_facilityid
-  BEFORE INSERT ON RPUD.A6789
+  BEFORE INSERT ON RPUD.A71018
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -24,7 +24,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssSysValve_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssContValve_facilityid
-  BEFORE INSERT ON RPUD.A6799
+  BEFORE INSERT ON RPUD.A71025
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -35,7 +35,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssContValve_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssFitting_facilityid
-  BEFORE INSERT ON RPUD.A6783
+  BEFORE INSERT ON RPUD.A71028
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -46,7 +46,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssFitting_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssForceMain_facilityid
-  BEFORE INSERT ON RPUD.A6784
+  BEFORE INSERT ON RPUD.A71029
   FOR EACH ROW
   BEGIN
       IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -57,7 +57,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssForceMain_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssGravityMain_facilityid
-  BEFORE INSERT ON RPUD.A6785
+  BEFORE INSERT ON RPUD.A71030
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -69,7 +69,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssGravityMain_facilityid
 --Change A Tables
 
 CREATE OR REPLACE TRIGGER RPUD.ssLateralLine_facilityid
-  BEFORE INSERT ON RPUD.A6787
+  BEFORE INSERT ON RPUD.A71034
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -80,7 +80,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssLateralLine_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssAerial_facilityid
-  BEFORE INSERT ON RPUD.A6793
+  BEFORE INSERT ON RPUD.A71021
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -91,7 +91,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssAerial_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssGreaseTrap_facilityid
-  BEFORE INSERT ON RPUD.A6786
+  BEFORE INSERT ON RPUD.A71033
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -102,7 +102,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssGreaseTrap_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssNetStruct_facilityid
-  BEFORE INSERT ON RPUD.A6791
+  BEFORE INSERT ON RPUD.A71020
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -113,7 +113,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssNetStruct_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssCasing_facilityid
-  BEFORE INSERT ON RPUD.A6792
+  BEFORE INSERT ON RPUD.A71022
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -124,7 +124,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssCasing_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.ssManhole_facilityid
-  BEFORE INSERT ON RPUD.A6788
+  BEFORE INSERT ON RPUD.A71017
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -138,7 +138,7 @@ CREATE OR REPLACE TRIGGER RPUD.ssManhole_facilityid
 ---------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wControlValve_facilityid
-  BEFORE INSERT ON RPUD.A13745
+  BEFORE INSERT ON RPUD.A70988
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -149,7 +149,7 @@ CREATE OR REPLACE TRIGGER RPUD.wControlValve_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wFitting_facilityid
-  BEFORE INSERT ON RPUD.A13748
+  BEFORE INSERT ON RPUD.A70992
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -160,7 +160,7 @@ CREATE OR REPLACE TRIGGER RPUD.wFitting_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wGravityMain_facilityid
-  BEFORE INSERT ON RPUD.A13749
+  BEFORE INSERT ON RPUD.A70995
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -172,7 +172,7 @@ CREATE OR REPLACE TRIGGER RPUD.wGravityMain_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wLateralLine_facilityid
-  BEFORE INSERT ON RPUD.A13750
+  BEFORE INSERT ON RPUD.A70996
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -183,7 +183,7 @@ CREATE OR REPLACE TRIGGER RPUD.wLateralLine_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wServiceConnection_facilityid
-  BEFORE INSERT ON RPUD.A13760
+  BEFORE INSERT ON RPUD.A71003
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -194,7 +194,7 @@ CREATE OR REPLACE TRIGGER RPUD.wServiceConnection_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wSystemValve_facilityid
-  BEFORE INSERT ON RPUD.A13757
+  BEFORE INSERT ON RPUD.A71000
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -205,7 +205,7 @@ CREATE OR REPLACE TRIGGER RPUD.wSystemValve_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wPressureMain_facilityid
-  BEFORE INSERT ON RPUD.A13752
+  BEFORE INSERT ON RPUD.A70998
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -216,7 +216,7 @@ CREATE OR REPLACE TRIGGER RPUD.wPressureMain_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wHydrant_facilityid
-  BEFORE INSERT ON RPUD.A13746
+  BEFORE INSERT ON RPUD.A70990
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -227,7 +227,7 @@ CREATE OR REPLACE TRIGGER RPUD.wHydrant_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wSampleStation_facilityid
-  BEFORE INSERT ON RPUD.A13756
+  BEFORE INSERT ON RPUD.A70999
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -238,7 +238,7 @@ CREATE OR REPLACE TRIGGER RPUD.wSampleStation_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wCasing_facilityid
-  BEFORE INSERT ON RPUD.A13747
+  BEFORE INSERT ON RPUD.A70991
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
@@ -249,7 +249,7 @@ CREATE OR REPLACE TRIGGER RPUD.wCasing_facilityid
 --------------------------------------------------------------------------------------
 
 CREATE OR REPLACE TRIGGER RPUD.wNetworkStructure_facilityid
-  BEFORE INSERT ON RPUD.A13759
+  BEFORE INSERT ON RPUD.A71002
   FOR EACH ROW
   BEGIN
     IF (:new.CREATEDON = :new.EDITEDON) THEN
