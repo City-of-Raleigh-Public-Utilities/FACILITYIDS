@@ -316,6 +316,16 @@ UpdateFACILITYID("RPUD.wCasing", "wCasing1")
 UpdateFACILITYID("RPUD.wNetworkStructure", "wNetworkStructure1")
 
 #Reuse
+UpdateFACILITYID("RPUD.rCasing", "rCasing1")
+UpdateFACILITYID("RPUD.rControlValve", "rControlValve1")
+UpdateFACILITYID("RPUD.rFitting", "rFitting1")
+UpdateFACILITYID("RPUD.rHydrant", "rHydrant1")
+UpdateFACILITYID("RPUD.rLateralLine", "rLateralLine1")
+UpdateFACILITYID("RPUD.rNetworkStructure", "rNetworkStructure1")
+UpdateFACILITYID("RPUD.rPressureMain", "rPressureMain1")
+UpdateFACILITYID("RPUD.rSamplingStation", "rSamplingStation1")
+UpdateFACILITYID("RPUD.rServiceConnection", "rServiceConnection")
+UpdateFACILITYID("RPUD.rSystemValve", "rSystemValve1")
 
 #PU_Boundaries
 
