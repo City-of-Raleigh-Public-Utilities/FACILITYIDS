@@ -154,12 +154,6 @@ CREATE SEQUENCE rFitting_seq
 
 ---------------------------------------------------------------------------------------
 
-CREATE SEQUENCE rGravityMain_seq
- START WITH     100082
- INCREMENT BY   1;
-
----------------------------------------------------------------------------------------
-
 CREATE SEQUENCE rLateralLine_seq
  START WITH     100019
  INCREMENT BY   1;
