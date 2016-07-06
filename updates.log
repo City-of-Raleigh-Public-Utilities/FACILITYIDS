@@ -1807,3 +1807,226 @@
 2016-05-05 19:38:28,056 RPUD.wNetworkStructure Editor Tracking Enabled
 2016-05-05 19:38:28,059 ********  STOP OF AUTOID.py  **********
 2016-05-05 19:38:28,059 
+2016-06-14 16:37:58,505 
+2016-06-14 16:37:58,505 ********  START OF AUTOID.py  **********
+2016-06-14 16:37:58,505 Updating IDs for RPUD.wHydrant
+2016-06-14 16:59:15,369 
+2016-06-14 16:59:15,369 ********  START OF AUTOID.py  **********
+2016-06-14 16:59:15,369 Updating IDs for RPUD.wHydrant
+2016-06-14 17:27:55,414 
+2016-06-14 17:27:55,414 ********  START OF AUTOID.py  **********
+2016-06-14 17:27:55,414 Updating IDs for RPUD.wHydrant
+2016-06-14 17:28:53,107 
+2016-06-14 17:28:53,108 ********  START OF AUTOID.py  **********
+2016-06-14 17:28:53,108 Updating IDs for RPUD.wHydrant
+2016-06-14 17:28:57,331 RPUD.wHydrant Editor Tracking Disabled
+2016-06-14 17:29:03,227 MAX ID = WHYD138132
+2016-06-14 17:29:04,085 Features updated = 16
+2016-06-14 17:29:04,990 RPUD.wHydrant Editor Tracking Enabled
+2016-06-14 17:29:04,990 ********  STOP OF AUTOID.py  **********
+2016-06-14 17:29:04,990 
+2016-06-28 18:19:10,562 
+2016-06-28 18:19:10,563 ********  START OF AUTOID.py  **********
+2016-06-28 18:19:10,563 Updating IDs for RPUD.wServiceConnection
+2016-06-28 18:19:16,572 RPUD.wServiceConnection Editor Tracking Disabled
+2016-06-28 18:19:53,996 MAX ID = WSC439541
+2016-06-28 18:20:18,072 Features updated = 2842
+2016-06-28 18:20:19,138 RPUD.wServiceConnection Editor Tracking Enabled
+2016-06-28 18:20:19,138 Updating IDs for RPUD.wSystemValve
+2016-06-28 18:20:19,486 RPUD.wSystemValve Editor Tracking Disabled
+2016-06-28 18:20:31,023 MAX ID = WSV213747
+2016-06-28 18:20:31,641 Features updated = 42
+2016-07-06 17:03:46,210 
+2016-07-06 17:03:46,226 ********  START OF AUTOID.py  **********
+2016-07-06 17:03:46,226 Updating IDs for RPUD.wSystemValve
+2016-07-06 17:04:20,980 
+2016-07-06 17:04:20,980 ********  START OF AUTOID.py  **********
+2016-07-06 17:04:20,980 Updating IDs for RPUD.wSystemValve
+2016-07-06 17:04:25,108 RPUD.wSystemValve Editor Tracking Disabled
+2016-07-06 17:04:33,772 MAX ID = WSV218792
+2016-07-06 17:04:35,243 Features updated = 58
+2016-07-06 17:04:36,151 RPUD.wSystemValve Editor Tracking Enabled
+2016-07-06 17:04:36,151 ********  STOP OF AUTOID.py  **********
+2016-07-06 17:04:36,151 
+2016-07-06 17:23:45,571 
+2016-07-06 17:23:45,571 ********  START OF AUTOID.py  **********
+2016-07-06 17:23:45,571 Updating IDs for RPUD.rCasing
+2016-07-06 17:23:48,660 RPUD.rCasing Editor Tracking Disabled
+2016-07-06 17:23:49,361 MAX ID = RCAS10046
+2016-07-06 17:23:50,391 Features updated = 0
+2016-07-06 17:23:51,249 RPUD.rCasing Editor Tracking Enabled
+2016-07-06 17:23:51,249 Updating IDs for RPUD.rControlValve
+2016-07-06 17:23:51,483 RPUD.rControlValve Editor Tracking Disabled
+2016-07-06 17:23:51,779 MAX ID = RCV10075
+2016-07-06 17:24:56,345 
+2016-07-06 17:24:56,345 ********  START OF AUTOID.py  **********
+2016-07-06 17:24:56,345 Updating IDs for RPUD.rControlValve
+2016-07-06 17:25:00,246 RPUD.rControlValve Editor Tracking Disabled
+2016-07-06 17:25:01,713 MAX ID = RCV10075
+2016-07-06 17:29:45,351 
+2016-07-06 17:29:45,351 ********  START OF AUTOID.py  **********
+2016-07-06 17:29:45,351 Updating IDs for RPUD.rControlValve
+2016-07-06 17:30:16,443 
+2016-07-06 17:30:16,443 ********  START OF AUTOID.py  **********
+2016-07-06 17:30:16,443 Updating IDs for RPUD.rFitting
+2016-07-06 17:30:58,453 
+2016-07-06 17:30:58,453 ********  START OF AUTOID.py  **********
+2016-07-06 17:30:58,453 Updating IDs for RPUD.rFitting
+2016-07-06 17:31:02,072 RPUD.rFitting Editor Tracking Disabled
+2016-07-06 17:31:03,503 MAX ID = RFIT100322
+2016-07-06 17:31:30,905 
+2016-07-06 17:31:30,905 ********  START OF AUTOID.py  **********
+2016-07-06 17:31:30,905 Updating IDs for RPUD.rFitting
+2016-07-06 17:31:34,786 RPUD.rFitting Editor Tracking Disabled
+2016-07-06 17:31:36,125 MAX ID = RFIT100322
+2016-07-06 17:33:53,980 
+2016-07-06 17:33:53,980 ********  START OF AUTOID.py  **********
+2016-07-06 17:33:53,980 Updating IDs for RPUD.ssCleanOut
+2016-07-06 17:33:58,394 RPUD.ssCleanOut Editor Tracking Disabled
+2016-07-06 17:34:03,085 MAX ID = SCO165427
+2016-07-06 17:34:04,145 Features updated = 11
+2016-07-06 17:34:04,892 RPUD.ssCleanOut Editor Tracking Enabled
+2016-07-06 17:34:04,892 Updating IDs for RPUD.ssSystemValve
+2016-07-06 17:34:05,470 RPUD.ssSystemValve Editor Tracking Disabled
+2016-07-06 17:34:05,801 MAX ID = SSV10973
+2016-07-06 17:34:05,914 Features updated = 0
+2016-07-06 17:34:06,599 RPUD.ssSystemValve Editor Tracking Enabled
+2016-07-06 17:34:06,599 Updating IDs for RPUD.ssControlValve
+2016-07-06 17:34:07,210 RPUD.ssControlValve Editor Tracking Disabled
+2016-07-06 17:34:07,549 MAX ID = SCV10840
+2016-07-06 17:34:07,663 Features updated = 0
+2016-07-06 17:34:08,401 RPUD.ssControlValve Editor Tracking Enabled
+2016-07-06 17:34:08,401 Updating IDs for RPUD.ssFitting
+2016-07-06 17:34:09,012 RPUD.ssFitting Editor Tracking Disabled
+2016-07-06 17:34:11,645 MAX ID = SF151695
+2016-07-06 17:34:11,763 Features updated = 0
+2016-07-06 17:34:12,476 RPUD.ssFitting Editor Tracking Enabled
+2016-07-06 17:34:12,477 Updating IDs for RPUD.ssForceMain
+2016-07-06 17:34:13,132 RPUD.ssForceMain Editor Tracking Disabled
+2016-07-06 17:34:13,500 MAX ID = SFMN14215
+2016-07-06 17:34:13,614 Features updated = 0
+2016-07-06 17:34:14,359 RPUD.ssForceMain Editor Tracking Enabled
+2016-07-06 17:34:14,359 Updating IDs for RPUD.ssGravityMain
+2016-07-06 17:34:15,025 RPUD.ssGravityMain Editor Tracking Disabled
+2016-07-06 17:34:20,625 MAX ID = SGMN181483
+2016-07-06 17:34:20,766 Features updated = 0
+2016-07-06 17:34:21,565 RPUD.ssGravityMain Editor Tracking Enabled
+2016-07-06 17:34:21,565 Updating IDs for RPUD.ssLateralLine
+2016-07-06 17:34:22,183 RPUD.ssLateralLine Editor Tracking Disabled
+2016-07-06 17:34:25,219 MAX ID = SLAT168851
+2016-07-06 17:34:25,345 Features updated = 0
+2016-07-06 17:34:26,111 RPUD.ssLateralLine Editor Tracking Enabled
+2016-07-06 17:34:26,111 Updating IDs for RPUD.ssAerial
+2016-07-06 17:34:26,848 RPUD.ssAerial Editor Tracking Disabled
+2016-07-06 17:34:27,157 MAX ID = SAM11882
+2016-07-06 17:34:27,273 Features updated = 0
+2016-07-06 17:34:27,970 RPUD.ssAerial Editor Tracking Enabled
+2016-07-06 17:34:27,970 Updating IDs for RPUD.ssSystemValve
+2016-07-06 17:34:28,566 RPUD.ssSystemValve Editor Tracking Disabled
+2016-07-06 17:34:28,753 MAX ID = SSV10973
+2016-07-06 17:34:28,828 Features updated = 0
+2016-07-06 17:34:29,546 RPUD.ssSystemValve Editor Tracking Enabled
+2016-07-06 17:34:29,546 Updating IDs for RPUD.ssGreaseTrap
+2016-07-06 17:34:30,082 RPUD.ssGreaseTrap Editor Tracking Disabled
+2016-07-06 17:34:30,369 MAX ID = SGT14638
+2016-07-06 17:34:30,480 Features updated = 0
+2016-07-06 17:34:31,157 RPUD.ssGreaseTrap Editor Tracking Enabled
+2016-07-06 17:34:31,157 Updating IDs for RPUD.ssNetworkStructure
+2016-07-06 17:34:31,773 RPUD.ssNetworkStructure Editor Tracking Disabled
+2016-07-06 17:34:32,076 MAX ID = SNS1319
+2016-07-06 17:34:32,196 Features updated = 0
+2016-07-06 17:34:32,924 RPUD.ssNetworkStructure Editor Tracking Enabled
+2016-07-06 17:34:32,924 Updating IDs for RPUD.ssCasing
+2016-07-06 17:34:33,497 RPUD.ssCasing Editor Tracking Disabled
+2016-07-06 17:34:33,793 MAX ID = SCA13895
+2016-07-06 17:34:33,905 Features updated = 0
+2016-07-06 17:34:34,585 RPUD.ssCasing Editor Tracking Enabled
+2016-07-06 17:34:34,586 ********  STOP OF AUTOID.py  **********
+2016-07-06 17:34:34,586 
+2016-07-06 17:35:10,897 
+2016-07-06 17:35:10,897 ********  START OF AUTOID.py  **********
+2016-07-06 17:35:10,897 Updating IDs for RPUD.ssManhole
+2016-07-06 17:35:15,336 RPUD.ssManhole Editor Tracking Disabled
+2016-07-06 17:35:22,400 MAX ID = SMH180400
+2016-07-06 17:35:23,394 Features updated = 4
+2016-07-06 17:35:24,190 RPUD.ssManhole Editor Tracking Enabled
+2016-07-06 17:35:25,428 RPUD.ssGravityMain Editor Tracking Disabled
+2016-07-06 17:35:25,428 RPUD.ssManhole Editor Tracking Disabled
+2016-07-06 17:35:25,720 UpdateMHNumbers
+2016-07-06 17:36:26,663 RPUD.ssGravityMain Editor Tracking Enabled
+2016-07-06 17:36:26,663 RPUD.ssManhole Editor Tracking Enabled
+2016-07-06 17:36:26,664 ********  STOP OF AUTOID.py  **********
+2016-07-06 17:36:26,664 
+2016-07-06 17:36:50,270 
+2016-07-06 17:36:50,270 ********  START OF AUTOID.py  **********
+2016-07-06 17:36:50,270 Updating IDs for RPUD.wControlValve
+2016-07-06 17:36:54,549 RPUD.wControlValve Editor Tracking Disabled
+2016-07-06 17:36:56,533 MAX ID = WSV202901
+2016-07-06 17:36:57,292 Features updated = 0
+2016-07-06 17:36:58,076 RPUD.wControlValve Editor Tracking Enabled
+2016-07-06 17:36:58,076 Updating IDs for RPUD.wFitting
+2016-07-06 17:36:58,608 RPUD.wFitting Editor Tracking Disabled
+2016-07-06 17:37:04,490 MAX ID = WFIT273188
+2016-07-06 17:37:04,707 Features updated = 1
+2016-07-06 17:37:05,346 RPUD.wFitting Editor Tracking Enabled
+2016-07-06 17:37:05,346 Updating IDs for RPUD.wGravityMain
+2016-07-06 17:37:05,872 RPUD.wGravityMain Editor Tracking Disabled
+2016-07-06 17:37:06,242 MAX ID = WGM100422
+2016-07-06 17:37:06,348 Features updated = 0
+2016-07-06 17:37:06,996 RPUD.wGravityMain Editor Tracking Enabled
+2016-07-06 17:37:06,996 Updating IDs for RPUD.wLateralLine
+2016-07-06 17:37:07,538 RPUD.wLateralLine Editor Tracking Disabled
+2016-07-06 17:37:11,753 MAX ID = WMN254371
+2016-07-06 17:37:12,109 Features updated = 36
+2016-07-06 17:37:12,773 RPUD.wLateralLine Editor Tracking Enabled
+2016-07-06 17:37:12,773 Updating IDs for RPUD.wServiceConnection
+2016-07-06 17:37:13,365 RPUD.wServiceConnection Editor Tracking Disabled
+2016-07-06 17:37:30,111 MAX ID = WSC442383
+2016-07-06 17:37:30,286 Features updated = 0
+2016-07-06 17:37:30,993 RPUD.wServiceConnection Editor Tracking Enabled
+2016-07-06 17:37:30,993 Updating IDs for RPUD.wSystemValve
+2016-07-06 17:37:31,611 RPUD.wSystemValve Editor Tracking Disabled
+2016-07-06 17:37:38,019 MAX ID = WSV218850
+2016-07-06 17:37:38,160 Features updated = 0
+2016-07-06 17:37:38,898 RPUD.wSystemValve Editor Tracking Enabled
+2016-07-06 17:37:38,898 Updating IDs for RPUD.wPressureMain
+2016-07-06 17:37:39,510 RPUD.wPressureMain Editor Tracking Disabled
+2016-07-06 17:37:44,611 MAX ID = WMN253554
+2016-07-06 17:37:44,857 Features updated = 4
+2016-07-06 17:37:45,599 RPUD.wPressureMain Editor Tracking Enabled
+2016-07-06 17:37:45,601 Updating IDs for RPUD.wHydrant
+2016-07-06 17:37:46,265 RPUD.wHydrant Editor Tracking Disabled
+2016-07-06 17:37:50,473 MAX ID = WHYD140210
+2016-07-06 17:37:50,723 Features updated = 5
+2016-07-06 17:37:51,517 RPUD.wHydrant Editor Tracking Enabled
+2016-07-06 17:37:51,517 Updating IDs for RPUD.wSamplingStation
+2016-07-06 17:37:51,766 RPUD.wSamplingStation Editor Tracking Disabled
+2016-07-06 17:37:52,062 MAX ID = WSS10297
+2016-07-06 17:37:52,174 Features updated = 0
+2016-07-06 17:39:29,578 
+2016-07-06 17:39:29,578 ********  START OF AUTOID.py  **********
+2016-07-06 17:39:29,578 Updating IDs for RPUD.wControlValve
+2016-07-06 17:39:33,786 RPUD.wControlValve Editor Tracking Disabled
+2016-07-06 17:39:35,598 MAX ID = WSV202901
+2016-07-06 17:39:36,312 Features updated = 0
+2016-07-06 17:39:37,127 RPUD.wControlValve Editor Tracking Enabled
+2016-07-06 17:39:37,127 Updating IDs for RPUD.wFitting
+2016-07-06 17:39:37,665 RPUD.wFitting Editor Tracking Disabled
+2016-07-06 17:39:43,219 MAX ID = WFIT273189
+2016-07-06 17:39:43,325 Features updated = 0
+2016-07-06 17:39:43,970 RPUD.wFitting Editor Tracking Enabled
+2016-07-06 17:39:43,970 Updating IDs for RPUD.wGravityMain
+2016-07-06 17:39:44,502 RPUD.wGravityMain Editor Tracking Disabled
+2016-07-06 17:39:44,677 MAX ID = WGM100422
+2016-07-06 17:39:44,750 Features updated = 0
+2016-07-06 17:39:53,335 
+2016-07-06 17:39:53,335 ********  START OF AUTOID.py  **********
+2016-07-06 17:39:53,335 Updating IDs for RPUD.wCasing
+2016-07-06 17:39:56,811 RPUD.wCasing Editor Tracking Disabled
+2016-07-06 17:39:57,581 MAX ID = WCAS14893
+2016-07-06 17:39:58,671 Features updated = 2
+2016-07-06 17:39:59,411 RPUD.wCasing Editor Tracking Enabled
+2016-07-06 17:39:59,411 Updating IDs for RPUD.wNetworkStructure
+2016-07-06 17:39:59,683 RPUD.wNetworkStructure Editor Tracking Disabled
+2016-07-06 17:39:59,963 MAX ID = WNS10075
+2016-07-06 17:40:00,088 Features updated = 0

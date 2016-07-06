@@ -19,7 +19,7 @@ import logging
 arcpy.env.overwriteOutput = True
 
 logging.basicConfig(filename=os.path.join(os.path.dirname(sys.argv[0]),'updates.log'),level=logging.INFO, format='%(asctime)s %(message)s')
-arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'RPUD.sde')
+arcpy.env.workspace = os.path.join(os.path.dirname(sys.argv[0]), 'RPUD_TESTDB.sde')
 # these message go to standard output.
 def LogMessage( message ):
     print time.strftime("%Y-%m-%dT%H:%M:%S ", time.localtime()) + message
@@ -275,57 +275,57 @@ LogMessage("********  START OF AUTOID.py  **********")
 
 
 
-#
-# Sewer
-#
-UpdateFACILITYID("RPUD.ssCleanOut", "ssCleanOuts1")
-UpdateFACILITYID("RPUD.ssSystemValve", "ssSystemValve1")
-UpdateFACILITYID("RPUD.ssControlValve", "ssControlValves1")
-UpdateFACILITYID("RPUD.ssFitting", "ssFittings1")
-UpdateFACILITYID("RPUD.ssForceMain", "ssForceMains1")
-UpdateFACILITYID("RPUD.ssGravityMain", "ssGravityMains1")
-UpdateFACILITYID("RPUD.ssLateralLine", "ssLateralLines1")
-UpdateFACILITYID("RPUD.ssAerial", "ssAerials1")
-UpdateFACILITYID("RPUD.ssSystemValve", "ssSystemValve1")
-UpdateFACILITYID("RPUD.ssGreaseTrap", "ssGreaseTrap1")
-UpdateFACILITYID("RPUD.ssNetworkStructure", "ssNetworkStructure1")
-UpdateFACILITYID("RPUD.ssCasing", "ssCasing1")
+# #
+# # Sewer
+# #
+# UpdateFACILITYID("RPUD.ssCleanOut", "ssCleanOuts1")
+# UpdateFACILITYID("RPUD.ssSystemValve", "ssSystemValve1")
+# UpdateFACILITYID("RPUD.ssControlValve", "ssControlValves1")
+# UpdateFACILITYID("RPUD.ssFitting", "ssFittings1")
+# UpdateFACILITYID("RPUD.ssForceMain", "ssForceMains1")
+# UpdateFACILITYID("RPUD.ssGravityMain", "ssGravityMains1")
+# UpdateFACILITYID("RPUD.ssLateralLine", "ssLateralLines1")
+# UpdateFACILITYID("RPUD.ssAerial", "ssAerials1")
+# UpdateFACILITYID("RPUD.ssSystemValve", "ssSystemValve1")
+# UpdateFACILITYID("RPUD.ssGreaseTrap", "ssGreaseTrap1")
+# UpdateFACILITYID("RPUD.ssNetworkStructure", "ssNetworkStructure1")
+# UpdateFACILITYID("RPUD.ssCasing", "ssCasing1")
 
 
 
-# # # #
+# # # # #
 
-UpdateFACILITYID("RPUD.ssManhole", "ssManholes1")
-UpdateMHNumbers("RPUD.ssGravityMain","RPUD.ssManhole")
+# UpdateFACILITYID("RPUD.ssManhole", "ssManholes1")
+# UpdateMHNumbers("RPUD.ssGravityMain","RPUD.ssManhole")
 
 
 
-#
-# Water
-#
-UpdateFACILITYID("RPUD.wControlValve", "wControlValves1")
-UpdateFACILITYID("RPUD.wFitting", "wFittings1")
-UpdateFACILITYID("RPUD.wGravityMain", "wGravityMains1")
-UpdateFACILITYID("RPUD.wLateralLine", "wLateralLines1")
-UpdateFACILITYID("RPUD.wServiceConnection", "wServiceConnections1")
-UpdateFACILITYID("RPUD.wSystemValve", "wSystemValves1")
-UpdateFACILITYID("RPUD.wPressureMain", "wPressureMains1")
-UpdateFACILITYID("RPUD.wHydrant", "wHydrants1")
-UpdateFACILITYID("RPUD.wSamplingStation", "wSamplingStations1")
-UpdateFACILITYID("RPUD.wCasing", "wCasing1")
-UpdateFACILITYID("RPUD.wNetworkStructure", "wNetworkStructure1")
+# #
+# # Water
+# #
+# UpdateFACILITYID("RPUD.wControlValve", "wControlValves1")
+# UpdateFACILITYID("RPUD.wFitting", "wFittings1")
+# UpdateFACILITYID("RPUD.wGravityMain", "wGravityMains1")
+# UpdateFACILITYID("RPUD.wLateralLine", "wLateralLines1")
+# UpdateFACILITYID("RPUD.wServiceConnection", "wServiceConnections1")
+# UpdateFACILITYID("RPUD.wSystemValve", "wSystemValves1")
+# UpdateFACILITYID("RPUD.wPressureMain", "wPressureMains1")
+# UpdateFACILITYID("RPUD.wHydrant", "wHydrants1")
+# UpdateFACILITYID("RPUD.wSamplingStation", "wSamplingStations1")
+# UpdateFACILITYID("RPUD.wCasing", "wCasing1")
+# UpdateFACILITYID("RPUD.wNetworkStructure", "wNetworkStructure1")
 
-#Reuse
-UpdateFACILITYID("RPUD.rCasing", "rCasing1")
-UpdateFACILITYID("RPUD.rControlValve", "rControlValve1")
-UpdateFACILITYID("RPUD.rFitting", "rFitting1")
-UpdateFACILITYID("RPUD.rHydrant", "rHydrant1")
-UpdateFACILITYID("RPUD.rLateralLine", "rLateralLine1")
-UpdateFACILITYID("RPUD.rNetworkStructure", "rNetworkStructure1")
-UpdateFACILITYID("RPUD.rPressureMain", "rPressureMain1")
-UpdateFACILITYID("RPUD.rSamplingStation", "rSamplingStation1")
-UpdateFACILITYID("RPUD.rServiceConnection", "rServiceConnection")
-UpdateFACILITYID("RPUD.rSystemValve", "rSystemValve1")
+# #Reuse
+# UpdateFACILITYID("RPUD.rCasing", "rCasing1")
+# UpdateFACILITYID("RPUD.rControlValve", "rControlValve1")
+# UpdateFACILITYID("RPUD.rFitting", "rFitting1")
+# UpdateFACILITYID("RPUD.rHydrant", "rHydrant1")
+# UpdateFACILITYID("RPUD.rLateralLine", "rLateralLine1")
+# UpdateFACILITYID("RPUD.rNetworkStructure", "rNetworkStructure1")
+# UpdateFACILITYID("RPUD.rPressureMain", "rPressureMain1")
+# UpdateFACILITYID("RPUD.rSamplingStation", "rSamplingStation1")
+# UpdateFACILITYID("RPUD.rServiceConnection", "rServiceConnection")
+# UpdateFACILITYID("RPUD.rSystemValve", "rSystemValve1")
 
 #PU_Boundaries
 
