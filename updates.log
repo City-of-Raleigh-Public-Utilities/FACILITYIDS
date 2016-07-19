@@ -2030,3 +2030,110 @@
 2016-07-06 17:39:59,683 RPUD.wNetworkStructure Editor Tracking Disabled
 2016-07-06 17:39:59,963 MAX ID = WNS10075
 2016-07-06 17:40:00,088 Features updated = 0
+2016-07-11 21:41:22,993 
+2016-07-11 21:41:23,013 ********  START OF AUTOID.py  **********
+2016-07-11 21:41:23,013 Updating IDs for RPUD.wControlValve
+2016-07-11 21:41:29,198 RPUD.wControlValve Editor Tracking Disabled
+2016-07-11 21:41:31,884 MAX ID = WSV202901
+2016-07-11 21:41:32,848 Features updated = 2
+2016-07-11 21:41:33,569 RPUD.wControlValve Editor Tracking Enabled
+2016-07-11 21:41:33,569 Updating IDs for RPUD.wFitting
+2016-07-11 21:41:34,148 RPUD.wFitting Editor Tracking Disabled
+2016-07-11 21:41:40,594 MAX ID = WFIT274193
+2016-07-11 21:41:40,953 Features updated = 44
+2016-07-11 21:41:41,604 RPUD.wFitting Editor Tracking Enabled
+2016-07-11 21:41:41,604 Updating IDs for RPUD.wGravityMain
+2016-07-11 21:41:42,269 RPUD.wGravityMain Editor Tracking Disabled
+2016-07-11 21:41:42,618 MAX ID = WGM100422
+2016-07-11 21:41:42,763 Features updated = 0
+2016-07-11 21:41:43,443 RPUD.wGravityMain Editor Tracking Enabled
+2016-07-11 21:41:43,443 Updating IDs for RPUD.wLateralLine
+2016-07-11 21:41:44,167 RPUD.wLateralLine Editor Tracking Disabled
+2016-07-11 21:41:49,286 MAX ID = WMN254407
+2016-07-11 21:41:49,677 Features updated = 49
+2016-07-11 21:41:50,471 RPUD.wLateralLine Editor Tracking Enabled
+2016-07-11 21:41:50,471 Updating IDs for RPUD.wServiceConnection
+2016-07-11 21:41:51,171 RPUD.wServiceConnection Editor Tracking Disabled
+2016-07-11 21:42:10,851 MAX ID = WSC442387
+2016-07-11 21:42:11,032 Features updated = 0
+2016-07-11 21:42:11,756 RPUD.wServiceConnection Editor Tracking Enabled
+2016-07-11 21:42:11,756 Updating IDs for RPUD.wSystemValve
+2016-07-11 21:42:12,506 RPUD.wSystemValve Editor Tracking Disabled
+2016-07-11 21:42:20,032 MAX ID = WSV219816
+2016-07-11 21:42:20,357 Features updated = 21
+2016-07-11 21:42:21,191 RPUD.wSystemValve Editor Tracking Enabled
+2016-07-11 21:42:21,191 Updating IDs for RPUD.wPressureMain
+2016-07-11 21:42:21,937 RPUD.wPressureMain Editor Tracking Disabled
+2016-07-11 21:42:28,053 MAX ID = WMN254559
+2016-07-11 21:42:28,394 Features updated = 19
+2016-07-11 21:42:29,094 RPUD.wPressureMain Editor Tracking Enabled
+2016-07-11 21:42:29,094 Updating IDs for RPUD.wHydrant
+2016-07-11 21:42:29,874 RPUD.wHydrant Editor Tracking Disabled
+2016-07-11 21:42:34,608 MAX ID = WHYD170216
+2016-07-11 21:42:34,858 Features updated = 9
+2016-07-11 21:42:35,664 RPUD.wHydrant Editor Tracking Enabled
+2016-07-11 21:42:35,664 Updating IDs for RPUD.wSamplingStation
+2016-07-11 21:42:35,963 RPUD.wSamplingStation Editor Tracking Disabled
+2016-07-11 21:42:36,279 MAX ID = WSS10297
+2016-07-11 21:42:36,499 Features updated = 2
+2016-07-17 23:54:27,398 
+2016-07-17 23:54:27,417 ********  START OF AUTOID.py  **********
+2016-07-17 23:54:27,417 Updating IDs for RPUD.ssGravityMain
+2016-07-17 23:55:25,108 
+2016-07-17 23:55:25,108 ********  START OF AUTOID.py  **********
+2016-07-17 23:55:25,108 Updating IDs for RPUD.ssGravityMain
+2016-07-17 23:55:29,706 RPUD.ssGravityMain Editor Tracking Disabled
+2016-07-17 23:55:36,568 MAX ID = SGMN182500
+2016-07-17 23:55:38,128 Features updated = 1
+2016-07-17 23:55:38,933 RPUD.ssGravityMain Editor Tracking Enabled
+2016-07-17 23:55:38,933 ********  STOP OF AUTOID.py  **********
+2016-07-17 23:55:38,933 
+2016-07-18 21:32:29,611 
+2016-07-18 21:32:29,641 ********  START OF AUTOID.py  **********
+2016-07-18 21:32:29,641 Updating IDs for RPUD.wControlValve
+2016-07-18 21:32:35,065 RPUD.wControlValve Editor Tracking Disabled
+2016-07-18 21:32:37,885 MAX ID = WSV202903
+2016-07-18 21:32:38,821 Features updated = 1
+2016-07-18 21:32:39,720 RPUD.wControlValve Editor Tracking Enabled
+2016-07-18 21:32:39,720 Updating IDs for RPUD.wFitting
+2016-07-18 21:32:40,415 RPUD.wFitting Editor Tracking Disabled
+2016-07-18 21:32:46,270 MAX ID = WFIT274457
+2016-07-18 21:32:46,526 Features updated = 4
+2016-07-18 21:32:47,151 RPUD.wFitting Editor Tracking Enabled
+2016-07-18 21:32:47,151 Updating IDs for RPUD.wGravityMain
+2016-07-18 21:32:47,861 RPUD.wGravityMain Editor Tracking Disabled
+2016-07-18 21:32:48,230 MAX ID = WGM100422
+2016-07-18 21:32:48,341 Features updated = 0
+2016-07-18 21:32:49,020 RPUD.wGravityMain Editor Tracking Enabled
+2016-07-18 21:32:49,020 Updating IDs for RPUD.wLateralLine
+2016-07-18 21:32:49,676 RPUD.wLateralLine Editor Tracking Disabled
+2016-07-18 21:32:54,190 MAX ID = WMN254456
+2016-07-18 21:32:54,325 Features updated = 0
+2016-07-18 21:32:55,020 RPUD.wLateralLine Editor Tracking Enabled
+2016-07-18 21:32:55,020 Updating IDs for RPUD.wServiceConnection
+2016-07-18 21:32:55,710 RPUD.wServiceConnection Editor Tracking Disabled
+2016-07-18 21:33:12,776 MAX ID = WSC442383
+2016-07-18 21:33:12,976 Features updated = 0
+2016-07-18 21:33:13,625 RPUD.wServiceConnection Editor Tracking Enabled
+2016-07-18 21:33:13,625 Updating IDs for RPUD.wSystemValve
+2016-07-18 21:33:14,280 RPUD.wSystemValve Editor Tracking Disabled
+2016-07-18 21:33:20,891 MAX ID = WSV219936
+2016-07-18 21:33:21,030 Features updated = 0
+2016-07-18 21:33:21,746 RPUD.wSystemValve Editor Tracking Enabled
+2016-07-18 21:33:21,746 Updating IDs for RPUD.wPressureMain
+2016-07-18 21:33:22,460 RPUD.wPressureMain Editor Tracking Disabled
+2016-07-18 21:33:27,996 MAX ID = WMN254682
+2016-07-18 21:33:28,145 Features updated = 0
+2016-07-18 21:33:28,921 RPUD.wPressureMain Editor Tracking Enabled
+2016-07-18 21:33:28,921 Updating IDs for RPUD.wHydrant
+2016-07-18 21:33:29,915 RPUD.wHydrant Editor Tracking Disabled
+2016-07-18 21:33:42,016 MAX ID = WHYD170804
+2016-07-18 21:33:42,250 Features updated = 1
+2016-07-18 21:33:43,266 RPUD.wHydrant Editor Tracking Enabled
+2016-07-18 21:33:43,270 Updating IDs for RPUD.wCasing
+2016-07-18 21:33:43,926 RPUD.wCasing Editor Tracking Disabled
+2016-07-18 21:33:44,226 MAX ID = WCAS14895
+2016-07-18 21:33:44,351 Features updated = 0
+2016-07-18 21:33:44,980 RPUD.wCasing Editor Tracking Enabled
+2016-07-18 21:33:44,980 ********  STOP OF AUTOID.py  **********
+2016-07-18 21:33:44,980 
