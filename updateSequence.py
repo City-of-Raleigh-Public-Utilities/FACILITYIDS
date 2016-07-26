@@ -1,0 +1,69 @@
+#Use this script to update sequence.sql
+
+import arcpy, os, sys, re
+
+arcpy.env.overwriteOutpu = True
+workspace = os.path.join(os.path.dirname(sys.argv[0]), "RPUD_TESTDB.sde")
+
+arcpy.env.workspace = workspace
+#output sql file
+sqlFile = "sequences.sql"
+
+#sewer sequence names
+ssDict = {
+	'RPUD.ssAerial': 'ssAerial_seq',
+	'RPUD.ssCasing': 'ssCasing_seq',
+	'RPUD.ssCleanout': 'ssCleanout_seq',
+	'RPUD.ssControlValve': "ssControlValve_seq",
+	'RPUD.ssFitting': "ssFitting_seq",
+	'RPUD.ssForceMain': "ssForceMain_seq",
+	'RPUD.ssGravityMain': "ssGravityMain_seq",
+	'RPUD.ssGreaseTrap': "ssGreaseTrap_seq",
+	'RPUD.ssLateralLine': "ssLateralLine_seq",
+	'RPUD.ssManhole': "ssManhole_seq",
+	'RPUD.ssNetworkStructure': "ssNetworkStructure_seq",
+	'RPUD.ssSystemValve': "ssSystemValve_seq"}
+#water sequence names
+wDict = {
+	'RPUD.wCasing': "wCasing_seq",
+	'RPUD.wControlValve': "wControlValve_seq",
+	'RPUD.wFitting': "wFitting_seq",
+	'RPUD.wGravityMain': "wGravityMain_seq",
+	'RPUD.wHydrant': "wHydrant_seq",
+	'RPUD.wLateralLine': "wLateralLine_seq",
+	'RPUD.wNetworkStructure': "wNetworkStructure_seq",
+	'RPUD.wPressureMain': "wPressureMain_seq",
+	'RPUD.wSamplingStation': "wSampleStation_seq",
+	'RPUD.wServiceConnection': "wServiceConnection_seq",
+	'RPUD.wSystemValve': "wSystemValve_seq"}
+
+#find the current max number and update the next largest number in sequence
+def updateSeq(fc, seq, lyr, whereClause = "FACILITYID IS NOT NULL AND FACILITYID NOT LIKE '___9%' AND FACILITYID NOT LIKE '____9%'"):
+	arcpy.MakeFeatureLayer_management(fc, lyr)
+	rows = arcpy.SearchCursor(lyr, whereClause, "", "", "FACILITYID D")
+	row = rows.next()
+	if row == None:
+		del rows
+		del row
+		return
+	maxID = row.getValue("FACILITYID")
+	match = re.match(r"([a-z]+)([0-9]+)", maxID, re.I)
+	if match:
+		items = match.groups()
+		newID = int(items[1]) + 1
+		line = "\nCREATE SEQUENCE {0}\n START WITH     {1}\n INCREMENT BY   1;".format(seq, newID)
+		line += "\n\n---------------------------------------------------------------------------------------\n"
+		print line
+	del rows
+	del row
+	return line
+#write out to sql file
+with open(sqlFile, "wb") as fo:
+	fo.write("--Sewer--------------------------------------------------------------------------------\n---------------------------------------------------------------------------------------\n")
+	for key, value in ssDict.iteritems():
+		fo.write(updateSeq(key, value, str(key) + "1"))
+	fo.write("--Water--------------------------------------------------------------------------------\n---------------------------------------------------------------------------------------\n")
+	for key, value in wDict.iteritems():
+		fo.write(updateSeq(key, value, str(key) + "1"))	
+	fo.close()
+

@@ -1,14 +1,19 @@
 --Sewer--------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 
-CREATE SEQUENCE ssCleanout_seq
- START WITH     166538
+CREATE SEQUENCE ssAerial_seq
+ START WITH     11883
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+CREATE SEQUENCE ssCasing_seq
+ START WITH     13896
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
 
-CREATE SEQUENCE ssSystemValve_seq
- START WITH     10974
+CREATE SEQUENCE ssCleanout_seq
+ START WITH     166538
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -37,32 +42,14 @@ CREATE SEQUENCE ssGravityMain_seq
 
 ---------------------------------------------------------------------------------------
 
-CREATE SEQUENCE ssLateralLine_seq
- START WITH     169854
- INCREMENT BY   1;
-
----------------------------------------------------------------------------------------
-
-CREATE SEQUENCE ssAerial_seq
- START WITH     11883
- INCREMENT BY   1;
-
----------------------------------------------------------------------------------------
-
 CREATE SEQUENCE ssGreaseTrap_seq
  START WITH     14639
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
 
-CREATE SEQUENCE ssNetworkStructure_seq
- START WITH     1320
- INCREMENT BY   1;
-
----------------------------------------------------------------------------------------
-
-CREATE SEQUENCE ssCasing_seq
- START WITH     13896
+CREATE SEQUENCE ssLateralLine_seq
+ START WITH     169854
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -73,7 +60,25 @@ CREATE SEQUENCE ssManhole_seq
 
 ---------------------------------------------------------------------------------------
 
+CREATE SEQUENCE ssNetworkStructure_seq
+ START WITH     1320
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE ssSystemValve_seq
+ START WITH     10974
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
 --Water--------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE wCasing_seq
+ START WITH     14896
+ INCREMENT BY   1;
+
 ---------------------------------------------------------------------------------------
 
 CREATE SEQUENCE wControlValve_seq
@@ -94,8 +99,32 @@ CREATE SEQUENCE wGravityMain_seq
 
 ---------------------------------------------------------------------------------------
 
+CREATE SEQUENCE wHydrant_seq
+ START WITH     170806
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
 CREATE SEQUENCE wLateralLine_seq
  START WITH     254457
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE wNetworkStructure_seq
+ START WITH     10076
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE wPressureMain_seq
+ START WITH     254683
+ INCREMENT BY   1;
+
+---------------------------------------------------------------------------------------
+
+CREATE SEQUENCE wSampleStation_seq
+ START WITH     10300
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -111,34 +140,6 @@ CREATE SEQUENCE wSystemValve_seq
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
-
-CREATE SEQUENCE wPressureMain_seq
- START WITH     254683
- INCREMENT BY   1;
-
----------------------------------------------------------------------------------------
-
-CREATE SEQUENCE wHydrant_seq
- START WITH     170806
- INCREMENT BY   1;
-
----------------------------------------------------------------------------------------
-
-CREATE SEQUENCE wSampleStation_seq
- START WITH     10300
- INCREMENT BY   1;
-
----------------------------------------------------------------------------------------
-
-CREATE SEQUENCE wCasing_seq
- START WITH     14896
- INCREMENT BY   1;
-
----------------------------------------------------------------------------------------
-
-CREATE SEQUENCE wNetworkStructure_seq
- START WITH     10076
- INCREMENT BY   1;
 
 --Reclaimed Water----------------------------------------------------------------------
 ---------------------------------------------------------------------------------------

@@ -272,9 +272,6 @@ today=time.strftime("%Y%m%d", time.localtime())
 LogMessage("")
 LogMessage("********  START OF AUTOID.py  **********")
 
-
-
-
 # #
 # # Sewer
 # #
