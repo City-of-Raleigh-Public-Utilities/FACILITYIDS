@@ -37,6 +37,18 @@ wDict = {
 	'RPUD.wServiceConnection': "wServiceConnection_seq",
 	'RPUD.wSystemValve': "wSystemValve_seq"}
 
+rDict = {
+	'RPUD.rCasing': "rCasing_seq",
+	'RPUD.rControlValve': "rControlValve_seq",
+	'RPUD.rFitting': "rFitting_seq",
+	'RPUD.rHydrant': "rHydrant_seq",
+	'RPUD.rLateralLine': "rLateralLine_seq",
+	'RPUD.rNetworkStructure': "rNetworkStructure_seq",
+	'RPUD.rPressureMain': "rPressureMain_seq",
+	'RPUD.rSamplingStation': "rSampleStation_seq",
+	'RPUD.rServiceConnection': "rServiceConnection_seq",
+	'RPUD.rSystemValve': "rSystemValve_seq"}
+
 #find the current max number and update the next largest number in sequence
 def updateSeq(fc, seq, lyr, whereClause = "FACILITYID IS NOT NULL AND FACILITYID NOT LIKE '___9%' AND FACILITYID NOT LIKE '____9%'"):
 	arcpy.MakeFeatureLayer_management(fc, lyr)
@@ -45,7 +57,9 @@ def updateSeq(fc, seq, lyr, whereClause = "FACILITYID IS NOT NULL AND FACILITYID
 	if row == None:
 		del rows
 		del row
-		return
+		line = "\nCREATE SEQUENCE {0}\n START WITH     {1}\n INCREMENT BY   1;".format(seq, 1)
+		line += "\n\n---------------------------------------------------------------------------------------\n"
+		return line
 	maxID = row.getValue("FACILITYID")
 	match = re.match(r"([a-z]+)([0-9]+)", maxID, re.I)
 	if match:
@@ -65,5 +79,8 @@ with open(sqlFile, "wb") as fo:
 	fo.write("--Water--------------------------------------------------------------------------------\n---------------------------------------------------------------------------------------\n")
 	for key, value in wDict.iteritems():
 		fo.write(updateSeq(key, value, str(key) + "1"))	
-	fo.close()
+	fo.write("--Reuse--------------------------------------------------------------------------------\n---------------------------------------------------------------------------------------\n")
+	for key, value in rDict.iteritems():
+		fo.write(updateSeq(key, value, str(key) + "1"))	
+fo.close()
 

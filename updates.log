@@ -2137,3 +2137,60 @@
 2016-07-18 21:33:44,980 RPUD.wCasing Editor Tracking Enabled
 2016-07-18 21:33:44,980 ********  STOP OF AUTOID.py  **********
 2016-07-18 21:33:44,980 
+2016-08-02 11:48:07,477 
+2016-08-02 11:48:07,536 ********  START OF AUTOID.py  **********
+2016-08-02 11:48:07,536 Updating IDs for RPUD.rCasing
+2016-08-02 11:48:24,542 RPUD.rCasing Editor Tracking Disabled
+2016-08-02 11:48:25,776 MAX ID = RCAS10046
+2016-08-02 11:53:09,252 
+2016-08-02 11:53:09,252 ********  START OF AUTOID.py  **********
+2016-08-02 11:53:09,252 Updating IDs for RPUD.rCasing
+2016-08-02 11:53:14,976 RPUD.rCasing Editor Tracking Disabled
+2016-08-02 11:53:15,647 MAX ID = RCAS10046
+2016-08-02 11:53:16,713 Features updated = 0
+2016-08-02 11:53:17,660 RPUD.rCasing Editor Tracking Enabled
+2016-08-02 11:53:17,660 Updating IDs for RPUD.rControlValve
+2016-08-02 11:53:18,289 RPUD.rControlValve Editor Tracking Disabled
+2016-08-02 11:53:18,770 MAX ID = RCV10075
+2016-08-02 11:53:19,328 Features updated = 36
+2016-08-02 11:53:19,911 RPUD.rControlValve Editor Tracking Enabled
+2016-08-02 11:53:19,911 Updating IDs for RPUD.rFitting
+2016-08-02 11:53:20,490 RPUD.rFitting Editor Tracking Disabled
+2016-08-02 11:53:20,831 MAX ID = RFIT100345
+2016-08-02 11:53:26,071 Features updated = 1371
+2016-08-02 11:53:26,729 RPUD.rFitting Editor Tracking Enabled
+2016-08-02 11:53:26,729 Updating IDs for RPUD.rHydrant
+2016-08-02 11:53:27,273 RPUD.rHydrant Editor Tracking Disabled
+2016-08-02 11:53:27,569 MAX ID = RHYD10002
+2016-08-02 11:53:27,742 Features updated = 0
+2016-08-02 11:53:28,339 RPUD.rHydrant Editor Tracking Enabled
+2016-08-02 11:53:28,339 Updating IDs for RPUD.rLateralLine
+2016-08-02 11:53:28,858 RPUD.rLateralLine Editor Tracking Disabled
+2016-08-02 11:53:30,280 MAX ID = RLAT100018
+2016-08-02 11:53:34,529 Features updated = 1143
+2016-08-02 11:53:35,308 RPUD.rLateralLine Editor Tracking Enabled
+2016-08-02 11:53:35,309 Updating IDs for RPUD.rNetworkStructure
+2016-08-02 11:53:35,874 RPUD.rNetworkStructure Editor Tracking Disabled
+2016-08-02 11:53:36,153 MAX ID = RNS1005
+2016-08-02 11:53:36,394 Features updated = 1
+2016-08-02 11:53:37,035 RPUD.rNetworkStructure Editor Tracking Enabled
+2016-08-02 11:53:37,035 Updating IDs for RPUD.rPressureMain
+2016-08-02 11:53:37,601 RPUD.rPressureMain Editor Tracking Disabled
+2016-08-02 11:53:37,936 MAX ID = RMN100307
+2016-08-02 11:53:39,301 Features updated = 333
+2016-08-02 11:53:39,921 RPUD.rPressureMain Editor Tracking Enabled
+2016-08-02 11:53:39,921 Updating IDs for RPUD.rSamplingStation
+2016-08-02 11:53:40,467 RPUD.rSamplingStation Editor Tracking Disabled
+2016-08-02 11:53:40,668 No valid maximum FACILITYID found.  Canceling update.
+2016-08-02 11:53:40,668 Updating IDs for RPUD.rServiceConnection
+2016-08-02 11:53:41,207 RPUD.rServiceConnection Editor Tracking Disabled
+2016-08-02 11:53:41,493 MAX ID = RSC100010
+2016-08-02 11:53:41,783 Features updated = 21
+2016-08-02 11:53:42,421 RPUD.rServiceConnection Editor Tracking Enabled
+2016-08-02 11:53:42,421 Updating IDs for RPUD.rSystemValve
+2016-08-02 11:53:43,038 RPUD.rSystemValve Editor Tracking Disabled
+2016-08-02 11:53:43,374 MAX ID = RSV100148
+2016-08-02 11:53:43,933 Features updated = 94
+2016-08-02 11:53:44,651 RPUD.rSystemValve Editor Tracking Enabled
+2016-08-02 11:53:44,651 ********  STOP OF AUTOID.py  **********
+2016-08-02 11:53:44,651 
