@@ -275,25 +275,25 @@ LogMessage("********  START OF AUTOID.py  **********")
 # #
 # # Sewer
 # #
-# UpdateFACILITYID("RPUD.ssCleanOut", "ssCleanOuts1")
-# UpdateFACILITYID("RPUD.ssSystemValve", "ssSystemValve1")
-# UpdateFACILITYID("RPUD.ssControlValve", "ssControlValves1")
-# UpdateFACILITYID("RPUD.ssFitting", "ssFittings1")
-# UpdateFACILITYID("RPUD.ssForceMain", "ssForceMains1")
-# UpdateFACILITYID("RPUD.ssGravityMain", "ssGravityMains1")
-# UpdateFACILITYID("RPUD.ssLateralLine", "ssLateralLines1")
-# UpdateFACILITYID("RPUD.ssAerial", "ssAerials1")
-# UpdateFACILITYID("RPUD.ssSystemValve", "ssSystemValve1")
-# UpdateFACILITYID("RPUD.ssGreaseTrap", "ssGreaseTrap1")
-# UpdateFACILITYID("RPUD.ssNetworkStructure", "ssNetworkStructure1")
-# UpdateFACILITYID("RPUD.ssCasing", "ssCasing1")
+UpdateFACILITYID("RPUD.ssCleanOut", "ssCleanOuts1")
+UpdateFACILITYID("RPUD.ssSystemValve", "ssSystemValve1")
+UpdateFACILITYID("RPUD.ssControlValve", "ssControlValves1")
+UpdateFACILITYID("RPUD.ssFitting", "ssFittings1")
+UpdateFACILITYID("RPUD.ssForceMain", "ssForceMains1")
+UpdateFACILITYID("RPUD.ssGravityMain", "ssGravityMains1")
+UpdateFACILITYID("RPUD.ssLateralLine", "ssLateralLines1")
+UpdateFACILITYID("RPUD.ssAerial", "ssAerials1")
+UpdateFACILITYID("RPUD.ssSystemValve", "ssSystemValve1")
+UpdateFACILITYID("RPUD.ssGreaseTrap", "ssGreaseTrap1")
+UpdateFACILITYID("RPUD.ssNetworkStructure", "ssNetworkStructure1")
+UpdateFACILITYID("RPUD.ssCasing", "ssCasing1")
 
 
 
-# # # # #
+# # # #
 
-# UpdateFACILITYID("RPUD.ssManhole", "ssManholes1")
-# UpdateMHNumbers("RPUD.ssGravityMain","RPUD.ssManhole")
+UpdateFACILITYID("RPUD.ssManhole", "ssManholes1")
+UpdateMHNumbers("RPUD.ssGravityMain","RPUD.ssManhole")
 
 
 

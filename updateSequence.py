@@ -57,7 +57,8 @@ def updateSeq(fc, seq, lyr, whereClause = "FACILITYID IS NOT NULL AND FACILITYID
 	if row == None:
 		del rows
 		del row
-		line = "\nCREATE SEQUENCE {0}\n START WITH     {1}\n INCREMENT BY   1;".format(seq, 1)
+		line = "\nDROP SEQUENCE {};\n".format(seq)
+		line += "\nCREATE SEQUENCE {0}\n START WITH     {1}\n INCREMENT BY   1;".format(seq, 1)
 		line += "\n\n---------------------------------------------------------------------------------------\n"
 		return line
 	maxID = row.getValue("FACILITYID")
@@ -65,7 +66,8 @@ def updateSeq(fc, seq, lyr, whereClause = "FACILITYID IS NOT NULL AND FACILITYID
 	if match:
 		items = match.groups()
 		newID = int(items[1]) + 1
-		line = "\nCREATE SEQUENCE {0}\n START WITH     {1}\n INCREMENT BY   1;".format(seq, newID)
+		line = "\nDROP SEQUENCE {};\n".format(seq)
+		line += "\nCREATE SEQUENCE {0}\n START WITH     {1}\n INCREMENT BY   1;".format(seq, newID)
 		line += "\n\n---------------------------------------------------------------------------------------\n"
 		print line
 	del rows
