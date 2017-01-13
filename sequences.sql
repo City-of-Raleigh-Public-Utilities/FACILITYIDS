@@ -4,7 +4,7 @@
 DROP SEQUENCE ssSystemValve_seq;
 
 CREATE SEQUENCE ssSystemValve_seq
- START WITH     11005
+ START WITH     11028
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -12,7 +12,7 @@ CREATE SEQUENCE ssSystemValve_seq
 DROP SEQUENCE ssCleanout_seq;
 
 CREATE SEQUENCE ssCleanout_seq
- START WITH     168213
+ START WITH     169536
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -20,7 +20,7 @@ CREATE SEQUENCE ssCleanout_seq
 DROP SEQUENCE ssManhole_seq;
 
 CREATE SEQUENCE ssManhole_seq
- START WITH     184349
+ START WITH     184965
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -28,7 +28,7 @@ CREATE SEQUENCE ssManhole_seq
 DROP SEQUENCE ssNetworkStructure_seq;
 
 CREATE SEQUENCE ssNetworkStructure_seq
- START WITH     1322
+ START WITH     1323
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -36,7 +36,7 @@ CREATE SEQUENCE ssNetworkStructure_seq
 DROP SEQUENCE ssGreaseTrap_seq;
 
 CREATE SEQUENCE ssGreaseTrap_seq
- START WITH     14675
+ START WITH     14738
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -44,7 +44,7 @@ CREATE SEQUENCE ssGreaseTrap_seq
 DROP SEQUENCE ssLateralLine_seq;
 
 CREATE SEQUENCE ssLateralLine_seq
- START WITH     171509
+ START WITH     172820
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -52,7 +52,7 @@ CREATE SEQUENCE ssLateralLine_seq
 DROP SEQUENCE ssGravityMain_seq;
 
 CREATE SEQUENCE ssGravityMain_seq
- START WITH     188777
+ START WITH     189468
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ CREATE SEQUENCE ssGravityMain_seq
 DROP SEQUENCE ssForceMain_seq;
 
 CREATE SEQUENCE ssForceMain_seq
- START WITH     14274
+ START WITH     14275
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ CREATE SEQUENCE ssForceMain_seq
 DROP SEQUENCE ssFitting_seq;
 
 CREATE SEQUENCE ssFitting_seq
- START WITH     153060
+ START WITH     153831
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -76,7 +76,7 @@ CREATE SEQUENCE ssFitting_seq
 DROP SEQUENCE ssControlValve_seq;
 
 CREATE SEQUENCE ssControlValve_seq
- START WITH     10892
+ START WITH     10915
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -84,7 +84,7 @@ CREATE SEQUENCE ssControlValve_seq
 DROP SEQUENCE ssCasing_seq;
 
 CREATE SEQUENCE ssCasing_seq
- START WITH     13962
+ START WITH     14004
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -92,7 +92,7 @@ CREATE SEQUENCE ssCasing_seq
 DROP SEQUENCE ssAerial_seq;
 
 CREATE SEQUENCE ssAerial_seq
- START WITH     11929
+ START WITH     11930
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -102,7 +102,7 @@ CREATE SEQUENCE ssAerial_seq
 DROP SEQUENCE wSystemValve_seq;
 
 CREATE SEQUENCE wSystemValve_seq
- START WITH     222239
+ START WITH     225245
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -110,7 +110,7 @@ CREATE SEQUENCE wSystemValve_seq
 DROP SEQUENCE wControlValve_seq;
 
 CREATE SEQUENCE wControlValve_seq
- START WITH     264224
+ START WITH     264280
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -118,7 +118,7 @@ CREATE SEQUENCE wControlValve_seq
 DROP SEQUENCE wPressureMain_seq;
 
 CREATE SEQUENCE wPressureMain_seq
- START WITH     257906
+ START WITH     260851
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -126,7 +126,7 @@ CREATE SEQUENCE wPressureMain_seq
 DROP SEQUENCE wHydrant_seq;
 
 CREATE SEQUENCE wHydrant_seq
- START WITH     171023
+ START WITH     171252
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -142,7 +142,7 @@ CREATE SEQUENCE wSampleStation_seq
 DROP SEQUENCE wServiceConnection_seq;
 
 CREATE SEQUENCE wServiceConnection_seq
- START WITH     442597
+ START WITH     442665
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -150,7 +150,7 @@ CREATE SEQUENCE wServiceConnection_seq
 DROP SEQUENCE wFitting_seq;
 
 CREATE SEQUENCE wFitting_seq
- START WITH     279201
+ START WITH     282846
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -166,7 +166,7 @@ CREATE SEQUENCE wGravityMain_seq
 DROP SEQUENCE wNetworkStructure_seq;
 
 CREATE SEQUENCE wNetworkStructure_seq
- START WITH     10076
+ START WITH     10078
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -174,7 +174,7 @@ CREATE SEQUENCE wNetworkStructure_seq
 DROP SEQUENCE wLateralLine_seq;
 
 CREATE SEQUENCE wLateralLine_seq
- START WITH     260140
+ START WITH     264326
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -182,7 +182,7 @@ CREATE SEQUENCE wLateralLine_seq
 DROP SEQUENCE wCasing_seq;
 
 CREATE SEQUENCE wCasing_seq
- START WITH     14968
+ START WITH     15030
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -200,7 +200,7 @@ CREATE SEQUENCE rCasing_seq
 DROP SEQUENCE rPressureMain_seq;
 
 CREATE SEQUENCE rPressureMain_seq
- START WITH     100665
+ START WITH     100666
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -216,7 +216,7 @@ CREATE SEQUENCE rNetworkStructure_seq
 DROP SEQUENCE rFitting_seq;
 
 CREATE SEQUENCE rFitting_seq
- START WITH     101789
+ START WITH     101790
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -232,7 +232,7 @@ CREATE SEQUENCE rServiceConnection_seq
 DROP SEQUENCE rHydrant_seq;
 
 CREATE SEQUENCE rHydrant_seq
- START WITH     10003
+ START WITH     10017
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------
@@ -256,7 +256,7 @@ CREATE SEQUENCE rControlValve_seq
 DROP SEQUENCE rLateralLine_seq;
 
 CREATE SEQUENCE rLateralLine_seq
- START WITH     101244
+ START WITH     101247
  INCREMENT BY   1;
 
 ---------------------------------------------------------------------------------------

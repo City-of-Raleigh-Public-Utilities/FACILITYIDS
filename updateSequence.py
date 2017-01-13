@@ -3,7 +3,7 @@
 import arcpy, os, sys, re
 
 arcpy.env.overwriteOutpu = True
-workspace = os.path.join(os.path.dirname(sys.argv[0]), "RPUD_TESTDB.sde")
+workspace = "Database Connections/RPUD_TRANSDB.sde"
 
 arcpy.env.workspace = workspace
 #output sql file
