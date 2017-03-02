@@ -12,7 +12,6 @@
 
 # Import system modules
 import arcpy
-# Import system modules
 import math, sys, string, os, time, shutil, re
 import logging
 
@@ -20,23 +19,19 @@ arcpy.env.overwriteOutput = True
 
 logging.basicConfig(filename=os.path.join(os.path.dirname(sys.argv[0]),'updates.log'),level=logging.INFO, format='%(asctime)s %(message)s')
 arcpy.env.workspace = "Database Connections/RPUD_TRANSDB.sde"
+
 # these message go to standard output.
-def LogMessage( message ):
+def LogMessage(message):
     print time.strftime("%Y-%m-%dT%H:%M:%S ", time.localtime()) + message
     logging.warning(message)
     return
-
-
-
-#
-#
-#
+# enable or disable editor tracking
 def turnOffEditorTracking(feature_class):
     arcpy.DisableEditorTracking_management(feature_class)
 def enableEditorTarcking(feature_class):
     arcpy.EnableEditorTracking_management(feature_class, 'CREATEDBY', 'CREATEDON', 'EDITEDBY', 'EDITEDON', 'NO_ADD_FIELDS')
 
-#Selects features that are not null and not in the 900000 block of facility id
+# Selects features that are not null and not in the 900000 block of facility id
 def UpdateFACILITYID(fc, layerName, whereClause="FACILITYID IS NOT NULL AND FACILITYID NOT LIKE '___9%' AND FACILITYID NOT LIKE '____9%'"):
 
     LogMessage("Updating IDs for " + fc)
@@ -121,8 +116,6 @@ def UpdateFACILITYID(fc, layerName, whereClause="FACILITYID IS NOT NULL AND FACI
     # arcpy.ChangeVersion_management(layerName, "TRANSACTIONAL", "PUBLICWORKS.AUTOIDX", "")
     return
 
-
-#
 #
 def UpdateMHNumbers(mainsfc, mhsfc):
 
@@ -260,8 +253,10 @@ def distance(fromX, fromY, toX, toY):
     #print dist
     return dist
 
+    
+##################################################################################################
 ##
-## MAIN
+## MAIN - script starts here
 ##
 
 # Local Variables
@@ -272,6 +267,9 @@ today=time.strftime("%Y%m%d", time.localtime())
 LogMessage("")
 LogMessage("********  START OF AUTOID.py  **********")
 
+######################################################
+# Uncomment one or more feature classes below to run #
+######################################################
 # #
 # # Sewer
 # #
@@ -288,13 +286,10 @@ LogMessage("********  START OF AUTOID.py  **********")
 # UpdateFACILITYID("RPUD.ssNetworkStructure", "ssNetworkStructure1")
 # UpdateFACILITYID("RPUD.ssCasing", "ssCasing1")
 
-
-
-# # # # #
+# # # # # #
 
 # UpdateFACILITYID("RPUD.ssManhole", "ssManholes1")
 # UpdateMHNumbers("RPUD.ssGravityMain","RPUD.ssManhole")
-
 
 
 # #
@@ -307,26 +302,35 @@ LogMessage("********  START OF AUTOID.py  **********")
 # UpdateFACILITYID("RPUD.wServiceConnection", "wServiceConnections1")
 # UpdateFACILITYID("RPUD.wSystemValve", "wSystemValves1")
 # UpdateFACILITYID("RPUD.wPressureMain", "wPressureMains1")
-UpdateFACILITYID("RPUD.wHydrant", "wHydrants1")
-UpdateFACILITYID("RPUD.wSamplingStation", "wSamplingStations1")
-UpdateFACILITYID("RPUD.wCasing", "wCasing1")
-UpdateFACILITYID("RPUD.wNetworkStructure", "wNetworkStructure1")
+# UpdateFACILITYID("RPUD.wHydrant", "wHydrants1")
+# UpdateFACILITYID("RPUD.wSamplingStation", "wSamplingStations1")
+# UpdateFACILITYID("RPUD.wCasing", "wCasing1")
+# UpdateFACILITYID("RPUD.wNetworkStructure", "wNetworkStructure1")
 
+# #
 # #Reuse
+# #
 # UpdateFACILITYID("RPUD.rCasing", "rCasing1")
 # UpdateFACILITYID("RPUD.rControlValve", "rControlValve1")
-UpdateFACILITYID("RPUD.rFitting", "rFitting1")
+# UpdateFACILITYID("RPUD.rFitting", "rFitting1")
 # UpdateFACILITYID("RPUD.rHydrant", "rHydrant1")
-UpdateFACILITYID("RPUD.rLateralLine", "rLateralLine1")
+# UpdateFACILITYID("RPUD.rLateralLine", "rLateralLine1")
 # UpdateFACILITYID("RPUD.rNetworkStructure", "rNetworkStructure1")
-UpdateFACILITYID("RPUD.rPressureMain", "rPressureMain1")
-UpdateFACILITYID("RPUD.rSamplingStation", "rSamplingStation1")
+# UpdateFACILITYID("RPUD.rPressureMain", "rPressureMain1")
+# UpdateFACILITYID("RPUD.rSamplingStation", "rSamplingStation1")
 # UpdateFACILITYID("RPUD.rServiceConnection", "rServiceConnection")
 # UpdateFACILITYID("RPUD.rSystemValve", "rSystemValve1")
 
-#PU_Boundaries
-
+# #
+# #PU_Boundaries
+# #
 # UpdateFACILITYID("RPUD.EasementMaintenanceAreas", "emas")
+
+
+# #
+# #FOG
+# #
+UpdateFACILITYID("RPUD.FOG", "fog")
 
 LogMessage("********  STOP OF AUTOID.py  **********")
 LogMessage("")

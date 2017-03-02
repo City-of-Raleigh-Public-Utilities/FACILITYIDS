@@ -1,3 +1,6 @@
+# This sql script is used to create or recreate triggers for utilities feature
+# make sure the delta table number is correct when running the script in sqldeveloper worksheet
+
 --Sewer--------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
@@ -377,7 +380,7 @@ CREATE OR REPLACE TRIGGER RPUD.rSystemValve_facilityid
 ---Project Tracking--------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
-create or replace TRIGGER RPUD.project_tracking_PROJECTID
+CREATE OR REPLACE TRIGGER RPUD.project_tracking_PROJECTID
  BEFORE INSERT ON RPUD.A438381
  FOR EACH ROW
  BEGIN
@@ -386,5 +389,16 @@ create or replace TRIGGER RPUD.project_tracking_PROJECTID
    END IF;
  END;
 
-
+---FOG---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+CREATE OR REPLACE TRIGGER RPUD.ssFOG_facilityid
+ BEFORE INSERT ON RPUD.A444797
+ FOR EACH ROW 
+ BEGIN
+  IF (:new.CREATEDON = :new.EDITEDON) THEN
+   SELECT CONCAT('FOG', ssFOG_seq.nextval) INTO :new.FACILITYID FROM DUAL;
+  END IF;
+END;
+/
 

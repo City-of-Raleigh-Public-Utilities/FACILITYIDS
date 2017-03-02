@@ -1,4 +1,5 @@
-#Use this script to update sequence.sql
+#Use this script to update sequence.sql after running AutoID.py or after creating any FacilityID not using a trigger
+
 
 import arcpy, os, sys, re
 
@@ -49,7 +50,7 @@ rDict = {
 	'RPUD.rServiceConnection': "rServiceConnection_seq",
 	'RPUD.rSystemValve': "rSystemValve_seq"}
 
-#find the current max number and update the next largest number in sequence
+#find the current max number and update sequence with the next number
 def updateSeq(fc, seq, lyr, whereClause = "FACILITYID IS NOT NULL AND FACILITYID NOT LIKE '___9%' AND FACILITYID NOT LIKE '____9%'"):
 	arcpy.MakeFeatureLayer_management(fc, lyr)
 	rows = arcpy.SearchCursor(lyr, whereClause, "", "", "FACILITYID D")
